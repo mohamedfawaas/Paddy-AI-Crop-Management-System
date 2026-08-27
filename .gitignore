@@ -1,0 +1,65 @@
+# =========================
+# Paddy AI - Git Ignore
+# =========================
+
+# Environment / Secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+node_modules/
+dist/
+
+# Java / Spring Boot
+backend/target/
+target/
+*.class
+*.jar
+*.war
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+venv/
+.venv/
+env/
+ml-module/venv/
+ml-module/.venv/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Test cache
+.coverage
+htmlcov/
+
+# Local database/runtime files
+*.sqlite
+*.db
+
+# Optional generated reports
+generated-reports/

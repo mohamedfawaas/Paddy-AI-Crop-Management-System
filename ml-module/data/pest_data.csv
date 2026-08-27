@@ -1,0 +1,4001 @@
+temperature,humidity,rainfall_7d_mm,growth_stage,likely_pest,risk_score,risk_level
+33.5,80.1,67.1,Ripening,Rice Bug,0.948,High
+26.8,55.0,107.7,Tillering,Stem Borer,0.769,High
+35.2,89.6,33.4,Flowering,Rice Bug,1.0,High
+31.9,46.9,3.1,Vegetative,Stem Borer,0.551,Medium
+19.9,67.7,93.1,Ripening,Rice Bug,0.766,High
+37.5,42.9,84.3,Seedling,Rice Bug,0.357,Low
+33.2,64.7,65.5,Vegetative,Stem Borer,0.477,Medium
+33.7,40.7,97.8,Ripening,Rice Bug,0.724,High
+20.6,41.3,100.8,Tillering,Rice Blast Risk,0.514,Medium
+27.0,72.9,70.5,Seedling,Stem Borer,0.705,High
+25.4,48.5,115.9,Tillering,Leaf Folder,0.642,Medium
+36.5,42.1,86.4,Vegetative,Stem Borer,0.46,Medium
+30.9,95.1,81.2,Tillering,Stem Borer,1.0,High
+34.5,33.0,43.4,Vegetative,Stem Borer,0.315,Low
+26.9,69.6,0.3,Vegetative,Leaf Folder,0.673,Medium
+22.5,68.4,28.9,Ripening,Rice Bug,0.741,High
+29.1,47.5,91.7,Seedling,Stem Borer,0.402,Low
+19.3,61.7,85.2,Flowering,Rice Bug,0.512,Medium
+34.6,36.1,39.7,Seedling,Rice Bug,0.31,Low
+30.6,80.5,75.1,Tillering,Stem Borer,1.0,High
+33.2,45.5,23.4,Flowering,Rice Bug,0.713,High
+25.1,43.5,31.6,Ripening,Rice Blast Risk,0.547,Medium
+37.4,52.0,113.7,Vegetative,Stem Borer,0.378,Low
+35.9,93.2,49.6,Seedling,Rice Blast Risk,0.566,Medium
+33.6,85.8,29.4,Flowering,Rice Bug,0.995,High
+21.9,96.3,58.5,Ripening,Rice Blast Risk,1.0,High
+27.3,75.6,46.4,Tillering,Leaf Folder,0.914,High
+18.9,76.4,87.5,Seedling,Stem Borer,0.399,Low
+21.1,63.6,115.5,Tillering,Rice Blast Risk,0.547,Medium
+31.7,93.4,71.0,Vegetative,Stem Borer,1.0,High
+32.9,65.8,70.9,Tillering,Rice Bug,0.452,Medium
+37.4,54.9,43.8,Seedling,Rice Bug,0.179,Low
+24.5,74.8,67.8,Vegetative,Stem Borer,0.631,Medium
+25.4,68.2,38.3,Ripening,Rice Bug,0.817,High
+27.4,38.7,0.1,Seedling,Brown Planthopper,0.351,Low
+21.8,57.5,103.9,Ripening,Rice Blast Risk,0.525,Medium
+20.6,51.9,51.5,Tillering,Rice Blast Risk,0.655,Medium
+27.5,89.3,59.1,Tillering,Leaf Folder,0.963,High
+22.5,56.5,10.0,Ripening,Rice Bug,0.517,Medium
+31.4,87.5,100.5,Vegetative,Stem Borer,1.0,High
+26.7,61.0,20.4,Ripening,Rice Bug,0.551,Medium
+34.7,82.7,49.3,Vegetative,Stem Borer,0.633,Medium
+32.0,39.5,100.8,Vegetative,Stem Borer,0.364,Low
+24.2,94.7,54.9,Tillering,Leaf Folder,1.0,High
+34.6,63.6,111.7,Flowering,Rice Bug,0.846,High
+34.1,48.2,25.1,Vegetative,Stem Borer,0.362,Low
+25.7,46.9,85.8,Flowering,Rice Blast Risk,0.525,Medium
+23.8,48.6,117.4,Seedling,Rice Blast Risk,0.571,Medium
+31.6,55.7,66.0,Flowering,Rice Bug,0.781,High
+20.8,80.2,83.1,Flowering,Rice Bug,0.784,High
+22.0,96.5,47.2,Tillering,Rice Blast Risk,0.958,High
+18.1,76.8,90.2,Flowering,Rice Bug,0.723,High
+33.7,68.3,109.1,Flowering,Rice Bug,1.0,High
+31.3,61.4,84.4,Ripening,Rice Bug,0.813,High
+32.1,88.0,112.3,Vegetative,Stem Borer,0.688,High
+33.6,89.5,70.6,Tillering,Stem Borer,0.699,High
+27.2,50.5,69.3,Tillering,Stem Borer,0.649,Medium
+29.4,96.7,36.6,Vegetative,Leaf Folder,1.0,High
+20.8,57.7,85.2,Ripening,Rice Blast Risk,0.558,Medium
+20.3,86.0,105.8,Tillering,Rice Blast Risk,1.0,High
+31.4,97.7,77.6,Tillering,Stem Borer,1.0,High
+27.4,79.3,28.0,Seedling,Stem Borer,0.704,High
+29.3,41.3,65.3,Tillering,Stem Borer,0.625,Medium
+33.3,71.0,90.7,Flowering,Rice Bug,0.892,High
+30.7,38.3,112.7,Tillering,Stem Borer,0.763,High
+29.1,85.2,18.8,Flowering,Rice Bug,1.0,High
+29.2,49.7,15.3,Seedling,Brown Planthopper,0.41,Low
+24.1,78.7,49.6,Seedling,Leaf Folder,0.588,Medium
+18.6,93.7,15.1,Vegetative,Brown Planthopper,0.655,Medium
+26.7,42.7,117.7,Vegetative,Stem Borer,0.753,High
+22.3,57.5,50.9,Ripening,Rice Blast Risk,0.637,Medium
+26.2,75.3,64.0,Ripening,Rice Bug,0.719,High
+35.1,59.4,27.3,Tillering,Stem Borer,0.434,Medium
+22.7,42.2,53.9,Tillering,Rice Blast Risk,0.56,Medium
+19.2,32.0,118.2,Vegetative,Stem Borer,0.394,Low
+23.6,58.5,58.6,Tillering,Rice Blast Risk,0.643,Medium
+23.9,75.4,1.1,Flowering,Rice Bug,0.727,High
+31.2,70.2,29.1,Flowering,Rice Bug,1.0,High
+29.1,40.9,117.4,Ripening,Rice Bug,0.769,High
+33.7,61.5,118.7,Tillering,Stem Borer,0.399,Low
+31.3,55.9,25.3,Vegetative,Stem Borer,0.769,High
+26.1,49.2,73.8,Seedling,Rice Blast Risk,0.565,Medium
+34.3,81.0,9.2,Flowering,Rice Bug,0.995,High
+21.3,51.7,69.3,Ripening,Rice Blast Risk,0.619,Medium
+18.5,67.8,15.1,Tillering,Leaf Folder,0.412,Low
+19.8,94.6,98.2,Ripening,Rice Bug,0.81,High
+32.4,67.7,112.7,Vegetative,Rice Bug,0.306,Low
+27.2,73.2,20.8,Seedling,Stem Borer,0.722,High
+21.2,35.1,55.5,Flowering,Rice Blast Risk,0.561,Medium
+28.0,42.5,12.2,Seedling,Brown Planthopper,0.398,Low
+21.0,37.1,40.7,Seedling,Rice Blast Risk,0.58,Medium
+31.9,83.5,7.8,Flowering,Rice Bug,1.0,High
+26.9,88.5,31.7,Tillering,Leaf Folder,1.0,High
+25.6,43.1,118.8,Flowering,Rice Blast Risk,0.537,Medium
+24.0,45.3,5.4,Flowering,Rice Bug,0.575,Medium
+30.6,52.6,103.1,Vegetative,Stem Borer,0.739,High
+25.2,71.4,9.3,Flowering,Rice Bug,0.777,High
+19.8,73.5,63.5,Tillering,Stem Borer,0.725,High
+20.4,78.1,54.3,Tillering,Stem Borer,0.758,High
+37.2,93.4,111.8,Flowering,Rice Bug,1.0,High
+36.2,50.7,23.9,Vegetative,Stem Borer,0.394,Low
+32.0,76.1,21.6,Tillering,Stem Borer,1.0,High
+23.3,69.2,89.8,Tillering,Rice Blast Risk,0.559,Medium
+37.4,51.4,87.1,Seedling,Rice Bug,0.346,Low
+33.6,93.5,83.9,Vegetative,Stem Borer,0.755,High
+32.3,36.7,3.1,Seedling,Rice Bug,0.219,Low
+27.0,79.8,31.2,Seedling,Stem Borer,0.817,High
+23.4,81.0,100.8,Tillering,Stem Borer,0.595,Medium
+19.9,94.1,72.1,Ripening,Rice Bug,0.782,High
+36.1,66.3,72.3,Ripening,Rice Bug,0.965,High
+27.1,52.5,35.5,Flowering,Rice Bug,0.844,High
+22.0,87.9,31.2,Tillering,Rice Blast Risk,1.0,High
+24.1,84.0,113.6,Vegetative,Leaf Folder,0.96,High
+29.6,65.0,87.3,Vegetative,Stem Borer,0.687,High
+21.5,83.8,15.2,Flowering,Rice Bug,0.714,High
+35.1,48.8,112.5,Ripening,Rice Bug,0.735,High
+33.2,71.3,69.9,Ripening,Rice Bug,0.984,High
+32.4,90.6,40.0,Vegetative,Stem Borer,0.662,Medium
+26.6,52.3,47.7,Tillering,Stem Borer,0.714,High
+30.5,63.8,87.0,Tillering,Stem Borer,0.72,High
+29.7,96.6,45.2,Seedling,Brown Planthopper,0.65,Medium
+31.0,85.9,69.4,Seedling,Stem Borer,0.617,Medium
+19.7,92.1,85.3,Seedling,Rice Blast Risk,0.666,Medium
+26.3,57.0,23.4,Flowering,Brown Planthopper,0.627,Medium
+18.8,99.8,113.3,Vegetative,Stem Borer,0.737,High
+27.9,40.7,42.7,Flowering,Rice Bug,0.778,High
+24.6,66.3,50.3,Vegetative,Leaf Folder,0.729,High
+20.9,63.5,83.8,Flowering,Rice Blast Risk,0.6,Medium
+20.1,85.9,73.1,Seedling,Rice Blast Risk,1.0,High
+29.8,93.6,52.8,Vegetative,Leaf Folder,1.0,High
+21.4,81.2,78.0,Vegetative,Stem Borer,0.612,Medium
+36.5,73.9,108.3,Tillering,Stem Borer,0.59,Medium
+29.6,59.9,96.0,Tillering,Stem Borer,0.7,High
+24.9,65.7,98.9,Seedling,Rice Blast Risk,0.575,Medium
+29.8,65.7,31.0,Flowering,Rice Bug,0.996,High
+18.5,31.4,50.3,Ripening,Rice Bug,0.535,Medium
+37.2,65.2,66.5,Seedling,Rice Bug,0.486,Medium
+27.6,89.9,5.3,Seedling,Rice Blast Risk,0.765,High
+33.7,79.6,92.4,Ripening,Rice Bug,0.973,High
+19.7,85.7,38.8,Flowering,Rice Bug,0.74,High
+27.7,57.3,33.9,Ripening,Rice Bug,0.792,High
+27.8,67.0,31.1,Flowering,Rice Bug,0.976,High
+36.8,32.3,34.0,Flowering,Rice Bug,0.736,High
+29.4,56.8,40.6,Seedling,Stem Borer,0.429,Medium
+27.5,63.2,72.6,Tillering,Stem Borer,0.69,High
+23.3,47.9,70.0,Vegetative,Rice Blast Risk,0.606,Medium
+24.6,32.2,30.7,Ripening,Rice Blast Risk,0.504,Medium
+28.4,78.3,24.8,Seedling,Stem Borer,0.643,Medium
+26.8,60.5,99.2,Seedling,Rice Blast Risk,0.565,Medium
+18.4,59.1,11.1,Tillering,Leaf Folder,0.37,Low
+34.5,47.5,61.5,Ripening,Rice Bug,0.707,High
+35.9,67.6,62.5,Ripening,Rice Bug,1.0,High
+20.8,60.7,68.9,Tillering,Rice Blast Risk,0.646,Medium
+29.1,63.2,106.3,Tillering,Stem Borer,0.669,Medium
+20.2,70.7,74.9,Vegetative,Stem Borer,0.774,High
+31.4,30.4,116.8,Ripening,Rice Bug,0.631,Medium
+23.6,93.5,104.6,Seedling,Rice Blast Risk,1.0,High
+31.2,35.0,25.8,Seedling,Stem Borer,0.357,Low
+32.5,61.6,28.9,Tillering,Stem Borer,0.449,Medium
+33.4,44.5,41.4,Vegetative,Stem Borer,0.352,Low
+20.2,66.7,47.0,Tillering,Rice Blast Risk,0.547,Medium
+36.3,49.6,66.4,Ripening,Rice Bug,0.709,High
+22.6,90.2,27.9,Vegetative,Rice Blast Risk,0.789,High
+18.7,57.7,26.7,Ripening,Rice Bug,0.591,Medium
+29.1,74.7,45.8,Vegetative,Stem Borer,0.995,High
+25.4,47.4,80.6,Vegetative,Leaf Folder,0.756,High
+34.6,31.4,82.6,Seedling,Rice Bug,0.231,Low
+34.2,58.3,117.1,Flowering,Rice Bug,0.825,High
+24.3,67.6,24.3,Ripening,Rice Bug,0.669,Medium
+37.1,62.2,47.1,Ripening,Rice Bug,0.736,High
+23.8,97.3,115.8,Seedling,Rice Blast Risk,0.973,High
+28.3,79.5,82.8,Flowering,Rice Bug,1.0,High
+23.1,99.7,71.1,Seedling,Rice Blast Risk,1.0,High
+36.7,50.7,64.8,Flowering,Rice Bug,0.646,Medium
+21.3,85.2,9.1,Flowering,Rice Blast Risk,0.734,High
+18.9,68.9,107.2,Seedling,Rice Bug,0.199,Low
+26.7,72.8,75.1,Seedling,Stem Borer,0.747,High
+37.8,99.0,68.6,Seedling,Rice Blast Risk,0.69,High
+35.8,75.8,64.7,Flowering,Rice Bug,0.985,High
+33.0,92.9,47.0,Flowering,Rice Bug,0.973,High
+35.8,80.8,30.6,Seedling,Brown Planthopper,0.536,Medium
+35.9,38.9,90.6,Tillering,Stem Borer,0.344,Low
+28.4,79.0,61.1,Flowering,Rice Bug,1.0,High
+24.3,63.9,4.1,Vegetative,Leaf Folder,0.669,Medium
+33.4,94.3,47.9,Flowering,Rice Bug,0.986,High
+31.2,86.5,111.4,Vegetative,Stem Borer,1.0,High
+25.5,37.3,44.9,Vegetative,Leaf Folder,0.655,Medium
+19.9,39.4,49.6,Vegetative,Stem Borer,0.425,Medium
+32.9,34.9,74.9,Vegetative,Stem Borer,0.333,Low
+23.2,64.5,96.2,Tillering,Rice Blast Risk,0.581,Medium
+36.7,35.7,80.2,Vegetative,Stem Borer,0.451,Medium
+22.8,80.7,102.0,Vegetative,Stem Borer,0.716,High
+20.5,68.7,13.7,Flowering,Rice Bug,0.78,High
+34.6,88.5,111.0,Vegetative,Stem Borer,0.695,High
+21.1,49.6,108.5,Flowering,Rice Blast Risk,0.595,Medium
+21.6,66.3,62.3,Seedling,Rice Blast Risk,0.553,Medium
+30.0,38.2,75.0,Seedling,Stem Borer,0.343,Low
+35.5,91.9,25.5,Ripening,Rice Bug,1.0,High
+21.9,42.3,53.8,Tillering,Rice Blast Risk,0.468,Medium
+24.2,37.2,24.3,Flowering,Rice Bug,0.514,Medium
+33.5,44.4,2.6,Flowering,Rice Bug,0.731,High
+37.4,86.4,117.7,Seedling,Rice Blast Risk,0.628,Medium
+28.0,37.4,31.1,Ripening,Rice Bug,0.759,High
+20.9,73.0,71.2,Tillering,Stem Borer,0.665,Medium
+18.3,82.2,36.0,Ripening,Rice Bug,0.776,High
+22.6,82.6,44.5,Tillering,Stem Borer,0.703,High
+20.6,43.3,47.7,Tillering,Rice Blast Risk,0.519,Medium
+31.6,34.3,40.2,Flowering,Rice Bug,0.817,High
+20.4,61.4,76.5,Seedling,Rice Blast Risk,0.56,Medium
+28.1,44.2,115.3,Flowering,Rice Bug,0.782,High
+31.9,78.9,51.4,Ripening,Rice Bug,1.0,High
+29.6,55.0,116.8,Flowering,Rice Bug,0.82,High
+22.0,61.5,80.1,Seedling,Rice Blast Risk,0.579,Medium
+34.1,37.9,72.9,Flowering,Rice Bug,0.735,High
+32.3,69.7,28.5,Seedling,Rice Bug,0.429,Medium
+32.8,43.0,7.6,Seedling,Rice Bug,0.26,Low
+20.6,77.5,102.2,Vegetative,Stem Borer,0.755,High
+20.5,35.0,68.9,Vegetative,Rice Blast Risk,0.568,Medium
+36.6,98.3,49.7,Seedling,Rice Blast Risk,0.478,Medium
+26.0,77.9,97.4,Seedling,Leaf Folder,0.694,High
+24.0,42.7,37.3,Flowering,Rice Blast Risk,0.597,Medium
+27.8,31.0,94.0,Tillering,Stem Borer,0.685,High
+31.3,53.4,39.4,Seedling,Stem Borer,0.449,Medium
+37.1,40.7,110.5,Tillering,Stem Borer,0.431,Medium
+23.7,45.3,32.2,Flowering,Rice Blast Risk,0.516,Medium
+36.5,91.1,16.5,Flowering,Rice Bug,1.0,High
+18.5,72.2,83.8,Vegetative,Stem Borer,0.637,Medium
+29.1,42.4,19.5,Seedling,Brown Planthopper,0.397,Low
+30.7,69.0,113.9,Ripening,Rice Bug,0.992,High
+20.1,47.9,78.7,Flowering,Rice Blast Risk,0.509,Medium
+20.8,98.3,27.7,Ripening,Rice Blast Risk,0.815,High
+26.4,32.3,25.1,Vegetative,Stem Borer,0.766,High
+37.3,81.3,110.9,Seedling,Rice Bug,0.562,Medium
+29.9,84.1,72.9,Vegetative,Leaf Folder,1.0,High
+36.7,34.7,107.2,Vegetative,Stem Borer,0.315,Low
+34.1,42.0,13.2,Flowering,Rice Bug,0.683,High
+27.3,56.9,111.0,Flowering,Rice Bug,0.758,High
+33.7,90.8,62.4,Seedling,Rice Blast Risk,0.648,Medium
+18.4,67.6,80.2,Tillering,Stem Borer,0.375,Low
+20.2,75.9,44.7,Vegetative,Stem Borer,0.795,High
+34.6,84.8,7.1,Flowering,Rice Bug,1.0,High
+33.9,88.0,115.0,Vegetative,Stem Borer,0.727,High
+22.7,63.3,119.4,Tillering,Rice Blast Risk,0.599,Medium
+28.6,65.6,43.7,Flowering,Rice Bug,1.0,High
+30.1,80.3,113.3,Vegetative,Stem Borer,1.0,High
+35.4,48.4,20.1,Seedling,Rice Bug,0.203,Low
+30.1,89.8,18.6,Flowering,Rice Bug,0.97,High
+26.3,31.5,8.8,Ripening,Rice Bug,0.453,Medium
+25.5,43.7,47.0,Tillering,Leaf Folder,0.728,High
+26.5,86.0,6.3,Ripening,Rice Blast Risk,0.84,High
+31.0,53.8,47.4,Seedling,Stem Borer,0.373,Low
+35.3,40.5,16.6,Ripening,Rice Bug,0.707,High
+27.1,43.1,87.7,Ripening,Rice Bug,0.819,High
+23.0,67.2,100.0,Vegetative,Rice Blast Risk,0.568,Medium
+22.7,89.2,82.5,Seedling,Rice Blast Risk,1.0,High
+32.9,34.9,24.1,Flowering,Rice Bug,0.747,High
+34.3,32.1,92.0,Ripening,Rice Bug,0.776,High
+20.1,62.6,29.9,Seedling,Rice Blast Risk,0.365,Low
+19.3,96.9,91.1,Flowering,Rice Bug,0.719,High
+29.9,49.5,68.1,Ripening,Rice Bug,0.743,High
+20.9,97.1,44.0,Seedling,Rice Blast Risk,0.941,High
+34.5,92.1,10.0,Tillering,Brown Planthopper,0.725,High
+24.2,49.8,99.3,Seedling,Rice Blast Risk,0.588,Medium
+20.9,87.2,112.8,Seedling,Rice Blast Risk,1.0,High
+36.4,78.0,79.9,Tillering,Stem Borer,0.733,High
+21.3,65.8,115.7,Vegetative,Rice Blast Risk,0.544,Medium
+23.7,59.6,112.1,Seedling,Rice Blast Risk,0.628,Medium
+21.1,87.1,23.4,Ripening,Rice Blast Risk,0.845,High
+20.3,85.5,87.7,Vegetative,Rice Blast Risk,1.0,High
+18.4,83.0,41.9,Ripening,Rice Bug,0.823,High
+19.1,99.9,58.5,Seedling,Rice Blast Risk,0.644,Medium
+21.5,63.5,18.8,Tillering,Leaf Folder,0.369,Low
+19.1,86.5,117.0,Flowering,Rice Bug,0.789,High
+29.8,90.4,87.1,Tillering,Leaf Folder,0.943,High
+31.6,44.8,32.0,Tillering,Stem Borer,0.644,Medium
+25.9,32.9,44.6,Flowering,Rice Blast Risk,0.485,Medium
+24.4,58.3,50.7,Seedling,Rice Blast Risk,0.545,Medium
+28.1,90.0,89.7,Ripening,Rice Bug,0.983,High
+35.5,50.2,111.1,Flowering,Rice Bug,0.678,Medium
+35.0,79.0,38.6,Flowering,Rice Bug,1.0,High
+18.9,30.5,56.7,Tillering,Stem Borer,0.395,Low
+21.6,54.9,71.2,Vegetative,Rice Blast Risk,0.609,Medium
+22.7,73.1,47.2,Tillering,Stem Borer,0.801,High
+23.0,39.1,60.5,Flowering,Rice Blast Risk,0.573,Medium
+29.4,92.8,12.7,Ripening,Rice Bug,0.965,High
+26.3,40.9,20.1,Ripening,Rice Bug,0.532,Medium
+19.0,93.7,48.1,Seedling,Rice Blast Risk,0.65,Medium
+25.5,45.1,109.8,Seedling,Rice Blast Risk,0.538,Medium
+28.5,99.6,41.9,Ripening,Rice Bug,0.957,High
+20.0,72.3,30.0,Vegetative,Stem Borer,0.677,Medium
+34.7,35.9,89.1,Tillering,Stem Borer,0.391,Low
+19.0,34.6,113.9,Seedling,Rice Blast Risk,0.24,Low
+36.5,35.2,55.1,Seedling,Rice Bug,0.276,Low
+20.0,71.3,1.0,Tillering,Stem Borer,0.691,High
+34.9,86.7,82.6,Flowering,Rice Bug,1.0,High
+36.1,58.2,49.8,Flowering,Rice Bug,0.771,High
+37.6,61.1,80.8,Ripening,Rice Bug,0.735,High
+34.0,71.3,33.3,Seedling,Rice Bug,0.448,Medium
+33.6,67.3,0.3,Vegetative,Rice Bug,0.472,Medium
+30.8,78.2,41.3,Tillering,Stem Borer,0.965,High
+33.6,63.0,84.6,Tillering,Stem Borer,0.272,Low
+20.7,80.0,47.2,Seedling,Rice Blast Risk,0.5,Medium
+28.7,99.8,26.3,Tillering,Leaf Folder,1.0,High
+28.3,54.5,55.7,Ripening,Rice Bug,0.768,High
+35.2,30.9,90.3,Seedling,Rice Bug,0.231,Low
+27.3,38.8,14.3,Ripening,Rice Bug,0.77,High
+25.7,68.7,83.0,Tillering,Leaf Folder,0.552,Medium
+30.8,54.1,80.1,Tillering,Stem Borer,0.714,High
+23.3,95.8,44.5,Flowering,Rice Blast Risk,1.0,High
+20.8,73.9,116.4,Flowering,Rice Bug,0.744,High
+27.6,66.4,107.4,Flowering,Rice Bug,0.911,High
+26.3,85.9,37.9,Seedling,Rice Blast Risk,0.979,High
+22.7,48.1,3.7,Vegetative,Leaf Folder,0.414,Low
+25.4,87.4,37.0,Ripening,Rice Blast Risk,1.0,High
+25.3,30.2,24.6,Seedling,Brown Planthopper,0.329,Low
+24.5,73.4,65.7,Flowering,Rice Bug,0.868,High
+25.6,95.4,110.2,Tillering,Leaf Folder,0.937,High
+31.7,85.2,104.4,Seedling,Stem Borer,0.688,High
+23.9,89.8,36.7,Seedling,Rice Blast Risk,0.948,High
+37.0,57.8,51.4,Ripening,Rice Bug,0.698,High
+36.3,87.7,4.4,Seedling,Brown Planthopper,0.477,Medium
+27.6,68.6,65.3,Seedling,Rice Blast Risk,0.582,Medium
+24.6,73.3,7.6,Seedling,Rice Blast Risk,0.415,Low
+28.7,34.1,112.6,Flowering,Rice Bug,0.731,High
+35.0,44.1,104.0,Ripening,Rice Bug,0.699,High
+31.1,68.6,25.7,Seedling,Rice Bug,0.524,Medium
+34.1,34.1,83.9,Flowering,Rice Bug,0.775,High
+28.7,81.9,68.2,Flowering,Rice Bug,1.0,High
+30.7,88.8,96.2,Vegetative,Stem Borer,1.0,High
+23.8,94.4,57.1,Seedling,Rice Blast Risk,0.994,High
+32.7,37.1,23.0,Tillering,Stem Borer,0.405,Low
+22.0,95.8,76.8,Seedling,Rice Blast Risk,0.991,High
+31.9,34.7,9.6,Seedling,Stem Borer,0.354,Low
+35.2,63.2,70.2,Tillering,Stem Borer,0.511,Medium
+20.6,88.8,25.5,Ripening,Rice Blast Risk,0.809,High
+30.3,34.9,82.2,Ripening,Rice Bug,0.75,High
+19.9,31.3,99.4,Flowering,Rice Bug,0.513,Medium
+32.5,31.7,13.1,Vegetative,Leaf Folder,0.317,Low
+19.7,65.8,48.0,Vegetative,Stem Borer,0.438,Medium
+36.7,86.8,88.0,Flowering,Rice Bug,1.0,High
+20.7,38.9,19.6,Seedling,Rice Blast Risk,0.329,Low
+37.2,38.7,68.0,Tillering,Stem Borer,0.445,Medium
+34.0,69.8,80.6,Flowering,Rice Bug,1.0,High
+29.9,46.4,42.6,Ripening,Rice Bug,0.701,High
+33.7,81.1,99.8,Seedling,Rice Bug,0.518,Medium
+33.9,96.5,61.3,Vegetative,Stem Borer,0.712,High
+36.9,83.6,75.2,Vegetative,Stem Borer,0.748,High
+23.1,91.4,16.9,Tillering,Rice Blast Risk,0.842,High
+29.8,66.4,2.8,Seedling,Rice Bug,0.495,Medium
+19.9,88.3,6.1,Ripening,Rice Bug,0.726,High
+30.3,42.8,108.5,Ripening,Rice Bug,0.75,High
+21.4,34.8,105.9,Vegetative,Rice Blast Risk,0.568,Medium
+29.3,75.9,96.9,Tillering,Leaf Folder,1.0,High
+29.4,33.6,24.0,Tillering,Stem Borer,0.715,High
+27.3,92.5,63.1,Seedling,Rice Blast Risk,0.995,High
+28.5,78.4,95.5,Ripening,Rice Bug,1.0,High
+33.3,96.7,81.0,Flowering,Rice Bug,0.966,High
+34.0,52.0,13.9,Vegetative,Leaf Folder,0.474,Medium
+27.8,64.0,107.5,Tillering,Stem Borer,0.738,High
+30.0,81.9,19.3,Vegetative,Leaf Folder,0.944,High
+36.6,47.0,20.6,Vegetative,Stem Borer,0.409,Low
+20.4,67.9,108.1,Vegetative,Rice Blast Risk,0.589,Medium
+20.3,76.2,58.2,Seedling,Rice Blast Risk,0.533,Medium
+19.8,98.5,44.7,Ripening,Rice Bug,0.675,Medium
+31.2,82.1,66.4,Flowering,Rice Bug,0.948,High
+26.4,38.3,117.8,Ripening,Rice Blast Risk,0.577,Medium
+33.5,63.3,14.4,Seedling,Rice Bug,0.162,Low
+31.4,71.2,90.8,Flowering,Rice Bug,0.928,High
+24.7,40.3,40.1,Tillering,Leaf Folder,0.677,Medium
+36.0,60.2,14.0,Flowering,Rice Bug,0.739,High
+33.3,49.9,50.6,Ripening,Rice Bug,0.715,High
+23.4,38.3,65.9,Vegetative,Rice Blast Risk,0.525,Medium
+25.3,65.8,24.7,Seedling,Brown Planthopper,0.326,Low
+24.3,41.6,48.6,Seedling,Rice Blast Risk,0.574,Medium
+21.2,71.3,76.3,Tillering,Stem Borer,0.66,Medium
+21.0,41.9,69.2,Seedling,Rice Blast Risk,0.523,Medium
+36.7,80.7,86.8,Seedling,Rice Bug,0.517,Medium
+26.8,43.7,100.4,Seedling,Rice Blast Risk,0.537,Medium
+25.7,92.7,49.1,Vegetative,Leaf Folder,0.965,High
+32.6,31.8,50.8,Seedling,Rice Bug,0.151,Low
+29.1,66.5,59.6,Tillering,Stem Borer,0.718,High
+36.7,52.4,68.0,Flowering,Rice Bug,0.754,High
+33.6,45.8,13.0,Vegetative,Leaf Folder,0.324,Low
+27.6,63.0,37.5,Seedling,Rice Blast Risk,0.498,Medium
+25.5,88.9,20.6,Tillering,Leaf Folder,1.0,High
+37.7,94.1,46.3,Seedling,Rice Blast Risk,0.674,Medium
+32.4,51.2,116.8,Flowering,Rice Bug,0.755,High
+37.0,40.8,69.9,Vegetative,Stem Borer,0.482,Medium
+20.4,80.4,51.5,Tillering,Stem Borer,0.735,High
+35.0,70.7,67.9,Vegetative,Stem Borer,0.695,High
+30.7,44.1,80.3,Vegetative,Stem Borer,0.737,High
+20.4,83.2,52.2,Seedling,Rice Blast Risk,0.552,Medium
+29.8,66.3,53.7,Tillering,Stem Borer,0.702,High
+31.7,75.7,84.2,Seedling,Stem Borer,0.765,High
+18.2,55.2,7.3,Flowering,Rice Bug,0.455,Medium
+27.1,60.7,64.8,Vegetative,Stem Borer,0.701,High
+34.5,42.6,65.7,Tillering,Stem Borer,0.459,Medium
+23.9,83.0,90.8,Tillering,Stem Borer,0.715,High
+27.2,41.0,117.9,Flowering,Rice Bug,0.732,High
+26.8,84.5,95.5,Flowering,Brown Planthopper,0.815,High
+24.0,85.9,60.5,Tillering,Leaf Folder,0.886,High
+36.4,82.3,20.3,Ripening,Rice Bug,1.0,High
+33.6,31.4,70.6,Vegetative,Stem Borer,0.415,Low
+20.2,49.1,100.1,Flowering,Rice Blast Risk,0.521,Medium
+37.9,62.8,111.9,Vegetative,Stem Borer,0.417,Low
+35.6,71.7,99.0,Flowering,Rice Bug,0.953,High
+23.7,94.3,22.7,Tillering,Rice Blast Risk,0.783,High
+34.7,56.3,85.5,Ripening,Rice Bug,0.703,High
+20.1,91.3,105.6,Vegetative,Rice Blast Risk,0.929,High
+38.0,41.4,81.7,Tillering,Stem Borer,0.295,Low
+31.3,56.0,82.3,Seedling,Stem Borer,0.32,Low
+31.0,33.7,60.0,Flowering,Rice Bug,0.801,High
+19.8,82.0,76.4,Seedling,Brown Planthopper,0.351,Low
+35.9,40.5,35.3,Tillering,Stem Borer,0.427,Medium
+18.6,48.0,10.7,Seedling,Brown Planthopper,0.148,Low
+22.8,84.3,99.3,Vegetative,Stem Borer,0.701,High
+20.9,67.4,113.2,Tillering,Rice Blast Risk,0.535,Medium
+33.5,31.0,102.8,Vegetative,Stem Borer,0.407,Low
+22.0,30.2,40.1,Vegetative,Rice Blast Risk,0.529,Medium
+36.2,65.7,11.2,Seedling,Rice Bug,0.56,Medium
+31.1,51.3,33.6,Flowering,Rice Bug,0.844,High
+18.7,42.6,101.1,Flowering,Rice Bug,0.572,Medium
+18.1,73.0,78.7,Tillering,Stem Borer,0.592,Medium
+19.0,46.0,116.0,Seedling,Rice Blast Risk,0.178,Low
+30.1,71.5,41.1,Seedling,Stem Borer,0.7,High
+34.0,56.5,66.2,Flowering,Rice Bug,0.773,High
+22.8,43.1,94.8,Ripening,Rice Blast Risk,0.464,Medium
+35.0,39.7,28.1,Ripening,Rice Bug,0.663,Medium
+19.1,46.6,115.7,Tillering,Stem Borer,0.465,Medium
+34.0,32.1,71.1,Tillering,Stem Borer,0.372,Low
+36.6,51.6,0.9,Seedling,Rice Bug,0.176,Low
+33.4,93.1,3.0,Seedling,Brown Planthopper,0.445,Medium
+32.0,88.2,105.9,Flowering,Rice Bug,1.0,High
+34.8,56.0,77.4,Tillering,Stem Borer,0.359,Low
+18.8,70.3,91.6,Tillering,Stem Borer,0.712,High
+22.0,69.7,94.1,Vegetative,Rice Blast Risk,0.501,Medium
+20.5,88.0,50.5,Vegetative,Rice Blast Risk,0.913,High
+28.1,46.5,95.8,Ripening,Rice Bug,0.821,High
+32.9,50.7,112.5,Ripening,Rice Bug,0.77,High
+30.6,51.1,20.7,Flowering,Rice Bug,0.733,High
+35.0,32.9,91.7,Vegetative,Stem Borer,0.374,Low
+21.1,52.0,36.9,Flowering,Rice Blast Risk,0.623,Medium
+32.7,91.5,38.6,Vegetative,Brown Planthopper,0.73,High
+21.9,93.8,49.5,Tillering,Rice Blast Risk,1.0,High
+23.4,37.7,103.6,Seedling,Rice Blast Risk,0.521,Medium
+32.2,62.1,2.6,Flowering,Rice Bug,0.753,High
+37.6,56.7,52.1,Seedling,Rice Bug,0.27,Low
+30.2,64.3,81.6,Flowering,Rice Bug,0.722,High
+19.1,68.8,13.2,Flowering,Rice Bug,0.745,High
+30.3,31.4,95.1,Seedling,Stem Borer,0.371,Low
+18.8,89.0,113.0,Tillering,Stem Borer,0.72,High
+35.7,98.2,10.9,Vegetative,Brown Planthopper,0.634,Medium
+32.2,75.7,18.4,Tillering,Leaf Folder,0.729,High
+21.5,76.2,116.9,Seedling,Rice Blast Risk,0.566,Medium
+19.8,67.0,23.7,Flowering,Rice Bug,0.74,High
+21.7,53.4,9.5,Tillering,Leaf Folder,0.372,Low
+37.6,40.4,114.3,Vegetative,Stem Borer,0.382,Low
+27.2,70.9,107.1,Ripening,Rice Bug,0.966,High
+33.7,33.1,78.7,Flowering,Rice Bug,0.777,High
+30.7,87.7,66.2,Flowering,Rice Bug,1.0,High
+29.4,59.5,110.3,Seedling,Stem Borer,0.375,Low
+20.9,59.0,78.7,Tillering,Rice Blast Risk,0.52,Medium
+36.9,52.9,79.0,Flowering,Rice Bug,0.741,High
+24.0,97.9,101.2,Ripening,Rice Blast Risk,0.972,High
+29.6,42.2,78.4,Flowering,Rice Bug,0.826,High
+32.0,40.6,60.4,Seedling,Stem Borer,0.416,Low
+31.0,41.6,46.8,Flowering,Rice Bug,0.751,High
+36.8,76.1,60.4,Seedling,Rice Bug,0.453,Medium
+21.0,99.4,62.7,Vegetative,Rice Blast Risk,1.0,High
+28.2,46.5,43.3,Ripening,Rice Bug,0.719,High
+26.1,93.4,53.8,Ripening,Rice Blast Risk,0.967,High
+27.5,49.5,96.2,Ripening,Rice Bug,0.789,High
+20.4,75.4,50.0,Vegetative,Stem Borer,0.719,High
+20.7,32.8,3.1,Flowering,Rice Bug,0.375,Low
+23.6,64.7,34.0,Flowering,Rice Blast Risk,0.542,Medium
+24.1,75.8,27.8,Vegetative,Leaf Folder,1.0,High
+26.6,67.5,95.2,Ripening,Rice Bug,0.733,High
+30.2,46.6,53.9,Ripening,Rice Bug,0.758,High
+30.7,88.0,33.6,Seedling,Stem Borer,0.61,Medium
+26.2,97.9,97.3,Flowering,Rice Blast Risk,0.858,High
+26.2,62.1,2.3,Tillering,Leaf Folder,0.601,Medium
+22.4,74.5,20.9,Flowering,Rice Bug,0.764,High
+29.8,85.3,99.2,Tillering,Leaf Folder,0.839,High
+24.3,46.9,66.1,Vegetative,Leaf Folder,0.608,Medium
+18.7,90.5,92.8,Seedling,Rice Blast Risk,0.554,Medium
+26.4,49.6,100.6,Tillering,Stem Borer,0.688,High
+27.5,84.3,113.0,Ripening,Rice Bug,1.0,High
+22.5,37.8,7.6,Ripening,Rice Bug,0.489,Medium
+29.4,50.2,95.9,Vegetative,Stem Borer,0.695,High
+29.3,67.4,85.1,Ripening,Rice Bug,1.0,High
+32.0,66.7,24.8,Vegetative,Rice Bug,0.501,Medium
+31.0,89.5,111.8,Tillering,Stem Borer,0.989,High
+31.0,99.7,48.5,Vegetative,Stem Borer,1.0,High
+24.3,37.5,106.5,Tillering,Leaf Folder,0.674,Medium
+33.7,49.0,72.6,Tillering,Stem Borer,0.414,Low
+29.0,55.0,63.2,Flowering,Rice Bug,0.743,High
+26.6,63.5,19.1,Tillering,Leaf Folder,0.633,Medium
+30.5,64.6,109.7,Tillering,Stem Borer,0.746,High
+25.2,89.9,66.8,Flowering,Rice Blast Risk,0.983,High
+28.3,83.9,0.7,Tillering,Leaf Folder,1.0,High
+32.7,31.3,2.2,Tillering,Leaf Folder,0.298,Low
+35.7,61.9,93.3,Seedling,Rice Bug,0.322,Low
+36.4,73.3,19.4,Ripening,Rice Bug,1.0,High
+28.1,62.2,71.8,Seedling,Stem Borer,0.352,Low
+28.4,39.1,81.7,Ripening,Rice Bug,0.775,High
+34.0,57.8,33.5,Flowering,Rice Bug,0.717,High
+24.3,58.8,68.3,Ripening,Rice Blast Risk,0.552,Medium
+34.7,43.1,28.8,Seedling,Rice Bug,0.226,Low
+27.9,82.9,113.6,Vegetative,Leaf Folder,0.993,High
+20.3,52.5,103.2,Seedling,Rice Blast Risk,0.597,Medium
+19.4,71.2,34.6,Tillering,Stem Borer,0.726,High
+34.8,66.1,63.5,Ripening,Rice Bug,0.944,High
+19.1,91.4,60.1,Flowering,Rice Bug,0.697,High
+23.6,38.5,115.2,Flowering,Rice Blast Risk,0.564,Medium
+24.7,38.0,47.3,Ripening,Rice Blast Risk,0.567,Medium
+21.5,51.0,67.5,Seedling,Rice Blast Risk,0.516,Medium
+24.3,60.2,111.4,Flowering,Rice Blast Risk,0.63,Medium
+32.9,50.9,19.5,Vegetative,Leaf Folder,0.391,Low
+18.3,83.4,66.1,Flowering,Rice Bug,0.719,High
+34.5,47.2,12.7,Flowering,Rice Bug,0.714,High
+35.1,35.9,74.1,Flowering,Rice Bug,0.739,High
+25.4,59.0,43.9,Tillering,Leaf Folder,0.633,Medium
+21.1,84.1,116.1,Flowering,Rice Bug,0.813,High
+30.0,89.5,49.8,Tillering,Stem Borer,1.0,High
+20.4,81.3,16.3,Flowering,Rice Bug,0.752,High
+25.3,69.1,100.1,Tillering,Leaf Folder,0.684,High
+37.2,80.7,98.5,Vegetative,Stem Borer,0.741,High
+37.9,77.7,83.4,Vegetative,Stem Borer,0.703,High
+33.4,46.4,89.9,Vegetative,Stem Borer,0.42,Medium
+24.2,68.6,31.8,Flowering,Rice Bug,0.78,High
+31.8,83.9,77.0,Ripening,Rice Bug,1.0,High
+32.1,52.2,4.6,Seedling,Rice Bug,0.211,Low
+25.8,75.8,23.6,Seedling,Leaf Folder,0.616,Medium
+30.8,63.7,111.9,Tillering,Stem Borer,0.686,High
+18.2,65.2,88.7,Flowering,Rice Bug,0.715,High
+22.2,36.3,27.7,Seedling,Rice Blast Risk,0.276,Low
+28.5,76.6,13.4,Vegetative,Leaf Folder,1.0,High
+21.3,90.6,113.9,Seedling,Rice Blast Risk,1.0,High
+21.3,39.9,13.5,Seedling,Rice Blast Risk,0.283,Low
+34.7,55.6,30.8,Seedling,Rice Bug,0.238,Low
+37.8,33.4,21.9,Flowering,Rice Bug,0.741,High
+29.1,32.1,0.9,Ripening,Rice Bug,0.759,High
+34.8,99.3,37.7,Tillering,Brown Planthopper,0.646,Medium
+37.8,64.5,116.9,Seedling,Rice Bug,0.182,Low
+20.8,54.9,41.0,Ripening,Rice Blast Risk,0.576,Medium
+27.0,49.2,60.5,Vegetative,Stem Borer,0.623,Medium
+25.9,98.6,89.5,Seedling,Rice Blast Risk,0.988,High
+19.6,47.7,66.1,Seedling,Rice Blast Risk,0.184,Low
+33.1,80.8,89.2,Vegetative,Stem Borer,0.694,High
+26.7,49.9,79.4,Flowering,Rice Blast Risk,0.563,Medium
+27.4,34.9,73.0,Vegetative,Stem Borer,0.78,High
+21.0,77.8,78.0,Tillering,Stem Borer,0.62,Medium
+21.6,30.1,95.9,Vegetative,Rice Blast Risk,0.594,Medium
+36.1,77.3,85.2,Ripening,Rice Bug,0.874,High
+18.9,47.5,95.0,Flowering,Rice Bug,0.57,Medium
+22.7,82.2,17.5,Flowering,Rice Bug,0.648,Medium
+23.8,83.9,81.3,Tillering,Stem Borer,0.822,High
+27.8,80.7,88.4,Tillering,Leaf Folder,0.981,High
+29.7,31.7,36.0,Ripening,Rice Bug,0.815,High
+27.9,79.3,104.9,Flowering,Rice Bug,1.0,High
+19.7,99.3,36.6,Ripening,Rice Bug,0.728,High
+22.9,47.0,29.3,Seedling,Rice Blast Risk,0.332,Low
+34.9,49.2,104.1,Ripening,Rice Bug,0.708,High
+30.8,86.9,29.6,Ripening,Rice Bug,1.0,High
+31.0,41.2,49.9,Flowering,Rice Bug,0.729,High
+31.4,76.2,44.2,Ripening,Rice Bug,0.959,High
+33.3,82.9,107.8,Tillering,Stem Borer,0.727,High
+19.2,32.6,54.6,Vegetative,Stem Borer,0.355,Low
+25.3,68.8,83.3,Flowering,Rice Bug,0.734,High
+28.8,70.3,95.3,Flowering,Rice Bug,1.0,High
+24.8,51.2,75.3,Seedling,Rice Blast Risk,0.518,Medium
+34.9,91.3,113.2,Vegetative,Stem Borer,0.675,Medium
+27.7,41.4,96.3,Vegetative,Stem Borer,0.777,High
+33.4,55.5,48.0,Tillering,Stem Borer,0.39,Low
+35.0,89.4,114.1,Seedling,Rice Blast Risk,0.632,Medium
+28.1,43.3,62.9,Flowering,Rice Bug,0.741,High
+36.2,87.5,2.7,Seedling,Brown Planthopper,0.523,Medium
+29.7,35.5,31.2,Ripening,Rice Bug,0.698,High
+35.0,64.2,74.6,Flowering,Rice Bug,0.771,High
+24.8,35.3,18.8,Vegetative,Leaf Folder,0.663,Medium
+28.0,77.5,70.1,Vegetative,Leaf Folder,0.911,High
+28.6,85.3,43.4,Flowering,Rice Bug,1.0,High
+20.1,89.5,64.1,Seedling,Rice Blast Risk,1.0,High
+26.0,98.7,0.2,Flowering,Brown Planthopper,0.96,High
+36.3,77.0,101.8,Tillering,Stem Borer,0.644,Medium
+30.6,83.8,43.4,Vegetative,Stem Borer,1.0,High
+21.6,65.4,16.8,Ripening,Rice Bug,0.679,Medium
+24.8,93.9,52.5,Flowering,Rice Blast Risk,1.0,High
+21.8,75.1,58.3,Seedling,Rice Blast Risk,0.527,Medium
+18.5,91.8,76.5,Flowering,Rice Bug,0.831,High
+36.5,46.5,62.9,Tillering,Stem Borer,0.359,Low
+27.0,64.8,5.2,Flowering,Brown Planthopper,0.594,Medium
+24.2,81.1,104.6,Tillering,Leaf Folder,1.0,High
+30.0,44.2,54.8,Ripening,Rice Bug,0.734,High
+18.1,44.8,9.2,Ripening,Rice Bug,0.514,Medium
+23.6,98.5,92.7,Seedling,Rice Blast Risk,1.0,High
+32.1,60.4,79.2,Tillering,Stem Borer,0.372,Low
+30.7,42.7,77.9,Vegetative,Stem Borer,0.637,Medium
+37.6,53.2,51.2,Tillering,Stem Borer,0.327,Low
+30.4,57.8,49.3,Seedling,Stem Borer,0.429,Medium
+27.6,73.6,64.4,Tillering,Stem Borer,1.0,High
+33.2,94.6,6.1,Seedling,Brown Planthopper,0.553,Medium
+36.1,99.1,35.9,Flowering,Rice Bug,0.986,High
+32.4,75.6,118.5,Tillering,Stem Borer,0.628,Medium
+37.3,79.0,79.5,Ripening,Rice Bug,0.882,High
+33.6,52.5,50.3,Ripening,Rice Bug,0.893,High
+35.3,90.0,26.7,Flowering,Rice Bug,1.0,High
+20.3,45.2,89.4,Tillering,Rice Blast Risk,0.557,Medium
+32.6,37.4,31.2,Flowering,Rice Bug,0.764,High
+26.8,98.1,19.5,Flowering,Brown Planthopper,0.928,High
+29.1,90.5,18.5,Seedling,Brown Planthopper,0.76,High
+31.1,51.3,87.5,Vegetative,Stem Borer,0.787,High
+37.4,77.3,77.1,Ripening,Rice Bug,1.0,High
+37.7,62.7,8.4,Vegetative,Leaf Folder,0.312,Low
+23.8,52.6,13.8,Seedling,Rice Blast Risk,0.289,Low
+32.7,50.1,76.1,Ripening,Rice Bug,0.724,High
+33.0,39.5,68.5,Ripening,Rice Bug,0.734,High
+24.9,68.5,82.3,Flowering,Rice Bug,0.852,High
+20.5,61.3,21.4,Flowering,Rice Bug,0.491,Medium
+18.8,65.9,87.2,Vegetative,Stem Borer,0.341,Low
+33.5,45.1,112.3,Vegetative,Stem Borer,0.397,Low
+27.8,95.7,72.1,Ripening,Rice Bug,1.0,High
+37.7,74.7,23.5,Ripening,Rice Bug,0.936,High
+27.3,93.0,81.5,Tillering,Leaf Folder,1.0,High
+37.6,37.6,41.2,Vegetative,Stem Borer,0.46,Medium
+26.2,73.6,5.9,Seedling,Stem Borer,0.607,Medium
+33.9,89.5,36.3,Seedling,Rice Blast Risk,0.61,Medium
+19.7,53.2,108.7,Tillering,Stem Borer,0.374,Low
+29.1,43.7,49.3,Tillering,Stem Borer,0.617,Medium
+34.0,48.6,103.8,Flowering,Rice Bug,0.743,High
+36.5,49.1,61.0,Ripening,Rice Bug,0.766,High
+34.5,61.3,62.0,Vegetative,Stem Borer,0.355,Low
+18.7,52.8,0.6,Seedling,Brown Planthopper,0.197,Low
+25.5,49.0,76.5,Ripening,Rice Blast Risk,0.59,Medium
+19.0,75.4,12.9,Flowering,Rice Bug,0.66,Medium
+20.2,33.7,57.4,Tillering,Rice Blast Risk,0.461,Medium
+31.5,53.8,31.2,Seedling,Stem Borer,0.351,Low
+32.3,78.3,47.1,Tillering,Stem Borer,0.779,High
+33.5,42.3,64.4,Flowering,Rice Bug,0.795,High
+35.3,45.5,1.7,Ripening,Rice Bug,0.831,High
+32.8,44.0,34.2,Tillering,Stem Borer,0.401,Low
+34.0,30.1,118.8,Tillering,Stem Borer,0.39,Low
+19.0,63.2,6.9,Vegetative,Leaf Folder,0.288,Low
+22.7,32.7,38.3,Tillering,Rice Blast Risk,0.567,Medium
+30.4,49.1,38.6,Seedling,Stem Borer,0.39,Low
+35.2,99.6,45.5,Seedling,Rice Blast Risk,0.638,Medium
+18.1,94.3,82.2,Flowering,Rice Bug,0.831,High
+28.3,45.1,29.7,Vegetative,Stem Borer,0.694,High
+31.5,51.7,55.2,Ripening,Rice Bug,0.817,High
+18.6,62.5,77.4,Vegetative,Stem Borer,0.321,Low
+26.0,89.1,38.7,Ripening,Rice Blast Risk,1.0,High
+35.9,86.2,113.9,Seedling,Rice Blast Risk,0.631,Medium
+31.4,38.8,117.6,Seedling,Stem Borer,0.435,Medium
+22.8,38.7,14.4,Tillering,Leaf Folder,0.393,Low
+35.1,59.2,41.3,Ripening,Rice Bug,0.725,High
+25.0,90.9,25.0,Seedling,Rice Blast Risk,0.841,High
+35.1,91.7,22.4,Tillering,Brown Planthopper,0.744,High
+24.0,37.5,58.9,Vegetative,Rice Blast Risk,0.514,Medium
+29.8,70.2,67.7,Flowering,Rice Bug,0.965,High
+25.9,40.9,51.1,Tillering,Leaf Folder,0.652,Medium
+23.5,78.0,32.7,Flowering,Rice Bug,0.744,High
+35.7,94.2,33.4,Vegetative,Brown Planthopper,0.77,High
+21.8,61.8,119.1,Vegetative,Rice Blast Risk,0.585,Medium
+19.7,35.8,110.8,Flowering,Rice Bug,0.496,Medium
+24.8,70.5,9.1,Vegetative,Leaf Folder,0.68,High
+32.4,58.6,78.8,Flowering,Rice Bug,0.648,Medium
+34.1,86.8,54.8,Seedling,Rice Blast Risk,0.619,Medium
+38.0,53.8,82.7,Vegetative,Stem Borer,0.414,Low
+23.9,91.2,71.6,Seedling,Rice Blast Risk,1.0,High
+26.2,49.2,106.7,Seedling,Rice Blast Risk,0.56,Medium
+20.7,41.0,8.0,Vegetative,Leaf Folder,0.423,Medium
+29.5,51.5,42.0,Tillering,Stem Borer,0.743,High
+38.0,32.4,118.3,Seedling,Rice Bug,0.226,Low
+32.0,49.7,21.9,Seedling,Rice Bug,0.243,Low
+29.9,76.2,15.3,Ripening,Rice Bug,1.0,High
+25.8,40.0,87.5,Tillering,Leaf Folder,0.628,Medium
+36.3,37.8,93.3,Flowering,Rice Bug,0.827,High
+27.9,39.3,80.7,Flowering,Rice Bug,0.695,High
+20.7,35.4,93.1,Seedling,Rice Blast Risk,0.566,Medium
+25.3,91.2,83.2,Flowering,Rice Blast Risk,1.0,High
+19.3,96.1,16.3,Ripening,Rice Bug,0.734,High
+22.0,33.3,73.0,Tillering,Rice Blast Risk,0.523,Medium
+18.4,83.2,93.2,Ripening,Rice Bug,0.746,High
+27.1,81.6,103.9,Ripening,Rice Bug,1.0,High
+30.7,99.8,29.5,Tillering,Stem Borer,0.975,High
+24.9,54.4,15.3,Seedling,Rice Blast Risk,0.297,Low
+26.4,50.0,93.7,Flowering,Rice Blast Risk,0.608,Medium
+37.2,61.7,30.8,Ripening,Rice Bug,0.77,High
+33.0,90.0,3.8,Tillering,Brown Planthopper,0.75,High
+28.8,81.0,99.0,Ripening,Rice Bug,1.0,High
+23.7,63.0,60.7,Tillering,Rice Blast Risk,0.659,Medium
+35.9,47.1,39.2,Tillering,Stem Borer,0.456,Medium
+22.7,80.9,1.4,Ripening,Rice Bug,0.714,High
+24.5,89.8,4.2,Seedling,Rice Blast Risk,0.824,High
+36.2,58.0,95.1,Tillering,Stem Borer,0.372,Low
+28.6,76.8,58.8,Seedling,Stem Borer,0.677,Medium
+32.8,58.0,18.0,Flowering,Rice Bug,0.679,Medium
+29.8,63.5,43.0,Ripening,Rice Bug,0.736,High
+31.1,66.7,19.8,Ripening,Rice Bug,1.0,High
+24.0,84.3,13.5,Vegetative,Brown Planthopper,0.697,High
+22.8,98.4,33.2,Flowering,Rice Blast Risk,0.945,High
+24.4,61.1,65.9,Ripening,Rice Blast Risk,0.474,Medium
+21.1,54.0,25.2,Ripening,Rice Bug,0.606,Medium
+35.5,56.2,41.2,Tillering,Stem Borer,0.416,Low
+23.7,39.4,57.4,Seedling,Rice Blast Risk,0.509,Medium
+29.2,50.8,50.4,Tillering,Stem Borer,0.723,High
+33.8,36.1,15.4,Flowering,Rice Bug,0.859,High
+33.7,60.0,4.7,Flowering,Rice Bug,0.781,High
+26.8,41.7,4.3,Vegetative,Leaf Folder,0.511,Medium
+27.5,54.2,42.0,Vegetative,Stem Borer,0.833,High
+37.9,85.6,86.3,Flowering,Rice Bug,0.908,High
+31.5,47.2,15.8,Tillering,Stem Borer,0.59,Medium
+34.3,72.8,94.4,Tillering,Stem Borer,0.643,Medium
+36.1,93.1,85.9,Ripening,Rice Bug,0.963,High
+33.8,69.7,0.5,Seedling,Rice Bug,0.514,Medium
+21.7,43.6,3.2,Vegetative,Leaf Folder,0.246,Low
+29.2,54.1,23.4,Ripening,Rice Bug,0.745,High
+20.0,71.3,6.7,Ripening,Rice Bug,0.807,High
+31.1,65.5,63.8,Vegetative,Stem Borer,0.658,Medium
+37.1,40.4,4.8,Ripening,Rice Bug,0.68,High
+28.3,61.3,96.3,Vegetative,Stem Borer,0.693,High
+26.7,68.0,59.2,Seedling,Rice Blast Risk,0.533,Medium
+18.7,48.7,87.4,Vegetative,Stem Borer,0.37,Low
+37.2,72.9,90.1,Tillering,Stem Borer,0.641,Medium
+20.1,34.9,60.8,Seedling,Rice Blast Risk,0.576,Medium
+18.8,53.6,111.0,Seedling,Rice Blast Risk,0.23,Low
+22.9,86.3,118.8,Flowering,Rice Blast Risk,0.947,High
+19.3,48.1,43.1,Flowering,Rice Bug,0.454,Medium
+27.1,72.4,15.1,Flowering,Rice Bug,1.0,High
+28.3,58.7,43.6,Ripening,Rice Bug,0.702,High
+24.3,52.2,26.8,Vegetative,Leaf Folder,0.659,Medium
+19.0,94.1,63.7,Ripening,Rice Bug,0.823,High
+20.2,54.0,45.4,Vegetative,Rice Blast Risk,0.547,Medium
+25.7,46.6,57.7,Ripening,Rice Blast Risk,0.489,Medium
+19.2,93.7,91.6,Flowering,Rice Bug,0.77,High
+32.0,82.2,32.9,Vegetative,Stem Borer,0.991,High
+22.1,77.7,64.5,Vegetative,Stem Borer,0.692,High
+24.0,33.5,40.2,Tillering,Leaf Folder,0.674,Medium
+25.9,39.2,94.2,Tillering,Leaf Folder,0.685,High
+26.3,74.7,76.7,Vegetative,Stem Borer,1.0,High
+18.0,44.7,1.0,Vegetative,Leaf Folder,0.347,Low
+20.2,45.8,79.2,Ripening,Rice Blast Risk,0.653,Medium
+35.3,84.5,20.4,Flowering,Rice Bug,1.0,High
+18.0,50.0,86.9,Seedling,Rice Blast Risk,0.242,Low
+28.2,35.0,68.1,Flowering,Rice Bug,0.757,High
+27.8,32.6,48.2,Seedling,Rice Blast Risk,0.5,Medium
+24.7,61.0,83.3,Tillering,Leaf Folder,0.706,High
+26.6,73.2,102.8,Seedling,Stem Borer,0.707,High
+33.6,90.8,93.4,Flowering,Rice Bug,0.971,High
+34.8,37.8,65.4,Seedling,Rice Bug,0.238,Low
+23.2,43.8,86.7,Vegetative,Rice Blast Risk,0.502,Medium
+24.4,67.1,49.7,Seedling,Rice Blast Risk,0.603,Medium
+22.8,55.5,94.7,Seedling,Rice Blast Risk,0.584,Medium
+27.6,63.8,99.5,Seedling,Rice Blast Risk,0.559,Medium
+31.7,94.7,16.5,Tillering,Stem Borer,0.898,High
+22.6,68.1,28.6,Ripening,Rice Bug,0.716,High
+24.6,59.1,32.4,Vegetative,Leaf Folder,0.543,Medium
+36.6,99.3,19.9,Flowering,Rice Bug,0.929,High
+19.0,34.6,47.1,Tillering,Stem Borer,0.363,Low
+27.2,95.2,23.2,Vegetative,Leaf Folder,0.955,High
+32.2,65.1,71.5,Seedling,Rice Bug,0.514,Medium
+21.0,65.3,12.2,Flowering,Rice Bug,0.791,High
+18.9,94.5,32.4,Seedling,Rice Blast Risk,0.644,Medium
+20.8,65.5,79.9,Tillering,Rice Blast Risk,0.62,Medium
+36.4,60.7,47.8,Seedling,Rice Bug,0.211,Low
+18.2,49.1,50.6,Flowering,Rice Bug,0.493,Medium
+21.8,76.1,95.8,Ripening,Rice Bug,0.747,High
+18.6,69.9,118.1,Vegetative,Stem Borer,0.455,Medium
+20.2,45.0,67.8,Vegetative,Rice Blast Risk,0.555,Medium
+30.4,79.7,9.5,Tillering,Stem Borer,0.907,High
+22.8,75.1,12.3,Tillering,Leaf Folder,0.617,Medium
+29.4,57.8,116.2,Vegetative,Stem Borer,0.655,Medium
+29.8,30.3,81.5,Vegetative,Stem Borer,0.755,High
+35.0,61.3,90.3,Seedling,Rice Bug,0.146,Low
+18.1,30.4,81.1,Vegetative,Stem Borer,0.467,Medium
+35.1,35.2,21.6,Tillering,Stem Borer,0.425,Medium
+30.4,60.1,53.8,Flowering,Rice Bug,0.713,High
+21.3,35.7,95.8,Flowering,Rice Blast Risk,0.508,Medium
+33.5,49.3,104.0,Tillering,Stem Borer,0.495,Medium
+35.1,75.9,28.5,Flowering,Rice Bug,1.0,High
+23.1,51.6,71.5,Tillering,Rice Blast Risk,0.544,Medium
+36.4,99.8,18.9,Vegetative,Brown Planthopper,0.707,High
+27.1,94.1,115.0,Vegetative,Leaf Folder,0.968,High
+30.1,71.0,30.3,Tillering,Stem Borer,1.0,High
+37.7,97.7,87.2,Vegetative,Stem Borer,0.666,Medium
+25.2,90.8,27.7,Flowering,Brown Planthopper,0.996,High
+34.3,52.3,73.9,Seedling,Rice Bug,0.341,Low
+24.4,82.5,79.1,Seedling,Leaf Folder,0.645,Medium
+34.0,39.6,39.4,Tillering,Stem Borer,0.348,Low
+30.0,77.9,98.3,Seedling,Stem Borer,0.632,Medium
+22.3,64.4,106.2,Seedling,Rice Blast Risk,0.556,Medium
+26.3,31.2,102.6,Vegetative,Stem Borer,0.662,Medium
+24.4,49.2,39.7,Seedling,Rice Blast Risk,0.562,Medium
+19.6,96.9,89.3,Vegetative,Stem Borer,0.619,Medium
+18.6,52.1,67.1,Tillering,Stem Borer,0.435,Medium
+24.9,42.7,71.1,Vegetative,Leaf Folder,0.597,Medium
+18.4,43.1,57.3,Ripening,Rice Bug,0.502,Medium
+21.3,63.5,72.0,Seedling,Rice Blast Risk,0.533,Medium
+32.5,89.0,16.3,Flowering,Rice Bug,1.0,High
+32.2,83.1,49.1,Tillering,Stem Borer,0.709,High
+32.8,60.6,21.3,Flowering,Rice Bug,0.847,High
+24.3,44.6,33.6,Flowering,Rice Blast Risk,0.578,Medium
+35.8,33.2,15.3,Seedling,Rice Bug,0.321,Low
+29.9,62.4,25.5,Flowering,Rice Bug,0.74,High
+20.5,87.0,93.8,Vegetative,Rice Blast Risk,1.0,High
+20.9,81.1,66.0,Flowering,Rice Bug,0.811,High
+31.9,58.6,2.8,Vegetative,Stem Borer,0.645,Medium
+21.5,71.6,94.6,Vegetative,Stem Borer,0.727,High
+28.1,60.5,109.1,Flowering,Rice Bug,0.734,High
+37.8,70.5,105.7,Ripening,Rice Bug,0.992,High
+18.1,66.2,98.8,Ripening,Rice Bug,0.807,High
+18.3,77.7,119.1,Flowering,Rice Bug,0.817,High
+37.9,65.5,70.4,Tillering,Rice Bug,0.47,Medium
+29.7,95.8,115.5,Tillering,Leaf Folder,0.963,High
+20.5,60.0,113.9,Ripening,Rice Blast Risk,0.505,Medium
+35.9,31.1,37.6,Vegetative,Stem Borer,0.441,Medium
+35.6,46.5,103.6,Ripening,Rice Bug,0.704,High
+28.7,65.0,95.1,Flowering,Rice Bug,1.0,High
+30.4,67.8,93.1,Flowering,Rice Bug,1.0,High
+23.5,68.7,107.6,Tillering,Rice Blast Risk,0.523,Medium
+19.0,80.0,46.1,Ripening,Rice Bug,0.828,High
+29.9,49.2,48.0,Flowering,Rice Bug,0.677,Medium
+23.9,76.5,76.8,Seedling,Rice Blast Risk,0.633,Medium
+31.3,79.3,88.5,Flowering,Rice Bug,1.0,High
+34.7,58.8,105.6,Flowering,Rice Bug,0.646,Medium
+18.4,58.2,105.1,Ripening,Rice Bug,0.58,Medium
+29.9,42.5,86.6,Ripening,Rice Bug,0.799,High
+22.6,59.0,114.8,Ripening,Rice Blast Risk,0.529,Medium
+35.5,85.1,21.4,Seedling,Brown Planthopper,0.452,Medium
+23.1,93.6,114.0,Flowering,Rice Blast Risk,0.922,High
+30.2,71.6,7.7,Ripening,Rice Bug,1.0,High
+29.1,51.0,66.7,Ripening,Rice Bug,0.704,High
+25.9,77.8,10.8,Tillering,Leaf Folder,0.937,High
+31.6,81.8,68.2,Ripening,Rice Bug,1.0,High
+32.5,53.3,46.8,Ripening,Rice Bug,0.668,Medium
+29.3,87.9,9.8,Seedling,Brown Planthopper,0.751,High
+33.2,35.2,77.8,Ripening,Rice Bug,0.8,High
+37.7,30.8,87.7,Flowering,Rice Bug,0.773,High
+26.4,38.6,20.9,Tillering,Stem Borer,0.681,High
+28.3,40.9,83.3,Seedling,Stem Borer,0.401,Low
+18.2,91.5,21.5,Ripening,Rice Bug,0.728,High
+33.9,59.7,16.5,Vegetative,Leaf Folder,0.347,Low
+28.4,49.2,17.7,Tillering,Leaf Folder,0.612,Medium
+26.2,60.0,71.9,Vegetative,Stem Borer,0.671,Medium
+19.9,57.6,93.5,Ripening,Rice Bug,0.469,Medium
+35.8,51.1,71.6,Tillering,Stem Borer,0.364,Low
+25.9,39.7,97.1,Seedling,Rice Blast Risk,0.602,Medium
+31.7,75.9,71.0,Seedling,Stem Borer,0.739,High
+21.0,39.6,95.7,Ripening,Rice Blast Risk,0.503,Medium
+37.2,84.3,117.2,Vegetative,Stem Borer,0.64,Medium
+21.6,44.1,46.9,Flowering,Rice Blast Risk,0.542,Medium
+22.0,81.2,18.0,Seedling,Brown Planthopper,0.608,Medium
+35.2,86.4,16.2,Ripening,Rice Bug,0.949,High
+36.3,38.8,71.7,Flowering,Rice Bug,0.742,High
+22.2,36.1,65.7,Vegetative,Rice Blast Risk,0.554,Medium
+27.4,96.5,22.1,Ripening,Rice Bug,0.995,High
+32.7,62.4,105.9,Vegetative,Stem Borer,0.377,Low
+35.6,74.1,114.8,Ripening,Rice Bug,1.0,High
+25.6,31.6,30.4,Tillering,Leaf Folder,0.673,Medium
+28.3,49.5,24.8,Tillering,Stem Borer,0.742,High
+32.8,65.4,25.7,Seedling,Rice Bug,0.529,Medium
+32.6,92.0,46.5,Vegetative,Stem Borer,0.745,High
+33.7,49.0,102.4,Seedling,Rice Bug,0.329,Low
+29.4,84.3,71.5,Ripening,Rice Bug,1.0,High
+20.1,76.4,8.1,Seedling,Leaf Folder,0.466,Medium
+36.1,38.1,56.8,Seedling,Rice Bug,0.311,Low
+35.3,50.5,10.8,Seedling,Rice Bug,0.217,Low
+34.0,46.7,48.7,Ripening,Rice Bug,0.792,High
+20.0,61.0,48.4,Ripening,Rice Bug,0.536,Medium
+22.1,74.5,77.8,Flowering,Rice Bug,0.846,High
+32.9,60.3,65.9,Seedling,Rice Bug,0.202,Low
+18.5,47.1,105.0,Tillering,Stem Borer,0.428,Medium
+37.6,78.7,2.0,Ripening,Rice Bug,0.966,High
+25.5,70.9,92.9,Seedling,Rice Blast Risk,0.576,Medium
+32.4,66.4,2.7,Flowering,Rice Bug,0.989,High
+35.8,68.8,36.5,Seedling,Rice Bug,0.524,Medium
+25.9,45.5,105.6,Ripening,Rice Blast Risk,0.479,Medium
+24.4,77.6,82.8,Tillering,Leaf Folder,1.0,High
+30.2,57.1,20.6,Ripening,Rice Bug,0.76,High
+29.6,55.4,58.9,Tillering,Stem Borer,0.708,High
+26.2,40.5,86.6,Flowering,Rice Blast Risk,0.648,Medium
+30.0,71.8,112.5,Ripening,Rice Bug,0.981,High
+36.7,72.2,76.1,Vegetative,Stem Borer,0.717,High
+27.4,53.8,3.0,Flowering,Rice Bug,0.755,High
+21.9,90.2,60.0,Tillering,Rice Blast Risk,1.0,High
+25.5,89.2,18.4,Tillering,Leaf Folder,1.0,High
+25.9,37.6,5.7,Flowering,Brown Planthopper,0.603,Medium
+20.6,78.7,71.8,Vegetative,Stem Borer,0.672,Medium
+21.3,57.6,93.2,Seedling,Rice Blast Risk,0.644,Medium
+31.7,100.0,4.3,Tillering,Stem Borer,0.885,High
+24.8,45.8,94.0,Ripening,Rice Blast Risk,0.47,Medium
+37.1,49.6,84.8,Seedling,Rice Bug,0.213,Low
+22.9,60.9,90.2,Vegetative,Rice Blast Risk,0.488,Medium
+20.0,48.8,29.4,Flowering,Rice Bug,0.41,Low
+33.1,78.4,47.2,Tillering,Stem Borer,0.682,High
+35.6,63.7,14.4,Flowering,Rice Bug,0.746,High
+23.6,45.5,28.7,Tillering,Stem Borer,0.459,Medium
+22.0,65.4,36.3,Ripening,Rice Bug,0.781,High
+21.7,92.2,38.3,Ripening,Rice Blast Risk,1.0,High
+28.4,85.5,21.0,Tillering,Leaf Folder,0.955,High
+27.4,64.9,22.6,Tillering,Stem Borer,0.744,High
+23.2,50.2,108.2,Vegetative,Rice Blast Risk,0.62,Medium
+18.9,42.6,94.1,Tillering,Stem Borer,0.42,Low
+27.6,91.5,41.3,Ripening,Rice Bug,1.0,High
+37.2,79.7,113.7,Tillering,Stem Borer,0.637,Medium
+31.1,70.1,28.7,Flowering,Rice Bug,1.0,High
+27.9,91.6,48.8,Tillering,Leaf Folder,1.0,High
+20.2,38.5,97.6,Flowering,Rice Blast Risk,0.566,Medium
+23.0,77.8,53.1,Flowering,Rice Bug,0.72,High
+23.9,45.2,28.2,Tillering,Stem Borer,0.392,Low
+33.3,38.4,44.2,Ripening,Rice Bug,0.729,High
+35.5,62.6,60.1,Ripening,Rice Bug,0.732,High
+36.0,57.1,74.5,Seedling,Rice Bug,0.282,Low
+37.7,95.9,48.7,Vegetative,Stem Borer,0.714,High
+37.6,52.7,51.8,Ripening,Rice Bug,0.8,High
+37.1,87.0,31.7,Tillering,Brown Planthopper,0.719,High
+19.4,82.4,64.2,Vegetative,Stem Borer,0.657,Medium
+20.8,76.8,26.3,Flowering,Rice Bug,0.725,High
+24.1,94.4,104.1,Flowering,Rice Blast Risk,0.972,High
+29.1,58.6,89.7,Seedling,Stem Borer,0.391,Low
+19.9,57.3,49.2,Seedling,Rice Blast Risk,0.29,Low
+34.9,41.3,89.7,Ripening,Rice Bug,0.848,High
+30.3,49.3,0.8,Flowering,Rice Bug,0.792,High
+28.8,91.6,41.3,Vegetative,Leaf Folder,1.0,High
+21.3,63.2,52.8,Ripening,Rice Blast Risk,0.482,Medium
+23.1,53.9,56.4,Seedling,Rice Blast Risk,0.561,Medium
+21.2,45.1,89.8,Ripening,Rice Blast Risk,0.51,Medium
+35.0,63.9,115.5,Seedling,Rice Bug,0.332,Low
+29.7,80.2,45.6,Flowering,Rice Bug,0.92,High
+32.7,50.1,42.1,Ripening,Rice Bug,0.769,High
+23.9,83.0,73.3,Flowering,Rice Bug,0.706,High
+25.4,74.1,33.8,Flowering,Rice Bug,0.75,High
+26.1,85.1,17.0,Vegetative,Leaf Folder,1.0,High
+33.2,47.6,115.4,Vegetative,Stem Borer,0.451,Medium
+33.4,74.2,97.1,Vegetative,Stem Borer,0.697,High
+22.1,40.8,115.0,Seedling,Rice Blast Risk,0.588,Medium
+36.8,55.5,26.1,Vegetative,Stem Borer,0.367,Low
+20.4,80.7,2.1,Vegetative,Brown Planthopper,0.712,High
+35.9,74.2,52.5,Flowering,Rice Bug,1.0,High
+20.0,43.2,112.0,Vegetative,Rice Blast Risk,0.567,Medium
+23.3,90.1,16.6,Seedling,Rice Blast Risk,0.774,High
+34.9,33.7,14.1,Flowering,Rice Bug,0.736,High
+21.6,71.7,8.3,Tillering,Stem Borer,0.651,Medium
+26.3,98.9,91.8,Vegetative,Leaf Folder,0.945,High
+27.0,67.2,94.3,Flowering,Rice Bug,0.703,High
+22.9,86.0,83.4,Vegetative,Rice Blast Risk,1.0,High
+32.2,71.7,6.4,Flowering,Rice Bug,0.978,High
+35.0,84.8,86.8,Seedling,Rice Bug,0.427,Medium
+35.5,75.9,53.8,Tillering,Stem Borer,0.768,High
+24.8,78.4,18.9,Tillering,Leaf Folder,0.945,High
+28.6,45.9,35.4,Vegetative,Stem Borer,0.69,High
+23.0,81.9,60.1,Flowering,Rice Bug,0.719,High
+22.9,46.7,39.6,Vegetative,Rice Blast Risk,0.535,Medium
+21.2,98.6,116.4,Flowering,Rice Blast Risk,0.956,High
+36.8,45.9,57.0,Vegetative,Stem Borer,0.436,Medium
+35.8,46.6,44.7,Tillering,Stem Borer,0.406,Low
+33.5,90.1,80.8,Flowering,Rice Bug,1.0,High
+28.4,47.0,78.1,Ripening,Rice Bug,0.72,High
+27.8,55.3,0.3,Vegetative,Leaf Folder,0.757,High
+28.6,80.0,74.2,Tillering,Leaf Folder,0.905,High
+28.7,41.1,29.3,Tillering,Stem Borer,0.621,Medium
+26.7,41.1,45.0,Ripening,Rice Blast Risk,0.638,Medium
+20.6,64.0,84.8,Ripening,Rice Blast Risk,0.574,Medium
+20.5,47.1,66.9,Flowering,Rice Blast Risk,0.567,Medium
+37.0,46.5,44.2,Ripening,Rice Bug,0.772,High
+27.6,30.6,20.1,Seedling,Brown Planthopper,0.429,Medium
+37.1,55.9,60.7,Flowering,Rice Bug,0.765,High
+21.3,52.3,38.3,Ripening,Rice Blast Risk,0.502,Medium
+29.1,32.2,109.6,Flowering,Rice Bug,0.791,High
+22.2,73.5,64.1,Tillering,Stem Borer,0.733,High
+23.1,73.9,103.9,Ripening,Rice Bug,0.821,High
+18.6,35.0,46.8,Flowering,Rice Bug,0.588,Medium
+20.4,52.2,99.3,Ripening,Rice Blast Risk,0.567,Medium
+36.3,91.1,6.8,Seedling,Brown Planthopper,0.439,Medium
+24.4,70.8,35.8,Flowering,Rice Bug,0.839,High
+30.2,58.8,9.4,Tillering,Stem Borer,0.549,Medium
+27.3,62.6,3.8,Ripening,Rice Bug,0.767,High
+26.0,44.6,110.3,Ripening,Rice Blast Risk,0.537,Medium
+28.6,86.8,86.0,Ripening,Rice Bug,0.978,High
+21.7,94.0,75.0,Vegetative,Rice Blast Risk,1.0,High
+37.8,93.7,63.9,Tillering,Stem Borer,0.712,High
+34.4,45.7,68.3,Seedling,Rice Bug,0.276,Low
+32.8,51.8,76.6,Ripening,Rice Bug,0.709,High
+27.4,41.2,99.2,Vegetative,Stem Borer,0.691,High
+21.1,51.5,71.6,Flowering,Rice Blast Risk,0.512,Medium
+36.4,53.3,89.8,Tillering,Stem Borer,0.39,Low
+24.8,74.3,33.7,Ripening,Rice Bug,0.744,High
+19.0,43.3,117.2,Ripening,Rice Bug,0.592,Medium
+24.8,94.4,3.8,Flowering,Rice Blast Risk,0.787,High
+33.9,37.2,46.4,Flowering,Rice Bug,0.644,Medium
+30.5,30.5,105.8,Seedling,Stem Borer,0.47,Medium
+33.0,89.8,21.7,Ripening,Rice Bug,1.0,High
+33.9,79.3,17.0,Seedling,Rice Bug,0.493,Medium
+22.2,54.9,43.9,Tillering,Rice Blast Risk,0.528,Medium
+36.5,71.7,51.4,Vegetative,Stem Borer,0.653,Medium
+26.8,45.6,112.0,Vegetative,Stem Borer,0.797,High
+30.8,41.8,100.3,Ripening,Rice Bug,0.753,High
+18.0,63.0,55.7,Vegetative,Stem Borer,0.313,Low
+37.9,54.7,116.8,Tillering,Stem Borer,0.416,Low
+23.6,73.1,77.1,Vegetative,Stem Borer,0.76,High
+19.2,45.3,104.8,Ripening,Rice Bug,0.508,Medium
+27.2,76.4,29.5,Flowering,Rice Bug,0.955,High
+20.6,83.7,58.7,Tillering,Stem Borer,0.65,Medium
+21.0,41.7,3.6,Seedling,Rice Blast Risk,0.304,Low
+30.6,33.1,1.1,Seedling,Stem Borer,0.376,Low
+25.9,60.8,84.7,Vegetative,Leaf Folder,0.646,Medium
+36.4,84.2,14.2,Tillering,Brown Planthopper,0.616,Medium
+24.4,75.6,65.7,Ripening,Rice Bug,0.769,High
+32.5,79.1,83.5,Seedling,Rice Bug,0.507,Medium
+27.2,58.2,3.9,Tillering,Leaf Folder,0.628,Medium
+31.2,46.4,53.8,Vegetative,Stem Borer,0.649,Medium
+30.0,67.2,82.1,Seedling,Rice Bug,0.447,Medium
+27.5,44.3,106.8,Flowering,Rice Bug,0.804,High
+37.0,80.8,35.9,Flowering,Rice Bug,1.0,High
+24.9,43.8,116.9,Ripening,Rice Blast Risk,0.574,Medium
+21.5,50.4,101.3,Tillering,Rice Blast Risk,0.562,Medium
+31.6,65.5,78.1,Vegetative,Stem Borer,0.716,High
+34.9,64.1,47.0,Ripening,Rice Bug,0.727,High
+18.8,72.1,85.3,Vegetative,Stem Borer,0.69,High
+27.0,60.6,97.9,Flowering,Rice Blast Risk,0.608,Medium
+35.8,94.4,36.4,Ripening,Rice Bug,1.0,High
+33.0,88.8,119.1,Seedling,Rice Blast Risk,0.589,Medium
+37.8,91.5,109.0,Ripening,Rice Bug,0.99,High
+28.6,74.1,58.3,Vegetative,Stem Borer,1.0,High
+31.2,74.5,86.7,Tillering,Stem Borer,1.0,High
+24.0,72.6,62.9,Vegetative,Stem Borer,0.789,High
+37.0,60.4,91.3,Seedling,Rice Bug,0.21,Low
+25.3,52.5,99.2,Flowering,Rice Blast Risk,0.614,Medium
+32.8,71.4,2.8,Tillering,Stem Borer,0.603,Medium
+26.1,31.8,9.5,Tillering,Leaf Folder,0.702,High
+29.2,30.5,40.4,Tillering,Stem Borer,0.739,High
+32.4,89.6,110.1,Flowering,Rice Bug,0.937,High
+28.2,33.2,47.8,Ripening,Rice Bug,0.777,High
+36.1,66.7,106.5,Tillering,Rice Bug,0.55,Medium
+26.4,73.0,55.5,Seedling,Stem Borer,0.699,High
+30.9,43.9,34.7,Vegetative,Stem Borer,0.688,High
+24.8,92.7,108.1,Tillering,Leaf Folder,0.921,High
+26.2,43.3,67.3,Seedling,Rice Blast Risk,0.584,Medium
+26.8,91.9,43.3,Vegetative,Leaf Folder,1.0,High
+20.5,83.4,5.3,Vegetative,Brown Planthopper,0.654,Medium
+19.8,46.9,13.3,Ripening,Rice Bug,0.484,Medium
+31.3,40.6,16.7,Tillering,Stem Borer,0.608,Medium
+31.1,52.1,43.8,Ripening,Rice Bug,0.722,High
+31.3,57.9,72.9,Tillering,Stem Borer,0.7,High
+18.4,47.2,36.9,Tillering,Stem Borer,0.313,Low
+24.5,99.9,7.9,Ripening,Rice Blast Risk,0.867,High
+22.0,46.1,31.8,Flowering,Rice Blast Risk,0.551,Medium
+33.6,88.1,49.0,Vegetative,Stem Borer,0.645,Medium
+35.2,41.1,119.1,Vegetative,Stem Borer,0.277,Low
+22.9,98.6,47.2,Flowering,Rice Blast Risk,1.0,High
+31.4,45.8,10.7,Seedling,Stem Borer,0.328,Low
+20.6,59.5,69.7,Seedling,Rice Blast Risk,0.561,Medium
+23.5,69.1,110.4,Seedling,Rice Blast Risk,0.593,Medium
+20.8,38.4,94.4,Flowering,Rice Blast Risk,0.593,Medium
+23.7,87.2,100.3,Tillering,Rice Blast Risk,1.0,High
+31.5,49.2,111.4,Seedling,Stem Borer,0.387,Low
+36.2,68.4,76.4,Flowering,Rice Bug,0.979,High
+22.1,68.5,119.4,Flowering,Rice Bug,0.771,High
+28.8,72.2,4.0,Flowering,Rice Bug,1.0,High
+32.0,33.9,100.2,Seedling,Rice Bug,0.245,Low
+37.1,41.8,102.8,Ripening,Rice Bug,0.824,High
+30.2,41.3,110.0,Seedling,Stem Borer,0.419,Low
+23.1,51.1,57.4,Tillering,Rice Blast Risk,0.569,Medium
+30.5,40.1,94.5,Tillering,Stem Borer,0.82,High
+24.4,94.5,23.4,Vegetative,Leaf Folder,1.0,High
+37.5,65.9,72.4,Vegetative,Rice Bug,0.584,Medium
+26.0,73.7,43.0,Seedling,Rice Blast Risk,0.51,Medium
+31.7,55.0,71.5,Tillering,Stem Borer,0.81,High
+18.5,49.3,81.1,Flowering,Rice Bug,0.496,Medium
+26.0,65.2,41.6,Vegetative,Stem Borer,0.689,High
+35.5,50.6,25.9,Tillering,Stem Borer,0.292,Low
+30.2,54.1,38.6,Ripening,Rice Bug,0.766,High
+26.9,61.7,79.7,Vegetative,Stem Borer,0.646,Medium
+36.7,65.4,81.2,Vegetative,Rice Bug,0.52,Medium
+35.1,98.9,89.0,Seedling,Rice Blast Risk,0.592,Medium
+24.4,45.6,15.2,Tillering,Leaf Folder,0.74,High
+28.9,64.2,98.2,Vegetative,Stem Borer,0.728,High
+27.8,40.5,82.6,Ripening,Rice Bug,0.864,High
+30.6,54.5,3.7,Vegetative,Stem Borer,0.549,Medium
+24.7,80.2,40.3,Flowering,Rice Bug,0.827,High
+22.9,42.2,56.0,Seedling,Rice Blast Risk,0.46,Medium
+36.3,70.7,43.3,Vegetative,Stem Borer,0.71,High
+36.5,59.2,14.1,Seedling,Rice Bug,0.218,Low
+34.9,33.6,24.9,Tillering,Stem Borer,0.378,Low
+37.6,95.3,2.9,Seedling,Brown Planthopper,0.474,Medium
+32.9,59.0,11.2,Seedling,Rice Bug,0.204,Low
+33.3,84.9,32.0,Tillering,Brown Planthopper,0.637,Medium
+33.3,59.1,98.4,Tillering,Stem Borer,0.378,Low
+27.6,95.6,63.2,Vegetative,Leaf Folder,1.0,High
+27.1,50.3,50.9,Tillering,Stem Borer,0.758,High
+22.8,58.9,79.5,Tillering,Rice Blast Risk,0.565,Medium
+30.9,83.1,65.0,Flowering,Rice Bug,1.0,High
+23.8,54.1,15.8,Tillering,Leaf Folder,0.276,Low
+23.2,55.5,26.7,Ripening,Rice Bug,0.478,Medium
+29.7,99.6,26.7,Vegetative,Leaf Folder,1.0,High
+26.2,68.9,72.0,Seedling,Rice Blast Risk,0.567,Medium
+22.4,78.3,55.4,Tillering,Stem Borer,0.657,Medium
+34.3,75.0,46.5,Seedling,Rice Bug,0.547,Medium
+35.2,88.0,66.8,Flowering,Rice Bug,0.973,High
+21.4,90.3,116.4,Vegetative,Rice Blast Risk,0.961,High
+18.2,69.4,37.7,Vegetative,Stem Borer,0.424,Medium
+24.7,50.6,62.4,Tillering,Leaf Folder,0.65,Medium
+34.0,31.6,57.6,Seedling,Rice Bug,0.224,Low
+34.8,73.0,86.0,Vegetative,Stem Borer,0.672,Medium
+20.8,87.8,87.6,Ripening,Rice Blast Risk,0.947,High
+33.5,61.5,87.5,Flowering,Rice Bug,0.73,High
+20.3,41.5,24.2,Tillering,Stem Borer,0.455,Medium
+25.8,50.2,53.9,Tillering,Leaf Folder,0.662,Medium
+38.0,65.7,97.3,Tillering,Rice Bug,0.548,Medium
+21.9,88.6,45.8,Ripening,Rice Blast Risk,1.0,High
+21.1,42.0,118.1,Ripening,Rice Blast Risk,0.519,Medium
+26.5,72.9,43.8,Tillering,Stem Borer,0.918,High
+30.4,82.7,59.7,Ripening,Rice Bug,0.954,High
+36.7,95.5,56.9,Seedling,Rice Blast Risk,0.616,Medium
+37.6,38.2,52.0,Vegetative,Stem Borer,0.363,Low
+19.4,94.8,101.5,Vegetative,Stem Borer,0.749,High
+20.8,72.1,18.6,Flowering,Rice Bug,0.799,High
+33.8,83.7,68.1,Flowering,Rice Bug,1.0,High
+23.4,33.8,74.2,Tillering,Rice Blast Risk,0.512,Medium
+35.7,65.4,102.1,Vegetative,Rice Bug,0.58,Medium
+31.3,73.6,73.1,Tillering,Stem Borer,1.0,High
+20.2,51.5,115.2,Vegetative,Rice Blast Risk,0.538,Medium
+34.7,60.2,104.7,Tillering,Stem Borer,0.424,Medium
+21.5,68.8,41.8,Vegetative,Rice Blast Risk,0.612,Medium
+26.5,68.7,103.2,Ripening,Rice Bug,0.747,High
+29.0,32.9,115.0,Flowering,Rice Bug,0.743,High
+28.0,60.8,30.9,Seedling,Brown Planthopper,0.369,Low
+31.7,45.0,73.2,Ripening,Rice Bug,0.632,Medium
+31.1,94.2,33.8,Flowering,Rice Bug,1.0,High
+37.8,98.4,77.9,Vegetative,Stem Borer,0.665,Medium
+38.0,51.0,11.2,Tillering,Leaf Folder,0.296,Low
+28.3,42.3,88.1,Seedling,Stem Borer,0.421,Medium
+19.9,45.4,50.4,Seedling,Rice Blast Risk,0.127,Low
+32.6,63.4,70.5,Tillering,Stem Borer,0.44,Medium
+37.5,91.2,3.1,Flowering,Rice Bug,1.0,High
+24.4,65.0,83.5,Vegetative,Leaf Folder,0.63,Medium
+27.2,33.9,59.5,Vegetative,Stem Borer,0.697,High
+26.5,32.8,75.0,Ripening,Rice Blast Risk,0.49,Medium
+19.0,45.9,37.9,Ripening,Rice Bug,0.538,Medium
+31.4,89.0,17.5,Tillering,Stem Borer,0.909,High
+25.1,73.5,52.3,Seedling,Rice Blast Risk,0.563,Medium
+33.7,69.4,113.3,Flowering,Rice Bug,1.0,High
+34.6,52.3,27.3,Flowering,Rice Bug,0.718,High
+34.4,95.1,81.1,Ripening,Rice Bug,0.924,High
+26.3,53.2,6.0,Ripening,Rice Bug,0.548,Medium
+24.4,88.4,86.2,Flowering,Rice Blast Risk,1.0,High
+33.0,92.7,28.6,Seedling,Brown Planthopper,0.473,Medium
+34.0,63.8,54.2,Vegetative,Stem Borer,0.42,Medium
+27.8,92.6,44.1,Flowering,Rice Bug,1.0,High
+35.9,49.4,13.5,Flowering,Rice Bug,0.807,High
+20.9,76.1,41.5,Tillering,Stem Borer,0.672,Medium
+35.6,36.2,42.0,Tillering,Stem Borer,0.326,Low
+19.9,63.2,62.7,Flowering,Rice Bug,0.434,Medium
+21.1,45.2,116.7,Tillering,Rice Blast Risk,0.534,Medium
+28.7,34.4,56.4,Seedling,Stem Borer,0.473,Medium
+19.4,30.3,109.7,Ripening,Rice Bug,0.464,Medium
+19.1,52.7,55.4,Vegetative,Stem Borer,0.37,Low
+18.0,71.3,12.9,Vegetative,Stem Borer,0.569,Medium
+26.7,61.9,27.6,Seedling,Brown Planthopper,0.373,Low
+33.5,51.1,48.9,Tillering,Stem Borer,0.399,Low
+18.7,99.4,39.0,Ripening,Rice Bug,0.686,High
+31.0,95.8,103.9,Seedling,Stem Borer,0.754,High
+34.5,38.8,81.4,Vegetative,Stem Borer,0.393,Low
+21.4,59.1,69.4,Seedling,Rice Blast Risk,0.674,Medium
+20.9,75.4,58.9,Seedling,Rice Blast Risk,0.491,Medium
+35.2,81.3,47.7,Flowering,Rice Bug,1.0,High
+34.5,55.6,73.5,Vegetative,Stem Borer,0.47,Medium
+28.8,82.2,15.0,Flowering,Rice Bug,0.979,High
+34.4,38.7,19.5,Tillering,Leaf Folder,0.33,Low
+19.9,53.2,36.4,Flowering,Rice Bug,0.454,Medium
+25.9,80.2,20.5,Seedling,Brown Planthopper,0.755,High
+32.8,73.8,81.3,Vegetative,Stem Borer,0.7,High
+23.1,88.6,3.0,Tillering,Rice Blast Risk,0.801,High
+33.0,33.3,19.2,Seedling,Rice Bug,0.17,Low
+28.1,42.2,108.3,Tillering,Stem Borer,0.815,High
+33.0,33.4,119.7,Tillering,Stem Borer,0.387,Low
+27.3,43.4,58.5,Tillering,Stem Borer,0.703,High
+25.4,30.3,59.4,Tillering,Leaf Folder,0.619,Medium
+22.4,65.3,92.8,Flowering,Rice Bug,0.737,High
+22.2,67.0,4.3,Flowering,Rice Bug,0.732,High
+33.0,76.1,51.2,Seedling,Rice Bug,0.5,Medium
+20.4,56.9,12.0,Flowering,Rice Bug,0.499,Medium
+19.7,30.2,48.1,Ripening,Rice Bug,0.54,Medium
+21.5,77.2,118.1,Ripening,Rice Bug,0.761,High
+21.5,33.8,90.4,Vegetative,Rice Blast Risk,0.585,Medium
+34.5,90.6,118.2,Flowering,Rice Bug,1.0,High
+26.0,31.6,89.5,Ripening,Rice Blast Risk,0.562,Medium
+37.8,67.1,73.0,Vegetative,Rice Bug,0.488,Medium
+20.7,92.6,90.5,Ripening,Rice Blast Risk,1.0,High
+31.1,70.1,79.1,Flowering,Rice Bug,1.0,High
+27.0,72.6,55.7,Flowering,Rice Bug,0.742,High
+25.9,77.7,35.1,Flowering,Rice Bug,0.741,High
+35.5,38.6,62.4,Flowering,Rice Bug,0.745,High
+37.5,77.2,31.0,Ripening,Rice Bug,1.0,High
+35.5,91.6,58.4,Ripening,Rice Bug,0.997,High
+21.8,98.2,17.5,Tillering,Rice Blast Risk,0.772,High
+22.4,61.0,67.8,Tillering,Rice Blast Risk,0.588,Medium
+31.1,54.1,29.4,Flowering,Rice Bug,0.791,High
+23.8,82.7,35.2,Ripening,Rice Bug,0.839,High
+32.7,68.0,59.9,Vegetative,Rice Bug,0.47,Medium
+29.3,48.0,19.5,Vegetative,Leaf Folder,0.683,High
+29.0,42.1,115.5,Flowering,Rice Bug,0.655,Medium
+34.6,41.9,53.6,Ripening,Rice Bug,0.791,High
+32.2,62.1,42.3,Ripening,Rice Bug,0.677,Medium
+18.5,41.9,3.5,Seedling,Brown Planthopper,0.051,Low
+19.0,31.4,101.2,Ripening,Rice Bug,0.517,Medium
+30.0,33.6,75.1,Flowering,Rice Bug,0.719,High
+27.7,95.1,50.0,Seedling,Rice Blast Risk,0.962,High
+23.2,35.1,29.5,Seedling,Rice Blast Risk,0.326,Low
+26.4,35.1,89.4,Vegetative,Stem Borer,0.736,High
+33.2,61.6,113.5,Ripening,Rice Bug,0.703,High
+34.5,47.2,45.7,Flowering,Rice Bug,0.747,High
+29.2,97.4,16.2,Tillering,Leaf Folder,0.981,High
+25.7,93.8,13.1,Flowering,Brown Planthopper,1.0,High
+23.4,58.3,0.8,Tillering,Leaf Folder,0.392,Low
+28.4,61.4,89.3,Ripening,Rice Bug,0.658,Medium
+24.3,56.3,117.8,Seedling,Rice Blast Risk,0.602,Medium
+29.3,32.7,119.1,Vegetative,Stem Borer,0.669,Medium
+31.5,50.5,94.1,Vegetative,Stem Borer,0.712,High
+19.3,38.6,19.5,Ripening,Rice Bug,0.453,Medium
+18.0,37.2,117.3,Tillering,Stem Borer,0.419,Low
+22.2,69.3,39.3,Flowering,Rice Bug,0.878,High
+35.9,36.9,40.0,Ripening,Rice Bug,0.756,High
+30.9,37.2,82.5,Seedling,Stem Borer,0.377,Low
+21.4,63.6,5.9,Ripening,Rice Bug,0.488,Medium
+35.8,61.0,99.1,Seedling,Rice Bug,0.177,Low
+27.4,39.6,119.7,Flowering,Rice Bug,0.822,High
+27.5,30.3,93.0,Flowering,Rice Bug,0.766,High
+36.7,43.5,93.8,Ripening,Rice Bug,0.698,High
+19.2,46.5,46.8,Seedling,Rice Blast Risk,0.149,Low
+22.3,86.0,7.9,Ripening,Rice Blast Risk,0.801,High
+29.7,94.1,95.1,Flowering,Rice Bug,1.0,High
+21.9,58.4,71.7,Seedling,Rice Blast Risk,0.492,Medium
+31.6,58.4,109.1,Tillering,Stem Borer,0.756,High
+22.3,79.9,13.9,Ripening,Rice Bug,0.745,High
+20.0,73.9,36.6,Tillering,Stem Borer,0.653,Medium
+22.1,42.9,43.3,Vegetative,Rice Blast Risk,0.527,Medium
+26.5,37.5,82.0,Vegetative,Stem Borer,0.787,High
+21.5,60.6,94.5,Tillering,Rice Blast Risk,0.481,Medium
+20.7,69.5,115.3,Ripening,Rice Bug,0.713,High
+35.2,39.7,35.4,Flowering,Rice Bug,0.798,High
+24.4,50.5,59.2,Flowering,Rice Blast Risk,0.561,Medium
+25.2,51.4,3.5,Flowering,Brown Planthopper,0.56,Medium
+19.1,48.3,30.4,Flowering,Rice Bug,0.548,Medium
+25.1,62.3,44.9,Tillering,Leaf Folder,0.701,High
+23.3,75.7,71.3,Flowering,Rice Bug,0.767,High
+30.2,65.7,56.5,Vegetative,Stem Borer,0.669,Medium
+22.1,44.1,43.7,Tillering,Rice Blast Risk,0.527,Medium
+35.8,37.2,74.9,Vegetative,Stem Borer,0.414,Low
+36.6,87.5,99.4,Ripening,Rice Bug,0.934,High
+20.0,63.6,29.0,Flowering,Rice Bug,0.566,Medium
+20.1,34.3,41.1,Tillering,Rice Blast Risk,0.635,Medium
+20.3,48.1,84.6,Tillering,Rice Blast Risk,0.538,Medium
+30.4,86.3,93.4,Tillering,Stem Borer,1.0,High
+20.4,82.6,99.0,Flowering,Rice Bug,0.809,High
+35.0,91.3,25.1,Vegetative,Brown Planthopper,0.798,High
+33.1,72.1,64.7,Ripening,Rice Bug,1.0,High
+34.4,59.6,108.0,Vegetative,Stem Borer,0.313,Low
+28.5,59.9,47.0,Seedling,Stem Borer,0.384,Low
+37.9,43.6,51.6,Flowering,Rice Bug,0.775,High
+18.9,75.6,118.2,Flowering,Rice Bug,0.725,High
+26.0,71.0,13.6,Vegetative,Stem Borer,0.989,High
+24.5,40.8,84.7,Flowering,Rice Blast Risk,0.631,Medium
+37.0,92.0,102.0,Flowering,Rice Bug,0.959,High
+29.5,55.8,18.1,Flowering,Rice Bug,0.742,High
+34.1,33.5,85.7,Ripening,Rice Bug,0.713,High
+21.4,53.0,56.4,Ripening,Rice Blast Risk,0.54,Medium
+37.6,90.9,102.3,Tillering,Stem Borer,0.689,High
+28.0,94.2,108.9,Vegetative,Leaf Folder,1.0,High
+27.9,64.3,104.7,Seedling,Rice Blast Risk,0.506,Medium
+37.4,96.9,7.7,Tillering,Brown Planthopper,0.569,Medium
+25.6,91.3,90.8,Flowering,Rice Blast Risk,0.92,High
+26.0,87.8,110.6,Flowering,Rice Blast Risk,0.949,High
+29.7,90.2,74.6,Seedling,Brown Planthopper,0.667,Medium
+20.6,56.7,72.1,Flowering,Rice Blast Risk,0.559,Medium
+24.4,83.0,5.4,Flowering,Rice Bug,0.696,High
+21.9,70.4,102.7,Flowering,Rice Bug,0.689,High
+20.1,80.4,5.6,Tillering,Brown Planthopper,0.654,Medium
+35.3,42.4,37.6,Seedling,Rice Bug,0.194,Low
+29.8,81.2,111.1,Tillering,Leaf Folder,0.972,High
+25.2,97.0,114.0,Flowering,Rice Blast Risk,0.97,High
+26.2,51.2,119.0,Tillering,Stem Borer,0.734,High
+26.6,99.0,57.2,Tillering,Leaf Folder,0.951,High
+30.7,56.5,21.3,Tillering,Stem Borer,0.682,High
+36.5,44.0,58.6,Tillering,Stem Borer,0.373,Low
+36.7,37.9,12.3,Vegetative,Leaf Folder,0.39,Low
+25.8,84.9,104.7,Flowering,Brown Planthopper,0.892,High
+24.6,68.8,67.3,Vegetative,Leaf Folder,0.703,High
+27.0,51.5,48.5,Tillering,Stem Borer,0.642,Medium
+29.4,72.6,9.5,Tillering,Stem Borer,0.898,High
+27.2,53.2,48.6,Flowering,Rice Bug,0.721,High
+31.2,61.4,103.9,Ripening,Rice Bug,0.689,High
+29.1,90.4,84.4,Flowering,Rice Bug,0.997,High
+24.4,76.8,9.9,Seedling,Leaf Folder,0.737,High
+24.9,83.4,19.2,Flowering,Rice Bug,0.707,High
+25.6,70.8,47.1,Vegetative,Stem Borer,0.694,High
+19.9,99.4,12.2,Seedling,Brown Planthopper,0.434,Medium
+21.3,46.9,112.1,Seedling,Rice Blast Risk,0.477,Medium
+32.5,48.4,78.3,Ripening,Rice Bug,0.711,High
+25.8,36.5,11.4,Tillering,Leaf Folder,0.628,Medium
+22.3,68.8,94.6,Vegetative,Rice Blast Risk,0.53,Medium
+29.3,72.9,44.2,Seedling,Stem Borer,0.689,High
+33.1,80.8,29.4,Flowering,Rice Bug,0.918,High
+23.1,53.5,68.4,Flowering,Rice Blast Risk,0.519,Medium
+34.5,30.9,1.6,Vegetative,Leaf Folder,0.375,Low
+36.6,74.3,55.8,Seedling,Rice Bug,0.432,Medium
+29.9,99.9,101.3,Vegetative,Leaf Folder,0.982,High
+31.4,50.6,111.4,Flowering,Rice Bug,0.765,High
+19.1,42.9,41.1,Seedling,Rice Blast Risk,0.161,Low
+36.9,49.7,77.1,Vegetative,Stem Borer,0.417,Low
+25.8,59.8,27.2,Seedling,Brown Planthopper,0.324,Low
+36.5,47.6,67.2,Tillering,Stem Borer,0.444,Medium
+29.6,54.3,30.5,Seedling,Brown Planthopper,0.418,Low
+18.1,74.7,68.6,Seedling,Stem Borer,0.403,Low
+18.8,54.2,20.6,Seedling,Brown Planthopper,0.156,Low
+31.6,57.7,112.9,Flowering,Rice Bug,0.734,High
+29.3,32.8,106.4,Tillering,Stem Borer,0.669,Medium
+18.5,94.3,40.4,Ripening,Rice Bug,0.819,High
+32.9,58.5,93.2,Vegetative,Stem Borer,0.492,Medium
+35.0,53.0,11.5,Vegetative,Leaf Folder,0.315,Low
+27.9,36.1,88.8,Vegetative,Stem Borer,0.694,High
+27.3,74.4,33.9,Ripening,Rice Bug,1.0,High
+18.1,90.5,16.3,Tillering,Brown Planthopper,0.696,High
+33.7,32.9,81.4,Vegetative,Stem Borer,0.43,Medium
+24.6,40.2,56.4,Flowering,Rice Blast Risk,0.589,Medium
+35.6,40.2,63.6,Tillering,Stem Borer,0.372,Low
+25.5,72.2,62.5,Seedling,Rice Blast Risk,0.571,Medium
+29.3,94.5,7.1,Flowering,Rice Bug,1.0,High
+23.4,60.6,6.2,Seedling,Rice Blast Risk,0.289,Low
+21.2,54.1,72.1,Seedling,Rice Blast Risk,0.501,Medium
+33.5,83.6,74.9,Flowering,Rice Bug,0.967,High
+27.9,82.0,5.7,Tillering,Leaf Folder,1.0,High
+28.7,47.3,45.4,Vegetative,Stem Borer,0.748,High
+37.3,41.3,73.5,Seedling,Rice Bug,0.287,Low
+37.3,55.0,78.8,Tillering,Stem Borer,0.422,Medium
+35.1,84.3,99.4,Flowering,Rice Bug,1.0,High
+21.8,78.7,50.5,Vegetative,Stem Borer,0.714,High
+29.9,76.6,65.8,Tillering,Leaf Folder,1.0,High
+35.6,88.1,69.4,Vegetative,Stem Borer,0.724,High
+25.5,49.4,37.4,Ripening,Rice Blast Risk,0.48,Medium
+20.0,53.8,6.5,Flowering,Rice Bug,0.46,Medium
+34.2,33.0,0.5,Vegetative,Leaf Folder,0.299,Low
+27.6,90.8,100.3,Tillering,Leaf Folder,1.0,High
+29.3,70.8,24.0,Ripening,Rice Bug,1.0,High
+37.6,50.9,75.6,Vegetative,Stem Borer,0.292,Low
+30.1,34.9,69.2,Seedling,Stem Borer,0.478,Medium
+26.5,80.6,48.0,Vegetative,Leaf Folder,1.0,High
+25.4,82.4,100.0,Flowering,Brown Planthopper,0.951,High
+26.4,76.6,83.8,Ripening,Rice Bug,0.775,High
+20.4,44.3,2.7,Vegetative,Leaf Folder,0.422,Medium
+33.9,93.9,93.2,Seedling,Rice Blast Risk,0.66,Medium
+34.8,82.7,60.8,Seedling,Rice Bug,0.432,Medium
+23.7,76.0,41.6,Tillering,Stem Borer,0.695,High
+24.1,75.6,87.2,Seedling,Leaf Folder,0.676,Medium
+35.5,93.3,82.3,Seedling,Rice Blast Risk,0.639,Medium
+18.5,95.0,37.3,Flowering,Rice Bug,0.783,High
+28.4,71.7,118.0,Ripening,Rice Bug,0.997,High
+27.3,59.2,77.8,Vegetative,Stem Borer,0.67,Medium
+31.8,55.5,72.7,Tillering,Stem Borer,0.646,Medium
+21.3,87.3,8.4,Tillering,Rice Blast Risk,0.78,High
+31.4,75.1,33.5,Flowering,Rice Bug,1.0,High
+25.5,35.4,53.6,Ripening,Rice Blast Risk,0.452,Medium
+30.4,40.0,75.7,Ripening,Rice Bug,0.711,High
+18.8,93.0,61.5,Vegetative,Stem Borer,0.6,Medium
+27.2,91.9,91.6,Ripening,Rice Bug,0.969,High
+28.4,96.6,31.5,Seedling,Brown Planthopper,0.86,High
+22.3,59.9,84.3,Ripening,Rice Blast Risk,0.491,Medium
+20.8,84.9,98.0,Seedling,Rice Blast Risk,0.585,Medium
+21.8,88.0,91.8,Seedling,Rice Blast Risk,1.0,High
+24.9,52.1,92.5,Seedling,Rice Blast Risk,0.623,Medium
+19.9,40.2,106.6,Seedling,Rice Blast Risk,0.207,Low
+36.9,99.8,10.1,Tillering,Brown Planthopper,0.743,High
+26.1,32.1,83.7,Flowering,Rice Blast Risk,0.482,Medium
+34.2,71.8,116.2,Flowering,Rice Bug,0.921,High
+37.5,75.5,68.8,Seedling,Rice Bug,0.501,Medium
+19.6,77.7,26.1,Vegetative,Stem Borer,0.72,High
+31.0,47.9,119.9,Seedling,Stem Borer,0.455,Medium
+35.4,80.5,21.0,Seedling,Brown Planthopper,0.472,Medium
+30.7,45.1,40.3,Flowering,Rice Bug,0.76,High
+26.6,88.0,20.6,Flowering,Brown Planthopper,1.0,High
+26.6,45.3,55.7,Vegetative,Stem Borer,0.693,High
+18.7,78.8,50.3,Vegetative,Stem Borer,0.696,High
+28.7,84.8,58.9,Ripening,Rice Bug,0.957,High
+37.9,43.2,111.4,Tillering,Stem Borer,0.414,Low
+37.2,46.7,57.4,Vegetative,Stem Borer,0.41,Low
+18.8,84.5,61.8,Ripening,Rice Bug,0.728,High
+32.1,36.0,106.4,Seedling,Rice Bug,0.283,Low
+24.0,43.4,98.1,Vegetative,Leaf Folder,0.701,High
+36.1,61.9,28.8,Flowering,Rice Bug,0.784,High
+18.9,95.1,1.6,Tillering,Brown Planthopper,0.648,Medium
+36.7,69.3,75.5,Seedling,Rice Bug,0.505,Medium
+34.7,57.1,101.4,Ripening,Rice Bug,0.704,High
+20.4,98.5,66.3,Vegetative,Rice Blast Risk,1.0,High
+19.2,62.5,25.3,Flowering,Rice Bug,0.455,Medium
+34.7,60.4,89.0,Vegetative,Stem Borer,0.464,Medium
+21.1,58.8,80.3,Flowering,Rice Blast Risk,0.589,Medium
+28.7,51.9,67.8,Ripening,Rice Bug,0.808,High
+36.3,52.8,103.6,Flowering,Rice Bug,0.803,High
+29.3,78.1,94.1,Ripening,Rice Bug,0.986,High
+25.9,32.9,80.2,Tillering,Leaf Folder,0.629,Medium
+26.9,77.7,79.8,Seedling,Stem Borer,0.787,High
+19.3,44.1,79.5,Tillering,Stem Borer,0.392,Low
+37.4,56.9,63.0,Tillering,Stem Borer,0.332,Low
+24.2,40.3,55.7,Flowering,Rice Blast Risk,0.6,Medium
+21.8,68.7,85.2,Vegetative,Rice Blast Risk,0.557,Medium
+23.7,81.1,73.3,Flowering,Rice Bug,0.825,High
+37.3,54.8,58.8,Tillering,Stem Borer,0.412,Low
+19.9,41.4,15.2,Flowering,Rice Bug,0.499,Medium
+35.3,45.9,84.2,Tillering,Stem Borer,0.476,Medium
+32.2,87.3,77.5,Vegetative,Stem Borer,0.623,Medium
+34.6,48.7,41.1,Vegetative,Stem Borer,0.371,Low
+37.5,84.2,42.8,Ripening,Rice Bug,0.956,High
+34.8,53.2,29.6,Seedling,Rice Bug,0.14,Low
+36.9,43.2,115.4,Vegetative,Stem Borer,0.444,Medium
+20.5,80.9,103.2,Tillering,Stem Borer,0.672,Medium
+33.9,62.8,67.3,Seedling,Rice Bug,0.295,Low
+28.9,32.2,48.2,Ripening,Rice Bug,0.769,High
+28.9,97.2,88.4,Vegetative,Leaf Folder,1.0,High
+36.0,40.3,63.3,Vegetative,Stem Borer,0.377,Low
+37.4,54.7,117.1,Vegetative,Stem Borer,0.362,Low
+32.1,56.9,6.6,Seedling,Rice Bug,0.254,Low
+27.7,64.3,4.1,Flowering,Rice Bug,0.796,High
+27.1,85.0,68.2,Tillering,Leaf Folder,0.997,High
+25.7,30.4,24.4,Vegetative,Leaf Folder,0.615,Medium
+25.2,95.3,72.5,Ripening,Rice Blast Risk,0.94,High
+25.8,75.2,93.8,Flowering,Rice Bug,0.76,High
+19.8,96.5,16.6,Tillering,Brown Planthopper,0.672,Medium
+19.5,87.2,52.9,Tillering,Stem Borer,0.696,High
+33.6,94.9,82.6,Flowering,Rice Bug,0.988,High
+26.9,72.1,100.1,Seedling,Stem Borer,0.678,Medium
+36.6,55.0,59.6,Ripening,Rice Bug,0.765,High
+30.2,61.0,24.7,Vegetative,Stem Borer,0.728,High
+18.7,76.1,70.3,Seedling,Stem Borer,0.498,Medium
+21.2,59.9,54.5,Tillering,Rice Blast Risk,0.588,Medium
+22.1,81.2,92.6,Ripening,Rice Bug,0.83,High
+37.5,36.4,66.7,Flowering,Rice Bug,0.709,High
+22.4,88.1,33.5,Vegetative,Rice Blast Risk,0.92,High
+28.3,44.3,90.5,Vegetative,Stem Borer,0.699,High
+36.7,96.1,62.1,Tillering,Stem Borer,0.743,High
+37.5,40.9,21.3,Vegetative,Stem Borer,0.435,Medium
+22.7,39.0,67.6,Ripening,Rice Blast Risk,0.611,Medium
+19.0,86.8,113.8,Vegetative,Stem Borer,0.573,Medium
+21.1,87.3,84.7,Vegetative,Rice Blast Risk,1.0,High
+19.3,81.7,35.9,Seedling,Brown Planthopper,0.517,Medium
+21.9,97.2,85.3,Flowering,Rice Blast Risk,0.923,High
+29.4,48.9,33.9,Seedling,Brown Planthopper,0.436,Medium
+36.2,87.9,65.1,Ripening,Rice Bug,1.0,High
+28.7,54.6,63.2,Ripening,Rice Bug,0.769,High
+30.5,67.6,29.7,Seedling,Rice Bug,0.55,Medium
+22.0,61.2,41.7,Seedling,Rice Blast Risk,0.572,Medium
+34.0,30.4,113.1,Ripening,Rice Bug,0.676,Medium
+30.4,70.2,30.1,Seedling,Stem Borer,0.693,High
+35.3,82.3,96.1,Tillering,Stem Borer,0.619,Medium
+37.0,42.2,80.1,Ripening,Rice Bug,0.782,High
+25.0,95.2,63.9,Seedling,Rice Blast Risk,1.0,High
+19.8,67.1,16.5,Flowering,Rice Bug,0.688,High
+22.5,42.5,24.5,Vegetative,Stem Borer,0.366,Low
+26.8,75.2,21.5,Tillering,Leaf Folder,0.956,High
+36.9,43.4,70.4,Ripening,Rice Bug,0.727,High
+25.6,34.4,116.8,Flowering,Rice Blast Risk,0.571,Medium
+33.4,78.0,105.3,Vegetative,Stem Borer,0.678,Medium
+28.8,37.7,3.0,Ripening,Rice Bug,0.783,High
+21.7,37.4,32.8,Tillering,Rice Blast Risk,0.603,Medium
+24.4,81.8,18.9,Seedling,Leaf Folder,0.705,High
+31.1,33.9,117.1,Vegetative,Stem Borer,0.644,Medium
+31.5,86.7,28.3,Vegetative,Stem Borer,1.0,High
+26.7,85.7,24.2,Flowering,Brown Planthopper,1.0,High
+22.6,39.9,74.5,Ripening,Rice Blast Risk,0.628,Medium
+32.4,66.3,66.7,Seedling,Rice Bug,0.492,Medium
+21.4,36.8,27.1,Flowering,Rice Bug,0.462,Medium
+36.7,74.3,80.4,Ripening,Rice Bug,0.951,High
+21.8,34.4,11.6,Ripening,Rice Bug,0.445,Medium
+20.1,96.1,2.3,Flowering,Rice Blast Risk,0.801,High
+28.0,44.5,9.9,Vegetative,Leaf Folder,0.692,High
+28.4,77.8,43.8,Seedling,Stem Borer,0.765,High
+28.2,39.0,117.0,Ripening,Rice Bug,0.726,High
+26.7,44.7,65.7,Tillering,Stem Borer,0.698,High
+37.9,61.6,90.6,Vegetative,Stem Borer,0.395,Low
+27.7,70.1,38.6,Flowering,Rice Bug,0.968,High
+27.6,99.9,86.3,Flowering,Rice Bug,1.0,High
+26.4,31.8,115.9,Ripening,Rice Blast Risk,0.568,Medium
+19.3,30.0,42.9,Ripening,Rice Bug,0.507,Medium
+29.9,54.5,119.9,Ripening,Rice Bug,0.768,High
+22.6,55.6,76.6,Seedling,Rice Blast Risk,0.581,Medium
+30.8,91.9,89.8,Seedling,Stem Borer,0.73,High
+19.0,93.9,30.3,Vegetative,Brown Planthopper,0.658,Medium
+37.6,91.6,77.2,Flowering,Rice Bug,1.0,High
+27.4,40.0,61.3,Tillering,Stem Borer,0.713,High
+35.9,58.8,114.8,Ripening,Rice Bug,0.728,High
+27.5,82.2,108.6,Ripening,Rice Bug,1.0,High
+19.2,51.9,47.6,Ripening,Rice Bug,0.517,Medium
+34.4,76.4,113.6,Seedling,Rice Bug,0.554,Medium
+31.0,46.6,106.2,Flowering,Rice Bug,0.698,High
+33.6,52.6,70.8,Ripening,Rice Bug,0.816,High
+26.6,90.2,9.9,Ripening,Rice Blast Risk,0.801,High
+30.8,47.5,19.3,Vegetative,Stem Borer,0.575,Medium
+35.1,97.5,9.2,Flowering,Rice Bug,0.973,High
+30.6,51.4,13.0,Tillering,Stem Borer,0.55,Medium
+25.0,31.6,117.2,Seedling,Rice Blast Risk,0.463,Medium
+31.3,47.8,25.5,Vegetative,Stem Borer,0.734,High
+31.4,42.0,82.9,Vegetative,Stem Borer,0.799,High
+37.2,65.5,76.4,Ripening,Rice Bug,0.919,High
+25.4,37.9,75.7,Seedling,Rice Blast Risk,0.502,Medium
+26.5,73.8,24.8,Seedling,Stem Borer,0.738,High
+34.2,91.2,69.5,Tillering,Stem Borer,0.698,High
+28.1,55.4,75.1,Tillering,Stem Borer,0.742,High
+32.7,41.8,68.4,Tillering,Stem Borer,0.395,Low
+27.2,58.0,22.3,Seedling,Brown Planthopper,0.371,Low
+22.3,85.0,86.8,Tillering,Rice Blast Risk,0.989,High
+32.9,71.4,8.8,Ripening,Rice Bug,0.881,High
+20.6,37.1,70.9,Seedling,Rice Blast Risk,0.493,Medium
+22.0,67.6,52.4,Flowering,Rice Bug,0.797,High
+30.5,62.8,30.0,Seedling,Stem Borer,0.46,Medium
+32.9,52.9,96.9,Vegetative,Stem Borer,0.47,Medium
+35.9,37.7,21.1,Ripening,Rice Bug,0.772,High
+23.5,98.7,112.0,Vegetative,Rice Blast Risk,0.887,High
+20.2,42.3,106.1,Tillering,Rice Blast Risk,0.518,Medium
+37.1,43.5,43.3,Vegetative,Stem Borer,0.466,Medium
+21.1,40.2,36.6,Flowering,Rice Blast Risk,0.631,Medium
+22.0,69.9,16.5,Tillering,Leaf Folder,0.418,Low
+23.8,61.1,110.0,Tillering,Rice Blast Risk,0.538,Medium
+28.6,47.5,75.3,Ripening,Rice Bug,0.685,High
+35.7,60.1,3.8,Tillering,Leaf Folder,0.348,Low
+33.2,77.1,61.3,Tillering,Stem Borer,0.701,High
+32.2,49.7,10.3,Ripening,Rice Bug,0.828,High
+21.5,94.1,68.9,Tillering,Rice Blast Risk,1.0,High
+25.2,51.4,61.1,Ripening,Rice Blast Risk,0.551,Medium
+27.6,43.9,9.9,Flowering,Rice Bug,0.754,High
+20.9,96.8,97.9,Ripening,Rice Blast Risk,1.0,High
+23.5,86.7,31.5,Tillering,Rice Blast Risk,1.0,High
+24.2,54.0,65.0,Tillering,Leaf Folder,0.614,Medium
+20.5,88.9,76.7,Seedling,Rice Blast Risk,0.947,High
+29.0,66.3,115.5,Seedling,Rice Bug,0.569,Medium
+32.1,54.3,59.3,Seedling,Rice Bug,0.168,Low
+19.4,88.8,110.1,Flowering,Rice Bug,0.832,High
+27.6,82.7,42.6,Vegetative,Leaf Folder,0.904,High
+33.6,50.9,102.9,Vegetative,Stem Borer,0.371,Low
+33.0,72.5,28.3,Flowering,Rice Bug,1.0,High
+34.3,55.9,84.9,Vegetative,Stem Borer,0.4,Low
+27.0,30.1,10.6,Seedling,Brown Planthopper,0.334,Low
+34.4,97.3,118.3,Tillering,Stem Borer,0.721,High
+22.8,68.5,114.5,Tillering,Rice Blast Risk,0.553,Medium
+25.2,71.9,53.1,Seedling,Rice Blast Risk,0.539,Medium
+21.5,72.0,62.9,Vegetative,Stem Borer,0.669,Medium
+27.3,68.5,71.7,Vegetative,Stem Borer,0.698,High
+25.8,50.3,33.0,Flowering,Brown Planthopper,0.571,Medium
+22.8,98.0,80.9,Vegetative,Rice Blast Risk,1.0,High
+33.0,73.5,83.8,Seedling,Rice Bug,0.488,Medium
+24.3,77.0,63.0,Vegetative,Leaf Folder,0.981,High
+23.5,61.8,17.7,Tillering,Leaf Folder,0.323,Low
+20.6,50.2,110.3,Flowering,Rice Blast Risk,0.639,Medium
+26.8,34.5,13.8,Seedling,Brown Planthopper,0.318,Low
+24.1,54.5,75.5,Ripening,Rice Blast Risk,0.568,Medium
+25.4,42.3,12.4,Vegetative,Leaf Folder,0.638,Medium
+22.7,76.3,17.5,Vegetative,Leaf Folder,0.629,Medium
+33.3,91.5,2.5,Seedling,Brown Planthopper,0.459,Medium
+36.6,51.2,43.6,Vegetative,Stem Borer,0.416,Low
+28.0,53.3,76.7,Tillering,Stem Borer,0.657,Medium
+30.9,76.9,62.6,Flowering,Rice Bug,1.0,High
+35.3,40.4,80.9,Flowering,Rice Bug,0.836,High
+38.0,95.1,81.0,Tillering,Stem Borer,0.709,High
+30.3,55.5,16.8,Seedling,Stem Borer,0.227,Low
+35.8,37.1,6.9,Vegetative,Leaf Folder,0.308,Low
+36.2,42.2,75.0,Flowering,Rice Bug,0.736,High
+33.8,95.3,78.4,Flowering,Rice Bug,0.982,High
+27.2,47.3,66.8,Tillering,Stem Borer,0.708,High
+19.6,76.4,29.5,Tillering,Stem Borer,0.716,High
+18.3,40.9,97.3,Tillering,Stem Borer,0.487,Medium
+27.5,43.6,9.1,Ripening,Rice Bug,0.75,High
+27.9,91.5,75.9,Tillering,Leaf Folder,0.942,High
+26.1,40.4,14.4,Tillering,Leaf Folder,0.708,High
+29.4,31.3,78.5,Vegetative,Stem Borer,0.763,High
+29.0,65.1,50.1,Tillering,Stem Borer,0.712,High
+34.7,90.4,86.2,Flowering,Rice Bug,0.988,High
+20.2,52.8,6.3,Ripening,Rice Bug,0.531,Medium
+22.5,39.0,66.6,Flowering,Rice Blast Risk,0.539,Medium
+33.9,98.8,17.4,Flowering,Rice Bug,0.897,High
+35.0,77.4,81.9,Flowering,Rice Bug,1.0,High
+37.9,89.5,14.4,Seedling,Brown Planthopper,0.545,Medium
+35.5,82.6,8.8,Vegetative,Brown Planthopper,0.772,High
+35.8,78.9,85.6,Vegetative,Stem Borer,0.663,Medium
+24.3,56.9,7.6,Flowering,Rice Bug,0.511,Medium
+26.0,52.7,26.9,Flowering,Brown Planthopper,0.612,Medium
+23.4,80.2,99.0,Seedling,Rice Blast Risk,0.554,Medium
+30.1,80.2,97.2,Seedling,Stem Borer,0.706,High
+36.8,96.5,102.5,Tillering,Stem Borer,0.702,High
+24.9,69.8,39.1,Ripening,Rice Bug,0.761,High
+29.1,50.6,63.4,Seedling,Stem Borer,0.437,Medium
+23.9,64.3,92.8,Ripening,Rice Blast Risk,0.611,Medium
+21.4,73.0,16.4,Seedling,Rice Blast Risk,0.312,Low
+21.9,59.9,86.9,Vegetative,Rice Blast Risk,0.541,Medium
+19.2,85.4,11.7,Flowering,Rice Bug,0.729,High
+37.0,70.9,109.6,Flowering,Rice Bug,0.972,High
+26.1,30.7,76.5,Ripening,Rice Blast Risk,0.469,Medium
+34.7,69.9,59.2,Seedling,Rice Bug,0.501,Medium
+31.6,74.4,58.2,Seedling,Stem Borer,0.724,High
+21.8,94.1,21.8,Tillering,Rice Blast Risk,0.792,High
+21.5,59.0,41.5,Tillering,Rice Blast Risk,0.55,Medium
+34.2,70.2,87.3,Vegetative,Stem Borer,0.721,High
+23.3,63.2,64.9,Flowering,Rice Blast Risk,0.621,Medium
+36.3,67.2,63.5,Vegetative,Rice Bug,0.479,Medium
+20.8,34.7,23.4,Ripening,Rice Bug,0.441,Medium
+31.6,92.8,82.8,Seedling,Stem Borer,0.695,High
+34.3,93.7,47.0,Flowering,Rice Bug,1.0,High
+22.7,68.4,21.9,Tillering,Stem Borer,0.342,Low
+23.5,69.0,113.3,Seedling,Rice Blast Risk,0.583,Medium
+37.3,34.0,60.8,Flowering,Rice Bug,0.808,High
+23.3,71.9,63.4,Seedling,Rice Blast Risk,0.432,Medium
+26.6,60.0,117.8,Tillering,Stem Borer,0.721,High
+26.7,79.6,44.0,Flowering,Rice Bug,0.78,High
+23.1,33.3,113.2,Seedling,Rice Blast Risk,0.537,Medium
+33.5,79.8,83.4,Vegetative,Stem Borer,0.668,Medium
+33.4,50.1,76.0,Vegetative,Stem Borer,0.37,Low
+25.6,75.6,28.1,Ripening,Rice Bug,0.734,High
+34.7,73.9,6.2,Vegetative,Stem Borer,0.585,Medium
+22.3,45.9,52.5,Ripening,Rice Blast Risk,0.525,Medium
+18.1,60.8,1.2,Tillering,Leaf Folder,0.333,Low
+29.4,88.5,8.5,Ripening,Rice Bug,1.0,High
+37.9,72.4,71.4,Ripening,Rice Bug,0.939,High
+18.8,34.8,86.9,Vegetative,Stem Borer,0.313,Low
+22.2,61.0,20.2,Tillering,Stem Borer,0.46,Medium
+28.4,51.8,87.9,Flowering,Rice Bug,0.74,High
+34.2,74.9,114.0,Seedling,Rice Bug,0.481,Medium
+19.8,73.0,89.2,Flowering,Rice Bug,0.744,High
+25.9,30.7,94.2,Tillering,Leaf Folder,0.66,Medium
+32.9,72.5,84.1,Seedling,Rice Bug,0.474,Medium
+25.4,81.4,27.0,Ripening,Brown Planthopper,0.825,High
+21.8,83.8,43.3,Vegetative,Stem Borer,0.652,Medium
+21.9,34.1,113.9,Ripening,Rice Blast Risk,0.535,Medium
+26.2,51.3,79.3,Vegetative,Stem Borer,0.589,Medium
+27.6,59.5,94.7,Tillering,Stem Borer,0.759,High
+35.2,42.6,116.2,Vegetative,Stem Borer,0.391,Low
+30.8,59.5,27.8,Ripening,Rice Bug,0.784,High
+31.8,35.0,38.6,Ripening,Rice Bug,0.774,High
+37.7,37.9,77.4,Flowering,Rice Bug,0.777,High
+26.2,76.8,2.9,Ripening,Rice Bug,0.75,High
+26.1,48.4,68.5,Flowering,Rice Blast Risk,0.569,Medium
+36.5,79.8,97.0,Vegetative,Stem Borer,0.652,Medium
+22.9,33.4,73.3,Ripening,Rice Blast Risk,0.491,Medium
+32.6,69.4,35.4,Tillering,Rice Bug,0.495,Medium
+33.1,57.4,86.9,Vegetative,Stem Borer,0.366,Low
+20.0,85.8,17.5,Seedling,Brown Planthopper,0.571,Medium
+27.4,84.9,107.4,Flowering,Rice Bug,1.0,High
+22.0,56.3,12.1,Vegetative,Leaf Folder,0.314,Low
+21.7,73.6,103.6,Flowering,Rice Bug,0.736,High
+27.3,45.9,59.7,Seedling,Rice Blast Risk,0.557,Medium
+23.8,70.6,51.4,Flowering,Rice Bug,0.747,High
+33.9,35.7,60.1,Flowering,Rice Bug,0.764,High
+36.2,60.4,24.0,Tillering,Stem Borer,0.403,Low
+34.1,42.8,54.9,Flowering,Rice Bug,0.68,High
+23.3,91.8,102.0,Ripening,Rice Blast Risk,0.892,High
+23.5,61.1,96.1,Ripening,Rice Blast Risk,0.531,Medium
+23.1,71.4,19.6,Tillering,Stem Borer,0.628,Medium
+20.7,55.2,80.8,Ripening,Rice Blast Risk,0.532,Medium
+36.9,50.2,102.8,Ripening,Rice Bug,0.812,High
+26.0,44.2,98.4,Seedling,Rice Blast Risk,0.548,Medium
+22.5,93.8,51.1,Vegetative,Rice Blast Risk,1.0,High
+34.9,86.0,5.8,Flowering,Rice Bug,1.0,High
+26.0,39.3,111.7,Tillering,Leaf Folder,0.703,High
+18.7,82.3,47.5,Seedling,Brown Planthopper,0.34,Low
+21.2,59.3,43.3,Tillering,Rice Blast Risk,0.551,Medium
+30.8,31.1,91.1,Vegetative,Stem Borer,0.761,High
+33.7,67.0,31.7,Flowering,Rice Bug,1.0,High
+22.2,39.1,100.2,Tillering,Rice Blast Risk,0.578,Medium
+36.3,44.7,9.1,Seedling,Rice Bug,0.181,Low
+35.0,78.7,88.9,Seedling,Rice Bug,0.596,Medium
+35.0,48.0,115.9,Vegetative,Stem Borer,0.36,Low
+22.6,92.4,119.5,Seedling,Rice Blast Risk,0.9,High
+19.0,76.0,110.9,Ripening,Rice Bug,0.732,High
+35.3,88.3,104.5,Vegetative,Stem Borer,0.578,Medium
+24.1,73.1,33.5,Flowering,Rice Bug,0.696,High
+30.4,90.8,116.0,Seedling,Stem Borer,0.828,High
+33.2,55.3,111.3,Tillering,Stem Borer,0.381,Low
+20.6,68.4,64.1,Ripening,Rice Bug,0.679,Medium
+33.6,66.1,48.2,Flowering,Rice Bug,1.0,High
+36.8,93.3,13.1,Vegetative,Brown Planthopper,0.655,Medium
+32.6,41.5,70.9,Flowering,Rice Bug,0.793,High
+26.8,70.5,84.1,Tillering,Stem Borer,0.956,High
+35.5,82.8,48.5,Vegetative,Stem Borer,0.714,High
+28.5,55.9,48.7,Ripening,Rice Bug,0.693,High
+32.9,90.7,68.8,Ripening,Rice Bug,1.0,High
+34.4,56.1,3.3,Tillering,Leaf Folder,0.375,Low
+33.0,42.1,114.9,Seedling,Rice Bug,0.243,Low
+23.8,70.9,34.8,Tillering,Stem Borer,0.685,High
+20.4,59.4,16.9,Tillering,Leaf Folder,0.322,Low
+22.8,31.1,0.7,Ripening,Rice Bug,0.462,Medium
+28.1,34.9,102.8,Flowering,Rice Bug,0.711,High
+28.1,43.7,103.6,Vegetative,Stem Borer,0.784,High
+29.7,83.9,11.4,Tillering,Leaf Folder,0.972,High
+25.9,92.4,18.3,Seedling,Rice Blast Risk,0.694,High
+33.7,68.2,53.7,Tillering,Rice Bug,0.442,Medium
+36.3,37.4,22.3,Tillering,Stem Borer,0.446,Medium
+22.9,67.4,88.3,Tillering,Rice Blast Risk,0.537,Medium
+32.7,89.9,7.0,Tillering,Brown Planthopper,0.693,High
+31.6,82.5,66.0,Tillering,Stem Borer,1.0,High
+28.5,50.4,45.9,Flowering,Rice Bug,0.711,High
+21.8,38.7,55.8,Tillering,Rice Blast Risk,0.582,Medium
+33.9,93.0,51.0,Seedling,Rice Blast Risk,0.617,Medium
+37.2,89.8,18.4,Flowering,Rice Bug,1.0,High
+32.4,33.8,26.4,Flowering,Rice Bug,0.73,High
+36.4,87.7,7.8,Flowering,Rice Bug,0.988,High
+37.7,36.8,13.8,Flowering,Rice Bug,0.791,High
+25.0,34.4,117.3,Seedling,Rice Blast Risk,0.587,Medium
+30.8,83.1,33.6,Ripening,Rice Bug,0.992,High
+27.5,67.5,36.8,Ripening,Rice Bug,0.976,High
+37.7,59.0,15.3,Seedling,Rice Bug,0.33,Low
+19.9,93.3,90.6,Vegetative,Stem Borer,0.729,High
+26.2,88.8,110.9,Vegetative,Leaf Folder,0.98,High
+35.5,34.0,94.8,Ripening,Rice Bug,0.717,High
+23.7,73.1,73.5,Ripening,Rice Bug,0.801,High
+33.8,84.1,97.6,Vegetative,Stem Borer,0.706,High
+25.7,68.5,48.5,Flowering,Rice Bug,0.742,High
+37.6,98.8,103.1,Vegetative,Stem Borer,0.706,High
+35.7,78.0,95.8,Seedling,Rice Bug,0.517,Medium
+24.0,37.3,0.2,Vegetative,Leaf Folder,0.647,Medium
+33.4,43.9,58.5,Seedling,Rice Bug,0.31,Low
+24.7,87.8,31.8,Ripening,Rice Blast Risk,1.0,High
+30.1,99.8,10.3,Flowering,Rice Bug,1.0,High
+31.2,36.9,101.5,Seedling,Stem Borer,0.469,Medium
+34.6,37.0,1.0,Tillering,Leaf Folder,0.35,Low
+18.5,83.4,87.6,Vegetative,Stem Borer,0.735,High
+22.4,34.5,118.6,Tillering,Rice Blast Risk,0.6,Medium
+32.2,34.8,57.8,Ripening,Rice Bug,0.801,High
+29.3,92.2,44.5,Ripening,Rice Bug,1.0,High
+27.9,86.0,72.7,Ripening,Rice Bug,1.0,High
+19.1,91.7,96.6,Vegetative,Stem Borer,0.798,High
+25.0,75.5,28.8,Seedling,Leaf Folder,0.623,Medium
+35.3,52.6,30.1,Seedling,Rice Bug,0.242,Low
+18.6,93.4,72.9,Seedling,Rice Blast Risk,0.639,Medium
+25.9,50.9,112.8,Flowering,Rice Blast Risk,0.532,Medium
+36.9,49.3,35.8,Flowering,Rice Bug,0.651,Medium
+19.0,92.0,45.2,Ripening,Rice Bug,0.819,High
+33.0,77.7,119.2,Seedling,Rice Bug,0.449,Medium
+23.2,92.7,21.1,Vegetative,Rice Blast Risk,0.808,High
+35.3,40.9,9.2,Flowering,Rice Bug,0.679,Medium
+32.9,96.7,70.8,Flowering,Rice Bug,1.0,High
+35.7,72.9,2.9,Tillering,Stem Borer,0.561,Medium
+22.3,76.8,21.7,Seedling,Stem Borer,0.343,Low
+28.6,94.0,74.7,Tillering,Leaf Folder,1.0,High
+33.6,56.7,79.1,Seedling,Rice Bug,0.215,Low
+22.9,80.4,61.3,Tillering,Stem Borer,0.671,Medium
+22.6,74.8,46.0,Ripening,Rice Bug,0.759,High
+18.5,85.1,69.1,Seedling,Rice Blast Risk,0.69,High
+37.2,92.8,77.2,Seedling,Rice Blast Risk,0.609,Medium
+32.2,77.6,96.4,Flowering,Rice Bug,0.95,High
+30.7,34.7,95.1,Seedling,Stem Borer,0.401,Low
+32.9,42.8,79.8,Ripening,Rice Bug,0.777,High
+28.6,96.8,107.3,Flowering,Rice Bug,1.0,High
+27.5,97.8,100.6,Tillering,Leaf Folder,0.946,High
+27.0,97.7,16.0,Vegetative,Leaf Folder,0.984,High
+30.8,32.6,114.8,Vegetative,Stem Borer,0.759,High
+22.0,56.8,107.0,Vegetative,Rice Blast Risk,0.649,Medium
+35.8,83.2,38.5,Ripening,Rice Bug,0.95,High
+34.2,82.7,2.4,Flowering,Rice Bug,0.963,High
+25.0,36.0,72.5,Vegetative,Leaf Folder,0.669,Medium
+29.6,72.7,52.6,Seedling,Stem Borer,0.671,Medium
+20.8,40.0,89.9,Tillering,Rice Blast Risk,0.512,Medium
+37.4,64.5,63.0,Flowering,Rice Bug,0.762,High
+36.1,46.8,9.2,Flowering,Rice Bug,0.827,High
+36.4,33.7,29.4,Vegetative,Stem Borer,0.335,Low
+24.6,35.6,105.9,Tillering,Leaf Folder,0.725,High
+21.4,93.8,4.5,Seedling,Rice Blast Risk,0.771,High
+22.2,82.1,88.4,Tillering,Stem Borer,0.717,High
+19.8,95.2,35.0,Flowering,Rice Bug,0.83,High
+20.4,62.9,54.3,Vegetative,Rice Blast Risk,0.566,Medium
+19.4,58.9,63.7,Vegetative,Stem Borer,0.385,Low
+37.8,55.1,30.0,Tillering,Stem Borer,0.436,Medium
+19.5,73.1,78.2,Ripening,Rice Bug,0.741,High
+20.7,54.6,83.2,Flowering,Rice Blast Risk,0.576,Medium
+34.5,82.2,10.2,Ripening,Rice Bug,0.99,High
+29.6,86.1,44.9,Seedling,Brown Planthopper,0.743,High
+33.5,91.3,89.3,Ripening,Rice Bug,0.93,High
+30.6,47.0,86.6,Seedling,Stem Borer,0.349,Low
+35.6,66.9,65.4,Vegetative,Rice Bug,0.43,Medium
+30.8,45.6,93.3,Tillering,Stem Borer,0.697,High
+28.4,32.6,12.9,Vegetative,Leaf Folder,0.574,Medium
+32.3,79.5,14.2,Ripening,Rice Bug,0.965,High
+26.9,68.4,78.9,Ripening,Rice Bug,0.695,High
+24.9,80.7,83.2,Tillering,Leaf Folder,1.0,High
+27.4,36.1,97.7,Tillering,Stem Borer,0.65,Medium
+21.4,99.7,21.7,Flowering,Rice Blast Risk,0.736,High
+33.9,99.6,62.0,Flowering,Rice Bug,1.0,High
+23.2,62.5,79.3,Tillering,Rice Blast Risk,0.634,Medium
+21.1,90.6,26.8,Ripening,Rice Blast Risk,0.794,High
+22.9,47.0,62.0,Seedling,Rice Blast Risk,0.548,Medium
+34.8,81.6,76.6,Vegetative,Stem Borer,0.765,High
+24.6,91.5,25.7,Seedling,Rice Blast Risk,0.844,High
+31.7,87.0,45.1,Seedling,Stem Borer,0.721,High
+35.1,86.8,26.0,Seedling,Brown Planthopper,0.471,Medium
+19.6,62.4,108.4,Flowering,Rice Bug,0.523,Medium
+33.3,87.4,28.4,Ripening,Rice Bug,0.932,High
+24.2,78.3,14.5,Tillering,Leaf Folder,0.969,High
+22.3,39.3,4.2,Tillering,Leaf Folder,0.422,Medium
+31.8,38.0,5.4,Vegetative,Stem Borer,0.665,Medium
+36.2,84.0,23.0,Seedling,Brown Planthopper,0.522,Medium
+23.9,73.8,73.0,Tillering,Stem Borer,0.604,Medium
+29.4,66.4,2.1,Seedling,Rice Bug,0.44,Medium
+23.8,93.5,34.4,Flowering,Rice Blast Risk,0.966,High
+29.1,76.2,7.0,Tillering,Leaf Folder,0.991,High
+30.4,57.7,48.4,Vegetative,Stem Borer,0.637,Medium
+30.2,59.0,5.8,Seedling,Stem Borer,0.288,Low
+30.5,72.4,72.9,Vegetative,Stem Borer,1.0,High
+20.7,83.2,82.6,Seedling,Rice Blast Risk,0.57,Medium
+31.9,69.5,87.8,Flowering,Rice Bug,1.0,High
+31.5,65.6,26.9,Tillering,Stem Borer,0.649,Medium
+31.7,80.9,104.2,Flowering,Rice Bug,0.918,High
+19.5,79.4,82.8,Tillering,Stem Borer,0.639,Medium
+26.9,88.1,6.8,Ripening,Rice Blast Risk,0.716,High
+26.2,34.4,52.9,Flowering,Rice Blast Risk,0.554,Medium
+19.7,82.8,92.1,Seedling,Brown Planthopper,0.419,Low
+22.4,66.0,37.3,Seedling,Rice Blast Risk,0.502,Medium
+26.8,35.2,45.8,Ripening,Rice Blast Risk,0.557,Medium
+32.9,77.5,75.6,Vegetative,Stem Borer,0.773,High
+22.7,80.2,6.7,Flowering,Rice Bug,0.848,High
+34.6,66.7,116.0,Flowering,Rice Bug,1.0,High
+28.9,85.6,20.9,Flowering,Rice Bug,0.991,High
+33.2,51.0,3.2,Vegetative,Leaf Folder,0.387,Low
+27.5,44.1,0.6,Vegetative,Leaf Folder,0.718,High
+28.0,54.6,47.9,Tillering,Stem Borer,0.6,Medium
+30.4,58.7,106.1,Seedling,Stem Borer,0.474,Medium
+36.6,78.7,98.4,Vegetative,Stem Borer,0.673,Medium
+27.8,89.2,109.4,Tillering,Leaf Folder,0.973,High
+28.6,80.5,64.1,Vegetative,Leaf Folder,0.982,High
+30.0,42.2,53.8,Vegetative,Stem Borer,0.716,High
+32.8,55.6,46.3,Ripening,Rice Bug,0.694,High
+19.4,41.1,5.6,Vegetative,Leaf Folder,0.336,Low
+28.3,78.1,109.1,Ripening,Rice Bug,1.0,High
+27.6,47.4,59.5,Ripening,Rice Bug,0.761,High
+36.4,66.8,54.6,Flowering,Rice Bug,1.0,High
+27.9,85.4,61.8,Seedling,Rice Blast Risk,0.984,High
+27.4,77.0,95.3,Vegetative,Leaf Folder,1.0,High
+37.2,50.9,26.9,Ripening,Rice Bug,0.803,High
+27.0,53.3,85.2,Seedling,Rice Blast Risk,0.6,Medium
+21.6,75.7,85.3,Tillering,Stem Borer,0.721,High
+22.3,68.5,101.9,Tillering,Rice Blast Risk,0.597,Medium
+19.9,36.7,1.0,Ripening,Rice Bug,0.544,Medium
+18.0,91.2,20.4,Ripening,Rice Bug,0.884,High
+26.6,65.9,56.5,Vegetative,Stem Borer,0.761,High
+33.4,63.1,102.1,Tillering,Stem Borer,0.396,Low
+32.7,43.9,115.8,Flowering,Rice Bug,0.704,High
+18.6,56.4,71.4,Ripening,Rice Bug,0.487,Medium
+29.4,53.3,25.5,Tillering,Stem Borer,0.683,High
+21.1,49.0,22.2,Seedling,Rice Blast Risk,0.376,Low
+36.8,69.7,76.7,Ripening,Rice Bug,0.965,High
+21.3,62.4,25.2,Tillering,Stem Borer,0.46,Medium
+30.5,92.2,66.4,Seedling,Stem Borer,0.631,Medium
+24.5,95.9,100.2,Seedling,Rice Blast Risk,0.918,High
+30.8,45.4,46.8,Vegetative,Stem Borer,0.693,High
+26.2,37.0,45.4,Flowering,Rice Blast Risk,0.508,Medium
+33.2,85.0,4.3,Ripening,Rice Bug,0.937,High
+22.6,99.6,30.5,Tillering,Rice Blast Risk,0.968,High
+36.1,90.5,83.8,Seedling,Rice Blast Risk,0.612,Medium
+28.0,31.7,43.2,Ripening,Rice Bug,0.751,High
+33.1,47.6,19.0,Flowering,Rice Bug,0.719,High
+35.0,33.0,12.7,Tillering,Leaf Folder,0.323,Low
+38.0,87.5,11.4,Seedling,Brown Planthopper,0.5,Medium
+22.5,70.7,79.1,Ripening,Rice Bug,0.801,High
+23.7,66.0,73.5,Seedling,Rice Blast Risk,0.624,Medium
+23.0,68.8,62.2,Flowering,Rice Bug,0.757,High
+23.3,47.7,60.0,Tillering,Rice Blast Risk,0.561,Medium
+29.6,72.1,18.4,Tillering,Stem Borer,0.891,High
+37.9,32.1,60.1,Tillering,Stem Borer,0.424,Medium
+37.8,75.2,7.2,Vegetative,Leaf Folder,0.72,High
+28.5,81.4,111.1,Tillering,Leaf Folder,1.0,High
+30.8,77.1,7.0,Vegetative,Stem Borer,0.806,High
+35.2,53.2,50.8,Tillering,Stem Borer,0.388,Low
+36.7,87.8,0.1,Flowering,Rice Bug,1.0,High
+22.1,80.1,94.3,Flowering,Rice Bug,0.749,High
+28.6,39.0,19.9,Seedling,Brown Planthopper,0.353,Low
+34.7,43.7,111.0,Ripening,Rice Bug,0.685,High
+24.1,74.6,5.3,Seedling,Rice Blast Risk,0.39,Low
+26.8,50.3,98.5,Vegetative,Stem Borer,0.662,Medium
+37.7,38.4,78.8,Vegetative,Stem Borer,0.312,Low
+37.7,40.8,30.0,Vegetative,Stem Borer,0.443,Medium
+36.1,41.6,24.3,Vegetative,Stem Borer,0.423,Medium
+34.0,63.4,42.9,Vegetative,Stem Borer,0.394,Low
+23.4,72.5,99.4,Tillering,Stem Borer,0.654,Medium
+24.4,42.3,103.4,Flowering,Rice Blast Risk,0.544,Medium
+28.9,79.9,21.0,Ripening,Rice Bug,1.0,High
+29.2,49.7,42.4,Vegetative,Stem Borer,0.619,Medium
+28.1,51.8,28.5,Vegetative,Stem Borer,0.622,Medium
+30.7,45.6,14.7,Flowering,Rice Bug,0.719,High
+26.2,85.0,77.6,Seedling,Brown Planthopper,0.699,High
+33.0,97.2,41.5,Tillering,Stem Borer,0.675,Medium
+24.7,64.5,27.0,Vegetative,Leaf Folder,0.682,High
+24.6,32.9,103.9,Flowering,Rice Blast Risk,0.604,Medium
+20.5,48.2,89.8,Seedling,Rice Blast Risk,0.564,Medium
+21.8,41.1,92.9,Ripening,Rice Blast Risk,0.578,Medium
+35.0,89.0,4.7,Vegetative,Brown Planthopper,0.714,High
+26.9,35.9,109.8,Tillering,Stem Borer,0.7,High
+22.6,97.7,69.0,Tillering,Rice Blast Risk,0.935,High
+33.2,71.2,60.5,Tillering,Stem Borer,0.649,Medium
+29.1,66.2,1.3,Tillering,Leaf Folder,0.582,Medium
+18.4,89.3,107.7,Vegetative,Stem Borer,0.693,High
+24.3,31.9,65.3,Flowering,Rice Blast Risk,0.562,Medium
+21.5,84.4,99.0,Tillering,Stem Borer,0.628,Medium
+31.1,38.2,78.7,Vegetative,Stem Borer,0.704,High
+23.5,88.9,95.6,Vegetative,Rice Blast Risk,0.956,High
+19.3,67.0,83.2,Tillering,Stem Borer,0.347,Low
+19.1,34.3,110.5,Ripening,Rice Bug,0.469,Medium
+29.6,88.3,27.1,Ripening,Rice Bug,0.944,High
+18.4,31.9,24.3,Vegetative,Stem Borer,0.43,Medium
+35.0,39.7,85.5,Vegetative,Stem Borer,0.392,Low
+21.1,85.8,60.2,Seedling,Rice Blast Risk,1.0,High
+30.1,62.5,71.9,Tillering,Stem Borer,0.678,Medium
+26.9,91.7,85.0,Vegetative,Leaf Folder,0.98,High
+26.9,74.5,65.7,Ripening,Rice Bug,0.844,High
+19.4,73.6,94.5,Tillering,Stem Borer,0.619,Medium
+34.1,50.5,38.3,Vegetative,Stem Borer,0.464,Medium
+35.9,39.4,103.1,Ripening,Rice Bug,0.833,High
+18.2,97.3,12.9,Ripening,Rice Bug,0.788,High
+21.6,37.3,76.1,Vegetative,Rice Blast Risk,0.533,Medium
+36.1,67.0,106.8,Seedling,Rice Bug,0.571,Medium
+29.0,49.1,30.3,Vegetative,Stem Borer,0.684,High
+21.0,48.5,39.2,Vegetative,Rice Blast Risk,0.515,Medium
+22.1,71.6,36.7,Tillering,Stem Borer,0.681,High
+31.2,85.9,67.7,Ripening,Rice Bug,0.971,High
+32.5,84.4,49.5,Ripening,Rice Bug,0.953,High
+30.0,90.8,13.0,Flowering,Rice Bug,1.0,High
+37.1,50.5,107.0,Ripening,Rice Bug,0.711,High
+27.9,62.6,24.6,Seedling,Brown Planthopper,0.399,Low
+24.0,30.7,64.1,Seedling,Rice Blast Risk,0.478,Medium
+27.5,82.3,71.4,Ripening,Rice Bug,1.0,High
+25.2,51.2,4.9,Flowering,Brown Planthopper,0.542,Medium
+22.5,69.3,11.5,Vegetative,Leaf Folder,0.291,Low
+18.9,41.9,116.6,Flowering,Rice Bug,0.495,Medium
+25.0,87.4,79.7,Seedling,Rice Blast Risk,1.0,High
+32.2,87.2,4.0,Flowering,Rice Bug,1.0,High
+18.4,91.4,95.3,Ripening,Rice Bug,0.775,High
+26.8,33.2,61.0,Tillering,Stem Borer,0.694,High
+30.9,99.5,9.0,Flowering,Rice Bug,0.983,High
+30.2,47.3,81.7,Flowering,Rice Bug,0.79,High
+33.5,51.7,59.9,Ripening,Rice Bug,0.722,High
+34.2,47.5,24.6,Tillering,Stem Borer,0.442,Medium
+32.2,48.7,105.3,Vegetative,Stem Borer,0.462,Medium
+20.1,68.7,35.0,Vegetative,Rice Blast Risk,0.508,Medium
+27.5,46.8,34.1,Vegetative,Stem Borer,0.665,Medium
+30.1,57.6,32.7,Seedling,Stem Borer,0.373,Low
+22.9,75.9,92.1,Flowering,Rice Bug,0.677,Medium
+18.9,88.5,84.7,Vegetative,Stem Borer,0.677,Medium
+22.5,78.5,108.4,Flowering,Rice Bug,0.815,High
+27.1,71.6,27.5,Seedling,Stem Borer,0.648,Medium
+26.3,40.3,94.4,Vegetative,Stem Borer,0.766,High
+21.5,87.1,68.8,Vegetative,Rice Blast Risk,0.978,High
+34.5,32.6,37.0,Seedling,Rice Bug,0.356,Low
+36.5,48.5,4.3,Ripening,Rice Bug,0.716,High
+22.0,34.0,98.3,Tillering,Rice Blast Risk,0.543,Medium
+36.6,76.7,28.9,Ripening,Rice Bug,0.954,High
+18.4,55.8,75.8,Ripening,Rice Bug,0.466,Medium
+36.5,75.6,65.9,Seedling,Rice Bug,0.567,Medium
+37.0,54.3,0.5,Ripening,Rice Bug,0.774,High
+18.2,61.9,119.3,Seedling,Rice Blast Risk,0.251,Low
+33.3,62.1,97.7,Ripening,Rice Bug,0.684,High
+37.4,33.2,58.4,Flowering,Rice Bug,0.783,High
+36.1,60.1,81.6,Ripening,Rice Bug,0.701,High
+37.4,74.9,57.2,Tillering,Stem Borer,0.633,Medium
+29.0,68.2,89.4,Seedling,Rice Bug,0.512,Medium
+19.6,35.3,16.1,Seedling,Brown Planthopper,0.111,Low
+35.0,76.8,53.6,Seedling,Rice Bug,0.503,Medium
+30.3,51.6,40.3,Ripening,Rice Bug,0.786,High
+30.3,31.0,55.2,Tillering,Stem Borer,0.744,High
+26.3,40.9,54.1,Vegetative,Stem Borer,0.773,High
+29.4,64.8,17.2,Seedling,Brown Planthopper,0.34,Low
+21.1,51.7,117.2,Seedling,Rice Blast Risk,0.625,Medium
+32.8,78.6,1.9,Vegetative,Leaf Folder,0.794,High
+19.5,46.8,1.2,Flowering,Rice Bug,0.482,Medium
+32.6,84.1,44.8,Ripening,Rice Bug,0.917,High
+35.0,50.1,74.4,Flowering,Rice Bug,0.681,High
+27.4,73.5,21.6,Ripening,Rice Bug,0.977,High
+28.2,85.9,64.0,Vegetative,Leaf Folder,1.0,High
+24.2,57.0,86.7,Vegetative,Leaf Folder,0.651,Medium
+37.4,33.3,11.3,Flowering,Rice Bug,0.719,High
+32.7,67.5,118.1,Seedling,Rice Bug,0.466,Medium
+25.4,99.7,40.4,Ripening,Rice Blast Risk,0.934,High
+21.5,97.8,77.1,Flowering,Rice Blast Risk,1.0,High
+22.4,45.5,13.3,Seedling,Rice Blast Risk,0.345,Low
+27.3,82.9,85.1,Seedling,Brown Planthopper,0.805,High
+36.9,54.1,100.9,Flowering,Rice Bug,0.781,High
+32.7,41.2,12.6,Flowering,Rice Bug,0.791,High
+22.3,76.6,15.1,Vegetative,Leaf Folder,0.688,High
+35.2,65.1,33.7,Flowering,Rice Bug,0.945,High
+25.6,67.7,1.4,Tillering,Leaf Folder,0.606,Medium
+35.0,87.9,118.3,Flowering,Rice Bug,0.932,High
+22.8,53.6,71.8,Tillering,Rice Blast Risk,0.596,Medium
+30.4,76.7,72.9,Tillering,Stem Borer,0.981,High
+36.5,55.6,115.1,Vegetative,Stem Borer,0.448,Medium
+23.2,33.0,99.8,Seedling,Rice Blast Risk,0.557,Medium
+31.9,56.5,97.7,Seedling,Stem Borer,0.385,Low
+37.7,96.5,40.7,Seedling,Rice Blast Risk,0.592,Medium
+21.0,63.8,40.2,Ripening,Rice Blast Risk,0.565,Medium
+19.8,37.6,35.0,Tillering,Stem Borer,0.389,Low
+31.5,78.1,41.6,Vegetative,Stem Borer,1.0,High
+24.8,97.4,44.3,Ripening,Rice Blast Risk,0.964,High
+19.4,93.6,16.8,Ripening,Rice Bug,0.781,High
+27.5,70.0,42.7,Vegetative,Stem Borer,1.0,High
+33.1,56.3,53.6,Vegetative,Stem Borer,0.414,Low
+23.7,70.6,37.1,Tillering,Stem Borer,0.739,High
+24.7,87.1,19.8,Ripening,Rice Blast Risk,0.829,High
+34.9,90.3,44.8,Flowering,Rice Bug,1.0,High
+28.4,87.3,57.7,Tillering,Leaf Folder,1.0,High
+34.9,61.9,86.5,Vegetative,Stem Borer,0.435,Medium
+26.9,38.3,85.3,Vegetative,Stem Borer,0.698,High
+37.1,69.8,24.3,Seedling,Rice Bug,0.461,Medium
+31.0,41.0,4.4,Flowering,Rice Bug,0.69,High
+20.3,34.3,36.5,Ripening,Rice Blast Risk,0.613,Medium
+35.7,64.9,18.9,Flowering,Rice Bug,0.7,High
+27.8,75.9,47.5,Vegetative,Leaf Folder,1.0,High
+20.8,89.8,117.5,Tillering,Rice Blast Risk,1.0,High
+21.1,84.8,21.7,Ripening,Rice Bug,0.796,High
+31.8,90.0,38.3,Tillering,Stem Borer,0.974,High
+18.9,83.2,87.0,Ripening,Rice Bug,0.71,High
+23.7,79.2,61.1,Tillering,Stem Borer,0.719,High
+20.8,30.7,5.3,Tillering,Leaf Folder,0.335,Low
+26.8,73.8,19.4,Tillering,Stem Borer,0.838,High
+26.3,38.4,112.2,Vegetative,Stem Borer,0.797,High
+28.4,34.1,12.4,Tillering,Leaf Folder,0.61,Medium
+23.6,40.9,76.2,Vegetative,Rice Blast Risk,0.5,Medium
+18.6,87.6,95.1,Flowering,Rice Bug,0.738,High
+30.3,82.1,31.9,Flowering,Rice Bug,1.0,High
+25.5,96.4,87.0,Vegetative,Leaf Folder,0.892,High
+31.0,98.5,20.4,Ripening,Rice Bug,1.0,High
+20.2,92.5,34.2,Tillering,Rice Blast Risk,0.954,High
+18.3,39.3,37.4,Ripening,Rice Bug,0.513,Medium
+23.0,91.5,119.6,Flowering,Rice Blast Risk,0.966,High
+27.1,88.7,25.7,Ripening,Rice Bug,1.0,High
+25.9,91.0,15.5,Ripening,Rice Blast Risk,0.806,High
+34.2,40.6,111.1,Vegetative,Stem Borer,0.365,Low
+25.6,38.2,19.4,Vegetative,Leaf Folder,0.635,Medium
+28.6,94.7,105.5,Ripening,Rice Bug,1.0,High
+29.9,42.2,78.1,Vegetative,Stem Borer,0.709,High
+18.4,55.8,69.2,Flowering,Rice Bug,0.522,Medium
+28.3,61.9,90.2,Seedling,Stem Borer,0.4,Low
+24.9,38.7,87.1,Ripening,Rice Blast Risk,0.481,Medium
+26.4,31.4,13.3,Flowering,Brown Planthopper,0.583,Medium
+20.0,99.6,119.9,Tillering,Rice Blast Risk,1.0,High
+33.7,91.4,113.0,Tillering,Stem Borer,0.667,Medium
+36.8,93.9,107.6,Flowering,Rice Bug,1.0,High
+18.4,49.9,74.7,Vegetative,Stem Borer,0.402,Low
+30.0,45.4,62.7,Vegetative,Stem Borer,0.689,High
+33.3,59.8,64.4,Vegetative,Stem Borer,0.46,Medium
+23.7,61.7,1.8,Seedling,Rice Blast Risk,0.263,Low
+33.8,30.4,59.9,Ripening,Rice Bug,0.716,High
+30.6,84.5,74.9,Flowering,Rice Bug,1.0,High
+36.6,99.8,79.0,Tillering,Stem Borer,0.792,High
+37.6,67.0,39.9,Ripening,Rice Bug,1.0,High
+18.8,57.2,56.6,Flowering,Rice Bug,0.503,Medium
+26.9,57.5,76.4,Tillering,Stem Borer,0.723,High
+28.9,36.7,51.4,Seedling,Stem Borer,0.441,Medium
+20.9,48.6,115.5,Tillering,Rice Blast Risk,0.614,Medium
+24.7,65.1,84.7,Seedling,Rice Blast Risk,0.566,Medium
+37.8,60.2,0.2,Flowering,Rice Bug,0.796,High
+18.3,68.2,2.8,Seedling,Rice Bug,0.273,Low
+27.1,89.4,82.8,Tillering,Leaf Folder,1.0,High
+34.9,45.8,49.5,Vegetative,Stem Borer,0.354,Low
+24.5,31.9,100.7,Seedling,Rice Blast Risk,0.534,Medium
+27.6,32.7,20.8,Tillering,Stem Borer,0.674,Medium
+37.6,39.4,1.7,Vegetative,Leaf Folder,0.291,Low
+27.5,69.9,46.6,Vegetative,Stem Borer,0.617,Medium
+20.6,86.6,88.3,Ripening,Rice Blast Risk,0.979,High
+19.0,92.1,116.6,Vegetative,Stem Borer,0.687,High
+36.9,74.5,106.0,Tillering,Stem Borer,0.705,High
+23.3,58.2,58.1,Seedling,Rice Blast Risk,0.578,Medium
+28.1,40.8,97.5,Vegetative,Stem Borer,0.709,High
+19.8,58.1,8.4,Vegetative,Leaf Folder,0.337,Low
+26.5,53.3,68.7,Flowering,Rice Blast Risk,0.504,Medium
+36.6,90.9,110.9,Seedling,Rice Blast Risk,0.694,High
+28.0,64.1,47.6,Ripening,Rice Bug,0.745,High
+37.4,45.8,115.2,Seedling,Rice Bug,0.228,Low
+23.2,50.2,26.5,Flowering,Rice Bug,0.491,Medium
+28.1,39.6,12.7,Seedling,Brown Planthopper,0.363,Low
+35.2,94.3,63.0,Ripening,Rice Bug,0.973,High
+27.0,33.5,108.9,Flowering,Rice Blast Risk,0.522,Medium
+23.6,30.9,37.4,Ripening,Rice Blast Risk,0.536,Medium
+35.1,42.8,96.0,Ripening,Rice Bug,0.783,High
+25.8,86.8,20.3,Ripening,Rice Blast Risk,0.82,High
+28.6,66.6,89.5,Flowering,Rice Bug,1.0,High
+37.5,73.8,66.8,Ripening,Rice Bug,1.0,High
+21.7,55.0,21.0,Seedling,Rice Blast Risk,0.448,Medium
+24.0,34.8,86.2,Flowering,Rice Blast Risk,0.578,Medium
+18.6,89.9,85.7,Ripening,Rice Bug,0.777,High
+25.8,43.4,61.9,Vegetative,Leaf Folder,0.626,Medium
+22.0,32.3,27.1,Ripening,Rice Bug,0.541,Medium
+31.6,70.1,15.9,Tillering,Stem Borer,0.867,High
+21.6,35.8,114.9,Tillering,Rice Blast Risk,0.476,Medium
+31.5,36.7,78.7,Vegetative,Stem Borer,0.776,High
+23.3,86.0,97.1,Seedling,Rice Blast Risk,0.938,High
+25.1,64.4,83.6,Ripening,Rice Blast Risk,0.572,Medium
+25.0,46.9,99.5,Flowering,Rice Blast Risk,0.506,Medium
+32.3,54.4,19.5,Tillering,Leaf Folder,0.406,Low
+27.3,81.0,59.6,Ripening,Rice Bug,1.0,High
+25.2,34.6,80.1,Seedling,Rice Blast Risk,0.576,Medium
+35.1,38.2,12.4,Flowering,Rice Bug,0.812,High
+29.4,73.1,18.0,Tillering,Stem Borer,0.9,High
+22.3,72.5,76.1,Flowering,Rice Bug,0.862,High
+36.0,98.1,104.2,Seedling,Rice Blast Risk,0.687,High
+24.9,56.2,79.2,Flowering,Rice Blast Risk,0.505,Medium
+18.8,34.6,4.3,Flowering,Rice Bug,0.503,Medium
+27.9,67.6,116.5,Ripening,Rice Bug,0.992,High
+20.5,74.7,16.7,Vegetative,Stem Borer,0.587,Medium
+22.8,39.8,27.9,Seedling,Rice Blast Risk,0.267,Low
+32.9,68.7,117.0,Seedling,Rice Bug,0.519,Medium
+20.6,43.8,92.5,Seedling,Rice Blast Risk,0.481,Medium
+34.1,89.1,112.4,Vegetative,Stem Borer,0.574,Medium
+36.7,88.5,96.8,Ripening,Rice Bug,0.983,High
+30.1,60.1,78.2,Seedling,Stem Borer,0.362,Low
+32.2,97.7,34.1,Seedling,Rice Blast Risk,0.607,Medium
+32.3,98.6,39.2,Seedling,Rice Blast Risk,0.495,Medium
+37.9,39.0,113.7,Vegetative,Stem Borer,0.357,Low
+24.8,55.7,103.3,Flowering,Rice Blast Risk,0.541,Medium
+21.3,72.0,43.1,Vegetative,Stem Borer,0.668,Medium
+28.4,35.9,44.8,Tillering,Stem Borer,0.719,High
+28.7,56.8,35.7,Vegetative,Stem Borer,0.77,High
+21.6,48.3,39.1,Ripening,Rice Blast Risk,0.576,Medium
+30.3,96.6,103.3,Seedling,Stem Borer,0.751,High
+18.3,58.8,1.3,Vegetative,Leaf Folder,0.405,Low
+36.6,83.4,52.3,Tillering,Stem Borer,0.649,Medium
+23.3,57.1,113.1,Ripening,Rice Blast Risk,0.572,Medium
+18.8,39.2,65.1,Tillering,Stem Borer,0.45,Medium
+20.2,90.4,54.1,Seedling,Rice Blast Risk,0.978,High
+22.8,30.0,37.5,Tillering,Rice Blast Risk,0.51,Medium
+23.5,33.9,8.9,Vegetative,Leaf Folder,0.377,Low
+18.7,55.5,26.9,Vegetative,Stem Borer,0.326,Low
+23.6,78.1,10.9,Ripening,Rice Bug,0.696,High
+21.9,53.9,15.2,Ripening,Rice Bug,0.467,Medium
+25.6,34.6,19.6,Vegetative,Leaf Folder,0.673,Medium
+25.7,52.2,36.2,Tillering,Leaf Folder,0.661,Medium
+24.8,47.1,1.3,Tillering,Leaf Folder,0.702,High
+24.6,30.4,114.0,Ripening,Rice Blast Risk,0.504,Medium
+19.8,67.4,14.9,Ripening,Rice Bug,0.701,High
+18.5,38.2,46.0,Vegetative,Stem Borer,0.426,Medium
+22.0,50.1,105.5,Seedling,Rice Blast Risk,0.51,Medium
+33.1,74.9,12.8,Seedling,Rice Bug,0.47,Medium
+37.8,80.8,58.0,Seedling,Rice Bug,0.407,Low
+36.6,48.4,101.4,Flowering,Rice Bug,0.765,High
+28.1,53.0,66.8,Flowering,Rice Bug,0.827,High
+28.6,47.3,25.2,Ripening,Rice Bug,0.699,High
+24.3,97.0,88.3,Seedling,Rice Blast Risk,1.0,High
+33.5,43.3,81.8,Seedling,Rice Bug,0.247,Low
+33.3,42.8,43.5,Seedling,Rice Bug,0.162,Low
+34.9,61.2,5.6,Flowering,Rice Bug,0.705,High
+35.9,43.3,0.9,Seedling,Rice Bug,0.202,Low
+26.7,41.0,99.0,Flowering,Rice Blast Risk,0.534,Medium
+33.3,36.7,38.6,Ripening,Rice Bug,0.771,High
+34.1,74.8,16.5,Seedling,Rice Bug,0.592,Medium
+24.2,72.8,62.2,Flowering,Rice Bug,0.678,Medium
+36.6,75.5,110.5,Tillering,Stem Borer,0.676,Medium
+19.9,84.1,1.0,Ripening,Rice Bug,0.705,High
+37.9,52.8,6.7,Vegetative,Leaf Folder,0.287,Low
+33.4,94.3,50.0,Vegetative,Stem Borer,0.705,High
+19.9,81.3,81.1,Seedling,Brown Planthopper,0.4,Low
+31.1,86.3,57.1,Flowering,Rice Bug,0.909,High
+18.7,80.5,107.7,Ripening,Rice Bug,0.751,High
+33.4,55.1,5.3,Seedling,Rice Bug,0.19,Low
+34.0,49.8,40.8,Tillering,Stem Borer,0.401,Low
+30.0,59.6,42.2,Flowering,Rice Bug,0.813,High
+35.1,36.8,40.8,Flowering,Rice Bug,0.773,High
+20.0,61.6,58.5,Ripening,Rice Bug,0.509,Medium
+23.5,33.0,94.9,Flowering,Rice Blast Risk,0.524,Medium
+26.3,30.3,38.1,Ripening,Rice Blast Risk,0.553,Medium
+18.8,95.2,89.3,Ripening,Rice Bug,0.778,High
+27.0,78.3,17.6,Ripening,Rice Bug,0.773,High
+23.3,69.3,67.3,Tillering,Rice Blast Risk,0.545,Medium
+25.9,53.9,45.0,Tillering,Leaf Folder,0.661,Medium
+26.5,69.9,64.7,Tillering,Stem Borer,0.634,Medium
+35.6,92.4,12.9,Ripening,Rice Bug,0.963,High
+23.4,75.7,114.4,Vegetative,Stem Borer,0.735,High
+35.9,72.2,108.7,Flowering,Rice Bug,1.0,High
+26.5,62.2,99.2,Flowering,Rice Blast Risk,0.555,Medium
+24.6,54.2,107.1,Seedling,Rice Blast Risk,0.624,Medium
+28.1,78.9,17.6,Tillering,Leaf Folder,1.0,High
+26.4,98.7,60.4,Seedling,Rice Blast Risk,0.988,High
+23.1,59.7,38.1,Flowering,Rice Blast Risk,0.489,Medium
+28.1,57.5,106.5,Tillering,Stem Borer,0.772,High
+21.0,60.0,22.7,Vegetative,Stem Borer,0.439,Medium
+25.0,59.8,26.4,Seedling,Brown Planthopper,0.49,Medium
+29.3,99.3,82.4,Seedling,Brown Planthopper,0.808,High
+26.3,79.5,10.7,Flowering,Rice Bug,0.686,High
+34.5,55.1,87.9,Ripening,Rice Bug,0.686,High
+23.1,56.0,32.2,Vegetative,Rice Blast Risk,0.407,Low
+37.4,60.2,79.3,Ripening,Rice Bug,0.796,High
+33.7,32.6,104.8,Tillering,Stem Borer,0.433,Medium
+37.4,66.9,73.2,Vegetative,Rice Bug,0.505,Medium
+34.8,86.8,25.5,Tillering,Brown Planthopper,0.639,Medium
+20.8,76.2,5.9,Flowering,Rice Bug,0.746,High
+28.5,43.9,5.4,Ripening,Rice Bug,0.759,High
+21.4,81.0,10.7,Tillering,Brown Planthopper,0.739,High
+34.4,80.4,69.6,Vegetative,Stem Borer,0.714,High
+29.7,48.4,41.8,Flowering,Rice Bug,0.783,High
+23.3,73.6,29.2,Tillering,Stem Borer,0.694,High
+36.6,72.8,26.3,Vegetative,Stem Borer,0.759,High
+20.3,88.8,113.8,Tillering,Rice Blast Risk,1.0,High
+29.3,39.5,14.3,Tillering,Leaf Folder,0.591,Medium
+32.4,43.6,36.6,Seedling,Rice Bug,0.319,Low
+19.2,64.0,56.6,Seedling,Rice Blast Risk,0.261,Low
+30.0,33.1,0.1,Flowering,Rice Bug,0.773,High
+34.3,59.1,110.5,Seedling,Rice Bug,0.264,Low
+19.4,85.2,11.9,Tillering,Brown Planthopper,0.783,High
+28.2,40.4,81.9,Flowering,Rice Bug,0.668,Medium
+23.2,62.2,75.5,Vegetative,Rice Blast Risk,0.612,Medium
+31.3,99.3,97.1,Vegetative,Stem Borer,0.976,High
+20.4,65.4,78.2,Ripening,Rice Bug,0.805,High
+36.7,64.9,92.3,Seedling,Rice Bug,0.256,Low
+35.9,69.1,50.5,Flowering,Rice Bug,0.938,High
+21.7,43.0,58.6,Seedling,Rice Blast Risk,0.525,Medium
+24.5,40.3,84.2,Ripening,Rice Blast Risk,0.601,Medium
+29.8,77.4,68.2,Tillering,Leaf Folder,0.989,High
+32.4,57.7,61.4,Seedling,Rice Bug,0.219,Low
+26.9,50.3,24.7,Flowering,Brown Planthopper,0.569,Medium
+21.1,32.2,31.0,Seedling,Rice Blast Risk,0.582,Medium
+20.1,89.2,43.0,Vegetative,Rice Blast Risk,1.0,High
+38.0,32.3,1.1,Tillering,Leaf Folder,0.243,Low
+27.1,82.5,50.1,Flowering,Rice Bug,1.0,High
+35.5,56.7,0.3,Tillering,Leaf Folder,0.36,Low
+27.6,71.9,67.8,Ripening,Rice Bug,1.0,High
+36.4,47.3,84.5,Tillering,Stem Borer,0.378,Low
+19.8,40.9,67.5,Vegetative,Stem Borer,0.4,Low
+20.3,67.3,83.2,Vegetative,Rice Blast Risk,0.56,Medium
+36.6,78.7,0.0,Ripening,Rice Bug,0.948,High
+36.9,43.7,7.1,Flowering,Rice Bug,0.71,High
+24.3,60.5,83.8,Seedling,Rice Blast Risk,0.609,Medium
+25.1,61.1,96.3,Flowering,Rice Blast Risk,0.472,Medium
+27.0,45.1,86.1,Tillering,Stem Borer,0.722,High
+26.3,69.6,79.6,Vegetative,Stem Borer,0.681,High
+21.8,40.2,84.9,Seedling,Rice Blast Risk,0.502,Medium
+36.0,65.7,88.8,Ripening,Rice Bug,1.0,High
+23.1,37.9,86.9,Seedling,Rice Blast Risk,0.502,Medium
+32.1,64.0,88.6,Ripening,Rice Bug,0.693,High
+19.3,51.8,8.9,Seedling,Brown Planthopper,0.091,Low
+18.8,61.7,7.6,Tillering,Leaf Folder,0.312,Low
+31.1,60.4,43.3,Seedling,Stem Borer,0.4,Low
+24.8,93.6,63.3,Tillering,Leaf Folder,1.0,High
+31.1,64.3,91.5,Ripening,Rice Bug,0.762,High
+19.9,87.3,40.2,Tillering,Stem Borer,0.694,High
+37.0,45.8,33.0,Tillering,Stem Borer,0.365,Low
+33.0,54.6,93.8,Seedling,Rice Bug,0.282,Low
+35.5,35.3,29.9,Ripening,Rice Bug,0.744,High
+20.7,59.5,98.5,Vegetative,Rice Blast Risk,0.525,Medium
+24.4,76.8,21.3,Tillering,Leaf Folder,1.0,High
+25.4,88.7,43.1,Ripening,Rice Blast Risk,0.994,High
+28.7,69.6,48.1,Flowering,Rice Bug,1.0,High
+23.9,74.8,35.9,Flowering,Rice Bug,0.811,High
+19.2,42.4,0.4,Seedling,Brown Planthopper,0.164,Low
+25.4,32.6,28.3,Tillering,Leaf Folder,0.685,High
+23.1,85.4,40.5,Tillering,Rice Blast Risk,1.0,High
+25.7,41.7,37.6,Seedling,Rice Blast Risk,0.547,Medium
+21.9,36.4,94.3,Vegetative,Rice Blast Risk,0.538,Medium
+23.2,95.6,5.7,Ripening,Rice Blast Risk,0.692,High
+30.5,97.4,46.7,Ripening,Rice Bug,1.0,High
+25.8,73.1,4.5,Ripening,Rice Bug,0.762,High
+24.9,56.5,111.7,Ripening,Rice Blast Risk,0.591,Medium
+28.7,88.3,94.8,Ripening,Rice Bug,0.994,High
+33.4,44.3,117.9,Seedling,Rice Bug,0.283,Low
+25.6,60.1,109.2,Ripening,Rice Blast Risk,0.481,Medium
+29.8,55.0,37.9,Flowering,Rice Bug,0.692,High
+37.3,93.9,83.0,Ripening,Rice Bug,0.876,High
+28.4,94.4,36.8,Flowering,Rice Bug,0.993,High
+36.2,75.6,106.6,Seedling,Rice Bug,0.461,Medium
+33.9,37.8,49.3,Tillering,Stem Borer,0.355,Low
+19.2,63.8,45.1,Flowering,Rice Bug,0.517,Medium
+26.6,47.2,109.7,Seedling,Rice Blast Risk,0.529,Medium
+32.0,91.9,100.4,Tillering,Stem Borer,0.928,High
+37.7,39.7,116.0,Flowering,Rice Bug,0.877,High
+27.2,33.8,8.0,Tillering,Leaf Folder,0.648,Medium
+19.9,79.3,29.2,Flowering,Rice Bug,0.696,High
+29.2,61.7,36.1,Seedling,Brown Planthopper,0.367,Low
+20.5,88.7,50.9,Vegetative,Rice Blast Risk,0.991,High
+33.0,35.2,56.8,Ripening,Rice Bug,0.741,High
+28.2,86.1,35.0,Tillering,Leaf Folder,1.0,High
+32.5,32.6,94.9,Seedling,Rice Bug,0.246,Low
+35.4,32.0,26.8,Seedling,Rice Bug,0.343,Low
+30.6,62.3,83.6,Tillering,Stem Borer,0.678,Medium
+30.2,45.5,102.2,Ripening,Rice Bug,0.771,High
+33.1,71.6,72.4,Seedling,Rice Bug,0.551,Medium
+34.8,31.8,42.5,Seedling,Rice Bug,0.31,Low
+35.4,32.5,22.5,Vegetative,Stem Borer,0.466,Medium
+18.7,80.9,16.1,Vegetative,Brown Planthopper,0.686,High
+29.1,44.7,89.3,Seedling,Stem Borer,0.4,Low
+22.3,75.9,56.3,Vegetative,Stem Borer,0.576,Medium
+35.2,82.5,5.6,Flowering,Rice Bug,0.99,High
+31.0,34.2,118.1,Ripening,Rice Bug,0.805,High
+26.4,83.9,80.6,Vegetative,Leaf Folder,1.0,High
+21.8,48.8,101.3,Flowering,Rice Blast Risk,0.546,Medium
+24.8,57.3,52.6,Ripening,Rice Blast Risk,0.635,Medium
+32.1,36.1,114.7,Seedling,Rice Bug,0.231,Low
+22.1,88.7,23.9,Ripening,Rice Blast Risk,0.764,High
+19.9,69.3,22.2,Seedling,Rice Bug,0.227,Low
+35.8,65.3,106.8,Flowering,Rice Bug,0.944,High
+33.3,97.8,107.0,Flowering,Rice Bug,1.0,High
+22.0,53.4,59.9,Ripening,Rice Blast Risk,0.564,Medium
+23.8,92.4,15.1,Tillering,Rice Blast Risk,0.83,High
+37.4,80.4,36.6,Flowering,Rice Bug,0.979,High
+32.2,95.0,90.5,Seedling,Rice Blast Risk,0.647,Medium
+30.2,93.5,101.5,Tillering,Stem Borer,0.891,High
+24.2,99.4,41.7,Ripening,Rice Blast Risk,1.0,High
+24.0,39.2,7.3,Seedling,Rice Blast Risk,0.355,Low
+18.8,85.7,79.9,Seedling,Rice Blast Risk,0.595,Medium
+32.6,86.3,88.7,Flowering,Rice Bug,0.995,High
+18.9,75.1,50.9,Tillering,Stem Borer,0.687,High
+18.1,49.5,70.0,Tillering,Stem Borer,0.488,Medium
+32.6,97.6,118.5,Vegetative,Stem Borer,0.647,Medium
+37.0,44.3,29.4,Seedling,Rice Bug,0.267,Low
+33.1,65.0,68.8,Flowering,Rice Bug,0.695,High
+27.4,66.5,73.3,Vegetative,Stem Borer,0.672,Medium
+27.7,41.3,65.9,Flowering,Rice Bug,0.764,High
+26.7,80.6,104.3,Tillering,Leaf Folder,0.989,High
+24.5,36.2,72.6,Vegetative,Leaf Folder,0.65,Medium
+28.4,78.5,60.9,Vegetative,Leaf Folder,1.0,High
+26.6,89.4,14.8,Flowering,Brown Planthopper,0.975,High
+30.0,54.5,84.4,Vegetative,Stem Borer,0.744,High
+36.0,79.7,15.9,Ripening,Rice Bug,0.985,High
+37.9,41.0,3.2,Tillering,Leaf Folder,0.345,Low
+19.6,89.2,58.6,Ripening,Rice Bug,0.768,High
+25.7,96.6,68.7,Tillering,Leaf Folder,1.0,High
+21.6,40.7,119.9,Tillering,Rice Blast Risk,0.582,Medium
+25.0,78.4,85.5,Tillering,Leaf Folder,1.0,High
+23.7,65.4,101.8,Tillering,Rice Blast Risk,0.573,Medium
+21.5,67.2,41.6,Tillering,Rice Blast Risk,0.534,Medium
+33.3,79.5,61.1,Ripening,Rice Bug,0.947,High
+27.9,64.2,116.9,Flowering,Rice Bug,0.679,Medium
+36.4,72.0,50.1,Seedling,Rice Bug,0.416,Low
+18.7,46.2,96.9,Seedling,Rice Blast Risk,0.288,Low
+19.3,56.5,63.1,Seedling,Rice Blast Risk,0.089,Low
+26.1,90.6,26.9,Flowering,Brown Planthopper,1.0,High
+19.6,37.7,69.7,Vegetative,Stem Borer,0.359,Low
+23.3,71.8,26.2,Vegetative,Stem Borer,0.759,High
+37.7,42.9,0.4,Ripening,Rice Bug,0.64,Medium
+22.2,89.3,28.3,Seedling,Rice Blast Risk,0.788,High
+22.0,70.5,23.2,Seedling,Stem Borer,0.473,Medium
+29.5,58.2,44.5,Seedling,Stem Borer,0.436,Medium
+28.0,47.5,106.6,Vegetative,Stem Borer,0.683,High
+29.6,60.6,46.5,Seedling,Stem Borer,0.303,Low
+25.5,97.0,101.4,Flowering,Rice Blast Risk,0.934,High
+34.5,65.6,66.7,Flowering,Rice Bug,1.0,High
+20.8,62.9,0.9,Seedling,Rice Blast Risk,0.333,Low
+26.6,82.2,22.6,Tillering,Leaf Folder,0.996,High
+31.8,56.5,111.8,Vegetative,Stem Borer,0.714,High
+35.4,59.9,72.5,Seedling,Rice Bug,0.185,Low
+25.4,53.6,111.5,Tillering,Leaf Folder,0.67,Medium
+29.4,40.6,37.2,Flowering,Rice Bug,0.729,High
+19.4,80.0,86.0,Vegetative,Stem Borer,0.715,High
+21.4,91.1,92.6,Flowering,Rice Blast Risk,0.971,High
+19.4,93.4,117.1,Ripening,Rice Bug,0.671,Medium
+32.6,91.7,2.2,Seedling,Brown Planthopper,0.479,Medium
+23.8,61.6,114.3,Seedling,Rice Blast Risk,0.582,Medium
+32.5,49.9,47.0,Vegetative,Stem Borer,0.42,Low
+19.3,74.7,100.6,Ripening,Rice Bug,0.752,High
+35.3,96.8,65.4,Seedling,Rice Blast Risk,0.695,High
+34.7,80.9,67.8,Tillering,Stem Borer,0.69,High
+19.8,64.6,43.1,Tillering,Stem Borer,0.403,Low
+18.5,78.2,99.4,Seedling,Stem Borer,0.376,Low
+19.1,84.1,31.7,Seedling,Brown Planthopper,0.548,Medium
+35.1,94.3,59.1,Seedling,Rice Blast Risk,0.665,Medium
+22.7,83.4,67.2,Seedling,Rice Blast Risk,0.522,Medium
+29.0,60.3,89.1,Tillering,Stem Borer,0.626,Medium
+26.5,49.2,56.6,Ripening,Rice Blast Risk,0.605,Medium
+33.9,65.0,81.6,Vegetative,Stem Borer,0.363,Low
+27.8,53.0,58.2,Vegetative,Stem Borer,0.704,High
+28.0,96.0,79.1,Vegetative,Leaf Folder,1.0,High
+37.8,65.6,80.9,Ripening,Rice Bug,1.0,High
+21.0,63.0,85.1,Ripening,Rice Blast Risk,0.631,Medium
+34.6,54.4,98.8,Flowering,Rice Bug,0.723,High
+19.0,74.8,64.9,Tillering,Stem Borer,0.754,High
+27.6,66.4,23.2,Seedling,Rice Bug,0.501,Medium
+35.7,39.0,81.6,Ripening,Rice Bug,0.768,High
+31.3,90.8,9.3,Seedling,Stem Borer,0.701,High
+31.7,55.1,26.3,Seedling,Stem Borer,0.386,Low
+23.3,60.3,95.1,Flowering,Rice Blast Risk,0.551,Medium
+26.4,44.4,52.2,Seedling,Rice Blast Risk,0.505,Medium
+25.3,68.7,59.8,Seedling,Rice Blast Risk,0.594,Medium
+28.4,79.1,118.5,Tillering,Leaf Folder,0.972,High
+27.2,91.7,28.2,Seedling,Rice Blast Risk,0.851,High
+24.5,33.6,2.3,Vegetative,Leaf Folder,0.568,Medium
+24.1,98.1,13.4,Flowering,Rice Blast Risk,0.827,High
+23.0,79.3,29.3,Seedling,Stem Borer,0.368,Low
+25.3,49.9,87.1,Flowering,Rice Blast Risk,0.587,Medium
+21.0,44.3,93.1,Seedling,Rice Blast Risk,0.549,Medium
+35.4,50.7,67.9,Flowering,Rice Bug,0.723,High
+30.0,91.3,30.6,Seedling,Stem Borer,0.681,High
+20.7,50.4,62.6,Flowering,Rice Blast Risk,0.507,Medium
+31.9,62.4,1.8,Flowering,Rice Bug,0.792,High
+35.0,79.4,81.8,Flowering,Rice Bug,0.948,High
+22.8,91.0,73.7,Vegetative,Rice Blast Risk,0.987,High
+21.0,76.1,2.6,Vegetative,Leaf Folder,0.717,High
+18.2,82.7,98.0,Ripening,Rice Bug,0.831,High
+18.9,42.1,91.6,Flowering,Rice Bug,0.5,Medium
+33.2,91.4,37.0,Seedling,Rice Blast Risk,0.638,Medium
+37.7,49.3,76.2,Seedling,Rice Bug,0.264,Low
+18.9,39.0,72.2,Vegetative,Stem Borer,0.296,Low
+33.0,98.3,17.2,Flowering,Rice Bug,0.94,High
+19.4,44.1,23.2,Vegetative,Stem Borer,0.381,Low
+29.8,39.6,82.0,Ripening,Rice Bug,0.714,High
+33.1,73.8,112.0,Tillering,Stem Borer,0.62,Medium
+25.2,52.3,69.2,Ripening,Rice Blast Risk,0.593,Medium
+18.2,39.3,68.1,Ripening,Rice Bug,0.513,Medium
+29.9,72.1,77.6,Tillering,Stem Borer,1.0,High
+37.8,83.1,52.9,Ripening,Rice Bug,0.965,High
+23.2,85.5,6.5,Tillering,Rice Blast Risk,0.804,High
+21.8,40.9,47.6,Seedling,Rice Blast Risk,0.576,Medium
+20.5,69.0,108.0,Vegetative,Rice Blast Risk,0.537,Medium
+29.1,87.0,96.6,Tillering,Leaf Folder,1.0,High
+29.9,41.3,111.3,Ripening,Rice Bug,0.71,High
+33.8,44.5,18.3,Ripening,Rice Bug,0.755,High
+33.1,30.2,60.7,Seedling,Rice Bug,0.307,Low
+35.9,66.7,70.2,Seedling,Rice Bug,0.562,Medium
+34.1,43.6,25.2,Tillering,Stem Borer,0.466,Medium
+22.9,80.7,24.1,Tillering,Brown Planthopper,0.714,High
+29.1,97.4,93.8,Flowering,Rice Bug,1.0,High
+23.9,44.6,80.6,Vegetative,Rice Blast Risk,0.528,Medium
+24.6,75.4,77.7,Ripening,Rice Bug,0.66,Medium
+36.6,44.8,32.0,Tillering,Stem Borer,0.333,Low
+31.6,31.3,60.8,Vegetative,Stem Borer,0.692,High
+37.5,83.1,2.8,Tillering,Brown Planthopper,0.695,High
+26.3,60.4,15.6,Ripening,Rice Bug,0.571,Medium
+28.7,96.3,62.2,Vegetative,Leaf Folder,1.0,High
+27.7,67.4,37.2,Tillering,Stem Borer,0.666,Medium
+20.1,41.0,115.9,Ripening,Rice Blast Risk,0.591,Medium
+22.7,61.5,56.6,Seedling,Rice Blast Risk,0.526,Medium
+28.6,44.2,10.0,Tillering,Leaf Folder,0.684,High
+19.3,91.5,2.1,Flowering,Rice Bug,0.79,High
+36.6,78.4,87.0,Ripening,Rice Bug,1.0,High
+20.5,53.9,20.6,Seedling,Rice Blast Risk,0.325,Low
+22.0,66.9,22.5,Flowering,Rice Bug,0.801,High
+33.3,76.9,50.9,Ripening,Rice Bug,0.906,High
+19.9,84.8,31.7,Vegetative,Brown Planthopper,0.765,High
+36.0,35.6,74.0,Flowering,Rice Bug,0.749,High
+32.5,31.6,58.3,Tillering,Stem Borer,0.4,Low
+19.4,38.0,13.4,Flowering,Rice Bug,0.398,Low
+31.8,57.6,94.2,Vegetative,Stem Borer,0.681,High
+30.6,62.7,51.1,Seedling,Stem Borer,0.468,Medium
+33.1,39.6,73.3,Ripening,Rice Bug,0.729,High
+34.6,58.8,0.5,Vegetative,Leaf Folder,0.386,Low
+32.4,60.9,75.2,Seedling,Rice Bug,0.252,Low
+29.7,37.6,33.9,Ripening,Rice Bug,0.803,High
+24.4,94.2,59.3,Ripening,Rice Blast Risk,1.0,High
+31.9,71.9,35.7,Flowering,Rice Bug,0.953,High
+37.1,57.2,119.6,Tillering,Stem Borer,0.403,Low
+29.8,65.5,27.7,Vegetative,Stem Borer,0.78,High
+31.3,52.0,109.5,Flowering,Rice Bug,0.775,High
+26.7,89.8,110.2,Flowering,Rice Blast Risk,0.994,High
+33.1,70.3,50.5,Tillering,Stem Borer,0.813,High
+38.0,64.6,36.5,Flowering,Rice Bug,0.808,High
+21.2,93.8,45.7,Tillering,Rice Blast Risk,1.0,High
+22.0,88.7,118.7,Ripening,Rice Blast Risk,1.0,High
+28.8,86.9,74.3,Flowering,Rice Bug,1.0,High
+27.6,45.8,65.4,Vegetative,Stem Borer,0.738,High
+29.4,40.7,4.3,Flowering,Rice Bug,0.641,Medium
+19.0,78.3,101.7,Vegetative,Stem Borer,0.72,High
+26.1,62.8,10.1,Vegetative,Leaf Folder,0.642,Medium
+29.7,77.9,5.6,Ripening,Rice Bug,0.975,High
+29.7,83.2,33.0,Tillering,Leaf Folder,0.99,High
+31.1,50.7,57.1,Seedling,Stem Borer,0.322,Low
+32.4,49.9,107.4,Vegetative,Stem Borer,0.31,Low
+30.8,64.4,94.8,Ripening,Rice Bug,0.812,High
+33.8,49.1,23.7,Flowering,Rice Bug,0.773,High
+30.5,76.7,44.6,Ripening,Rice Bug,0.879,High
+28.8,82.3,93.6,Tillering,Leaf Folder,0.971,High
+30.1,63.0,63.3,Seedling,Stem Borer,0.444,Medium
+20.0,80.7,20.9,Seedling,Brown Planthopper,0.486,Medium
+23.5,65.7,47.5,Seedling,Rice Blast Risk,0.612,Medium
+28.5,79.9,75.1,Flowering,Rice Bug,1.0,High
+35.5,45.7,116.8,Flowering,Rice Bug,0.682,High
+31.6,81.7,79.4,Tillering,Stem Borer,0.993,High
+19.8,80.1,1.9,Flowering,Rice Bug,0.728,High
+29.8,48.7,84.6,Tillering,Stem Borer,0.631,Medium
+22.4,68.9,30.1,Flowering,Rice Bug,0.677,Medium
+32.7,89.9,103.5,Flowering,Rice Bug,0.96,High
+34.5,47.5,46.1,Tillering,Stem Borer,0.368,Low
+29.9,81.5,24.0,Flowering,Rice Bug,1.0,High
+29.8,96.8,56.2,Vegetative,Leaf Folder,1.0,High
+24.8,90.6,30.6,Flowering,Rice Blast Risk,1.0,High
+26.9,58.1,28.3,Ripening,Rice Bug,0.538,Medium
+35.3,72.5,68.8,Vegetative,Stem Borer,0.687,High
+32.5,99.4,92.1,Flowering,Rice Bug,1.0,High
+28.4,69.8,100.2,Seedling,Rice Bug,0.493,Medium
+25.4,38.1,47.7,Vegetative,Leaf Folder,0.628,Medium
+19.0,33.2,8.0,Flowering,Rice Bug,0.595,Medium
+20.9,85.3,58.1,Vegetative,Rice Blast Risk,0.883,High
+21.9,59.7,52.1,Vegetative,Rice Blast Risk,0.456,Medium
+25.5,47.3,23.6,Vegetative,Leaf Folder,0.669,Medium
+36.9,54.3,107.5,Seedling,Rice Bug,0.237,Low
+28.1,83.0,116.9,Flowering,Rice Bug,0.928,High
+22.7,62.6,6.2,Seedling,Rice Blast Risk,0.297,Low
+20.1,90.8,95.5,Vegetative,Rice Blast Risk,0.954,High
+24.8,81.4,77.5,Vegetative,Leaf Folder,1.0,High
+34.3,98.2,31.4,Ripening,Rice Bug,1.0,High
+25.7,92.2,76.2,Ripening,Rice Blast Risk,1.0,High
+33.5,47.8,15.4,Seedling,Rice Bug,0.171,Low
+34.1,76.1,8.3,Seedling,Rice Bug,0.432,Medium
+20.2,31.4,119.2,Flowering,Rice Blast Risk,0.478,Medium
+30.2,99.4,76.4,Vegetative,Stem Borer,1.0,High
+37.2,48.3,30.4,Flowering,Rice Bug,0.771,High
+26.0,76.5,54.0,Ripening,Rice Bug,0.754,High
+19.0,89.4,114.0,Seedling,Rice Blast Risk,0.661,Medium
+36.5,41.2,52.6,Ripening,Rice Bug,0.747,High
+35.7,89.4,108.1,Seedling,Rice Blast Risk,0.594,Medium
+28.4,30.9,104.3,Vegetative,Stem Borer,0.726,High
+29.0,60.9,41.3,Tillering,Stem Borer,0.691,High
+22.2,63.0,83.5,Ripening,Rice Blast Risk,0.49,Medium
+34.4,56.2,79.3,Tillering,Stem Borer,0.429,Medium
+28.0,71.0,92.5,Seedling,Stem Borer,0.679,Medium
+18.7,94.0,43.9,Vegetative,Stem Borer,0.711,High
+31.7,52.9,6.3,Flowering,Rice Bug,0.744,High
+37.0,70.5,20.5,Tillering,Stem Borer,0.745,High
+34.6,91.4,74.0,Seedling,Rice Blast Risk,0.661,Medium
+23.5,84.1,93.0,Tillering,Stem Borer,0.656,Medium
+19.1,32.9,90.7,Tillering,Stem Borer,0.416,Low
+36.8,96.0,70.0,Seedling,Rice Blast Risk,0.668,Medium
+36.7,33.3,10.2,Vegetative,Leaf Folder,0.376,Low
+28.6,71.2,2.1,Ripening,Rice Bug,1.0,High
+30.8,70.3,93.9,Flowering,Rice Bug,0.969,High
+27.3,85.0,65.9,Seedling,Rice Blast Risk,1.0,High
+26.4,40.4,93.9,Seedling,Rice Blast Risk,0.464,Medium
+20.4,42.6,19.5,Vegetative,Leaf Folder,0.344,Low
+19.9,82.6,48.9,Tillering,Stem Borer,0.686,High
+22.7,40.5,110.3,Tillering,Rice Blast Risk,0.622,Medium
+34.7,62.9,20.6,Flowering,Rice Bug,0.742,High
+20.9,81.2,7.4,Seedling,Brown Planthopper,0.53,Medium
+22.5,75.6,78.4,Seedling,Rice Blast Risk,0.462,Medium
+29.0,44.7,71.3,Flowering,Rice Bug,0.732,High
+22.3,51.3,114.2,Ripening,Rice Blast Risk,0.508,Medium
+21.3,97.8,108.8,Seedling,Rice Blast Risk,1.0,High
+29.3,61.4,89.9,Vegetative,Stem Borer,0.667,Medium
+25.4,33.1,2.3,Flowering,Brown Planthopper,0.604,Medium
+30.5,45.4,57.6,Seedling,Stem Borer,0.406,Low
+36.2,54.0,107.5,Ripening,Rice Bug,0.671,Medium
+21.0,100.0,52.0,Vegetative,Rice Blast Risk,0.974,High
+36.3,51.2,115.5,Tillering,Stem Borer,0.42,Medium
+36.0,31.8,78.3,Vegetative,Stem Borer,0.404,Low
+34.6,65.9,13.1,Flowering,Rice Bug,0.885,High
+30.6,35.9,61.1,Seedling,Stem Borer,0.372,Low
+30.4,49.2,83.5,Seedling,Stem Borer,0.451,Medium
+30.8,99.5,7.8,Tillering,Stem Borer,0.929,High
+31.8,79.3,41.4,Ripening,Rice Bug,1.0,High
+18.3,33.5,86.0,Flowering,Rice Bug,0.451,Medium
+37.2,61.4,18.8,Flowering,Rice Bug,0.814,High
+29.7,42.0,41.8,Tillering,Stem Borer,0.698,High
+33.6,38.6,82.8,Seedling,Rice Bug,0.33,Low
+25.5,71.1,93.1,Tillering,Stem Borer,0.7,High
+18.2,65.4,62.2,Ripening,Rice Bug,0.648,Medium
+28.2,82.0,114.8,Flowering,Rice Bug,1.0,High
+28.1,92.5,111.0,Flowering,Rice Bug,0.978,High
+26.7,47.3,56.8,Vegetative,Stem Borer,0.681,High
+24.8,94.6,19.2,Tillering,Leaf Folder,0.927,High
+23.0,66.3,92.8,Flowering,Rice Bug,0.831,High
+28.6,48.1,29.2,Flowering,Rice Bug,0.724,High
+25.5,89.2,101.1,Ripening,Rice Blast Risk,1.0,High
+37.4,32.5,70.5,Flowering,Rice Bug,0.728,High
+21.5,69.2,47.3,Vegetative,Rice Blast Risk,0.504,Medium
+24.4,80.5,66.8,Vegetative,Leaf Folder,1.0,High
+23.9,49.6,63.9,Flowering,Rice Blast Risk,0.546,Medium
+28.9,90.4,111.0,Ripening,Rice Bug,0.997,High
+28.0,46.8,25.7,Ripening,Rice Bug,0.686,High
+30.9,88.8,111.4,Flowering,Rice Bug,0.977,High
+37.0,35.5,3.8,Tillering,Leaf Folder,0.371,Low
+23.7,41.2,92.3,Ripening,Rice Blast Risk,0.485,Medium
+31.9,56.7,110.4,Ripening,Rice Bug,0.723,High
+18.5,89.8,47.3,Seedling,Rice Blast Risk,0.629,Medium
+23.2,40.1,8.8,Vegetative,Leaf Folder,0.353,Low
+27.3,91.3,96.6,Vegetative,Leaf Folder,1.0,High
+18.6,46.1,101.1,Tillering,Stem Borer,0.385,Low
+30.4,61.7,40.4,Vegetative,Stem Borer,0.665,Medium
+31.6,54.7,62.2,Vegetative,Stem Borer,0.837,High
+32.9,38.3,97.1,Seedling,Rice Bug,0.228,Low
+28.3,96.1,23.0,Seedling,Brown Planthopper,0.79,High
+30.1,60.7,75.5,Tillering,Stem Borer,0.682,High
+25.9,78.3,51.7,Ripening,Rice Bug,0.736,High
+18.8,70.3,20.9,Vegetative,Stem Borer,0.704,High
+20.0,65.1,99.8,Vegetative,Stem Borer,0.446,Medium
+31.1,73.2,39.0,Vegetative,Stem Borer,1.0,High
+37.9,92.9,112.1,Ripening,Rice Bug,1.0,High
+18.3,79.0,68.3,Flowering,Rice Bug,0.802,High
+29.2,67.3,61.7,Flowering,Rice Bug,1.0,High
+33.0,75.2,50.8,Seedling,Rice Bug,0.519,Medium
+34.5,72.4,48.1,Ripening,Rice Bug,1.0,High
+28.9,60.3,98.2,Seedling,Stem Borer,0.344,Low
+30.4,73.7,81.3,Ripening,Rice Bug,1.0,High
+31.9,61.0,92.8,Ripening,Rice Bug,0.724,High
+35.2,83.0,50.5,Tillering,Stem Borer,0.682,High
+20.4,97.8,31.4,Ripening,Rice Blast Risk,0.939,High
+36.5,97.2,10.4,Ripening,Rice Bug,0.941,High
+18.5,87.5,93.2,Tillering,Stem Borer,0.749,High
+34.7,72.1,49.8,Flowering,Rice Bug,1.0,High
+19.5,82.5,61.1,Tillering,Stem Borer,0.672,Medium
+21.9,42.5,56.3,Tillering,Rice Blast Risk,0.567,Medium
+18.1,63.5,51.7,Vegetative,Stem Borer,0.411,Low
+26.9,48.0,82.1,Flowering,Rice Blast Risk,0.6,Medium
+24.7,30.2,73.0,Vegetative,Leaf Folder,0.761,High
+21.3,97.7,116.6,Seedling,Rice Blast Risk,1.0,High
+27.0,90.5,16.7,Vegetative,Leaf Folder,0.988,High
+26.0,66.0,68.8,Seedling,Rice Blast Risk,0.576,Medium
+33.4,47.8,7.6,Ripening,Rice Bug,0.781,High
+35.9,78.5,97.0,Vegetative,Stem Borer,0.699,High
+31.1,60.4,74.0,Flowering,Rice Bug,0.695,High
+20.5,86.2,51.4,Tillering,Rice Blast Risk,0.96,High
+23.9,100.0,96.3,Vegetative,Rice Blast Risk,1.0,High
+36.3,54.4,54.6,Vegetative,Stem Borer,0.463,Medium
+19.8,47.1,27.3,Ripening,Rice Bug,0.49,Medium
+26.1,48.7,56.7,Tillering,Stem Borer,0.713,High
+36.9,36.5,8.5,Tillering,Leaf Folder,0.41,Low
+37.0,57.6,107.7,Flowering,Rice Bug,0.665,Medium
+26.2,31.2,87.7,Ripening,Rice Blast Risk,0.528,Medium
+31.3,38.0,91.2,Flowering,Rice Bug,0.851,High
+27.1,49.0,104.9,Tillering,Stem Borer,0.715,High
+33.1,41.2,95.0,Ripening,Rice Bug,0.694,High
+18.6,81.3,51.8,Ripening,Rice Bug,0.756,High
+20.9,37.4,14.2,Ripening,Rice Bug,0.551,Medium
+30.3,90.6,44.8,Seedling,Stem Borer,0.573,Medium
+22.7,45.5,112.1,Ripening,Rice Blast Risk,0.559,Medium
+31.3,37.6,113.9,Seedling,Stem Borer,0.381,Low
+25.0,30.7,92.1,Flowering,Rice Blast Risk,0.468,Medium
+35.7,80.1,24.5,Flowering,Rice Bug,1.0,High
+34.4,48.0,23.3,Vegetative,Stem Borer,0.393,Low
+27.9,65.7,105.6,Seedling,Rice Blast Risk,0.549,Medium
+33.5,37.8,17.0,Ripening,Rice Bug,0.733,High
+23.4,99.0,70.1,Ripening,Rice Blast Risk,0.949,High
+27.9,38.8,45.4,Seedling,Rice Blast Risk,0.477,Medium
+21.9,58.8,36.2,Flowering,Rice Blast Risk,0.515,Medium
+35.2,89.6,81.3,Seedling,Rice Blast Risk,0.693,High
+34.5,47.1,115.1,Tillering,Stem Borer,0.412,Low
+36.0,48.7,93.3,Vegetative,Stem Borer,0.397,Low
+35.5,86.6,58.3,Flowering,Rice Bug,0.948,High
+37.2,49.1,52.9,Tillering,Stem Borer,0.381,Low
+22.6,30.2,108.9,Tillering,Rice Blast Risk,0.587,Medium
+36.6,60.0,69.4,Flowering,Rice Bug,0.775,High
+29.4,30.9,59.6,Tillering,Stem Borer,0.676,Medium
+26.4,93.7,81.9,Seedling,Rice Blast Risk,0.869,High
+29.2,74.9,28.5,Tillering,Stem Borer,0.966,High
+24.9,70.8,7.6,Flowering,Rice Bug,0.726,High
+23.8,44.1,102.6,Tillering,Rice Blast Risk,0.505,Medium
+22.8,79.0,72.9,Seedling,Rice Blast Risk,0.529,Medium
+19.6,77.4,19.8,Seedling,Leaf Folder,0.391,Low
+27.9,34.2,35.8,Vegetative,Stem Borer,0.698,High
+35.8,91.7,118.8,Flowering,Rice Bug,1.0,High
+30.6,70.6,76.1,Vegetative,Stem Borer,0.925,High
+28.4,85.5,76.3,Ripening,Rice Bug,0.985,High
+26.6,48.4,8.7,Vegetative,Leaf Folder,0.553,Medium
+27.3,38.5,116.3,Tillering,Stem Borer,0.679,Medium
+22.2,79.2,107.1,Flowering,Rice Bug,0.698,High
+34.5,85.6,65.7,Flowering,Rice Bug,1.0,High
+22.0,57.0,37.1,Seedling,Rice Blast Risk,0.57,Medium
+32.3,31.7,83.8,Seedling,Rice Bug,0.301,Low
+33.2,87.3,100.0,Seedling,Rice Blast Risk,0.629,Medium
+29.5,44.4,94.3,Ripening,Rice Bug,0.699,High
+35.3,53.7,117.2,Seedling,Rice Bug,0.197,Low
+23.8,74.0,76.4,Seedling,Rice Blast Risk,0.563,Medium
+35.6,37.0,38.5,Flowering,Rice Bug,0.841,High
+32.6,35.0,59.8,Flowering,Rice Bug,0.771,High
+34.0,31.8,98.0,Ripening,Rice Bug,0.731,High
+31.3,94.2,31.8,Vegetative,Stem Borer,0.991,High
+34.9,51.8,27.8,Flowering,Rice Bug,0.748,High
+37.9,76.2,87.0,Seedling,Rice Bug,0.601,Medium
+26.4,99.2,53.3,Tillering,Leaf Folder,1.0,High
+34.3,76.9,98.0,Seedling,Rice Bug,0.513,Medium
+32.9,66.8,17.2,Ripening,Rice Bug,1.0,High
+27.1,66.5,40.3,Tillering,Stem Borer,0.715,High
+36.5,56.4,32.2,Vegetative,Stem Borer,0.425,Medium
+25.9,72.0,83.7,Ripening,Rice Bug,0.729,High
+29.3,97.1,91.1,Seedling,Brown Planthopper,0.658,Medium
+20.1,85.2,54.7,Flowering,Rice Blast Risk,1.0,High
+22.5,59.7,57.4,Tillering,Rice Blast Risk,0.551,Medium
+34.8,53.3,15.8,Flowering,Rice Bug,0.797,High
+25.9,91.8,84.2,Vegetative,Leaf Folder,1.0,High
+25.9,39.5,119.1,Ripening,Rice Blast Risk,0.576,Medium
+22.9,89.5,93.4,Tillering,Rice Blast Risk,1.0,High
+27.8,47.9,26.8,Tillering,Stem Borer,0.86,High
+34.1,80.1,74.8,Tillering,Stem Borer,0.71,High
+35.9,86.4,35.4,Vegetative,Brown Planthopper,0.645,Medium
+19.4,63.4,3.6,Vegetative,Leaf Folder,0.336,Low
+29.5,43.5,21.6,Seedling,Brown Planthopper,0.478,Medium
+27.3,89.1,12.3,Tillering,Leaf Folder,0.935,High
+30.3,55.7,23.5,Tillering,Stem Borer,0.662,Medium
+26.9,52.4,95.5,Vegetative,Stem Borer,0.755,High
+26.0,65.7,35.1,Ripening,Rice Bug,0.736,High
+27.4,60.5,90.8,Seedling,Rice Blast Risk,0.544,Medium
+29.6,77.8,113.9,Ripening,Rice Bug,1.0,High
+28.0,39.6,68.9,Ripening,Rice Bug,0.714,High
+27.4,60.5,58.2,Seedling,Rice Blast Risk,0.477,Medium
+34.4,92.4,90.0,Flowering,Rice Bug,0.931,High
+32.9,32.5,11.7,Vegetative,Leaf Folder,0.379,Low
+24.8,62.0,51.4,Seedling,Rice Blast Risk,0.563,Medium
+34.0,76.2,59.9,Ripening,Rice Bug,0.965,High
+35.1,92.1,99.7,Seedling,Rice Blast Risk,0.592,Medium
+21.1,71.6,97.7,Vegetative,Stem Borer,0.686,High
+29.7,87.7,101.8,Seedling,Brown Planthopper,0.756,High
+23.7,45.6,83.7,Seedling,Rice Blast Risk,0.508,Medium
+32.8,54.7,63.7,Seedling,Rice Bug,0.217,Low
+22.8,95.9,99.3,Ripening,Rice Blast Risk,0.94,High
+31.4,92.0,104.8,Seedling,Stem Borer,0.682,High
+23.1,69.1,57.7,Flowering,Rice Bug,0.767,High
+28.2,63.3,118.3,Seedling,Stem Borer,0.506,Medium
+37.0,61.6,105.0,Ripening,Rice Bug,0.761,High
+25.6,34.1,61.3,Ripening,Rice Blast Risk,0.547,Medium
+35.5,92.5,8.3,Flowering,Rice Bug,1.0,High
+37.7,87.3,26.9,Ripening,Rice Bug,1.0,High
+35.5,61.9,93.2,Vegetative,Stem Borer,0.371,Low
+21.3,49.6,13.3,Flowering,Rice Bug,0.615,Medium
+34.4,54.0,56.4,Vegetative,Stem Borer,0.399,Low
+18.6,38.6,72.6,Flowering,Rice Bug,0.512,Medium
+25.9,80.5,105.4,Ripening,Rice Bug,0.778,High
+35.4,69.0,101.7,Flowering,Rice Bug,1.0,High
+31.8,46.4,91.7,Vegetative,Stem Borer,0.776,High
+28.7,73.6,48.9,Flowering,Rice Bug,0.971,High
+25.8,98.5,17.1,Ripening,Rice Blast Risk,0.839,High
+34.2,38.6,80.4,Ripening,Rice Bug,0.758,High
+32.2,62.1,21.8,Flowering,Rice Bug,0.799,High
+27.4,64.6,67.4,Flowering,Rice Bug,0.739,High
+35.8,41.7,117.7,Flowering,Rice Bug,0.732,High
+22.6,67.2,66.0,Flowering,Rice Bug,0.787,High
+21.4,72.4,77.5,Seedling,Rice Blast Risk,0.568,Medium
+30.9,41.0,81.3,Ripening,Rice Bug,0.709,High
+37.4,40.8,99.6,Seedling,Rice Bug,0.317,Low
+22.9,89.9,52.2,Tillering,Rice Blast Risk,1.0,High
+23.0,51.8,59.7,Vegetative,Rice Blast Risk,0.546,Medium
+20.8,74.1,21.1,Vegetative,Stem Borer,0.677,Medium
+35.2,73.9,73.8,Vegetative,Stem Borer,0.718,High
+22.5,88.7,35.5,Seedling,Rice Blast Risk,1.0,High
+28.1,81.8,60.9,Tillering,Leaf Folder,0.92,High
+37.8,88.8,92.0,Tillering,Stem Borer,0.719,High
+18.2,73.8,2.1,Tillering,Stem Borer,0.633,Medium
+29.1,61.5,67.7,Seedling,Stem Borer,0.282,Low
+28.2,57.5,20.8,Flowering,Rice Bug,0.76,High
+34.1,56.5,33.5,Seedling,Rice Bug,0.285,Low
+25.1,59.3,4.2,Ripening,Rice Bug,0.529,Medium
+26.2,39.1,20.3,Seedling,Brown Planthopper,0.44,Medium
+21.4,59.7,118.4,Seedling,Rice Blast Risk,0.534,Medium
+32.8,57.3,119.8,Vegetative,Stem Borer,0.348,Low
+33.7,32.4,86.4,Tillering,Stem Borer,0.31,Low
+20.7,49.3,73.4,Ripening,Rice Blast Risk,0.605,Medium
+25.9,82.6,93.2,Tillering,Leaf Folder,1.0,High
+35.9,70.5,107.6,Vegetative,Stem Borer,0.758,High
+18.1,86.4,62.3,Ripening,Rice Bug,0.714,High
+24.0,68.0,4.2,Vegetative,Leaf Folder,0.39,Low
+29.1,89.8,85.1,Ripening,Rice Bug,0.925,High
+24.7,85.7,118.2,Tillering,Leaf Folder,0.957,High
+23.4,36.9,31.0,Vegetative,Rice Blast Risk,0.556,Medium
+27.2,98.4,55.6,Vegetative,Leaf Folder,1.0,High
+21.6,31.0,43.4,Seedling,Rice Blast Risk,0.634,Medium
+28.6,71.8,46.9,Flowering,Rice Bug,0.988,High
+32.1,85.5,86.6,Tillering,Stem Borer,0.657,Medium
+29.5,53.2,45.4,Flowering,Rice Bug,0.704,High
+19.9,71.9,112.9,Flowering,Rice Bug,0.716,High
+34.9,55.3,94.8,Seedling,Rice Bug,0.361,Low
+21.5,34.2,3.3,Ripening,Rice Bug,0.538,Medium
+33.3,30.6,98.2,Tillering,Stem Borer,0.456,Medium
+25.2,36.6,92.7,Flowering,Rice Blast Risk,0.538,Medium
+33.7,36.9,62.0,Seedling,Rice Bug,0.25,Low
+22.1,72.8,59.6,Flowering,Rice Bug,0.785,High
+21.7,66.8,100.3,Flowering,Rice Bug,0.725,High
+27.9,61.9,51.0,Vegetative,Stem Borer,0.685,High
+18.7,78.4,19.1,Ripening,Rice Bug,0.716,High
+22.5,31.2,37.5,Flowering,Rice Blast Risk,0.528,Medium
+32.5,49.0,31.8,Ripening,Rice Bug,0.752,High
+34.7,84.4,81.7,Ripening,Rice Bug,0.959,High
+19.6,93.7,21.5,Vegetative,Brown Planthopper,0.714,High
+35.6,60.7,77.4,Ripening,Rice Bug,0.764,High
+34.0,35.7,55.9,Flowering,Rice Bug,0.741,High
+35.4,85.9,100.8,Seedling,Rice Blast Risk,0.609,Medium
+32.0,92.0,58.2,Flowering,Rice Bug,1.0,High
+31.5,59.0,111.6,Tillering,Stem Borer,0.675,Medium
+28.5,47.0,108.1,Ripening,Rice Bug,0.752,High
+31.1,33.1,22.2,Seedling,Stem Borer,0.455,Medium
+36.4,71.4,82.3,Vegetative,Stem Borer,0.637,Medium
+20.0,93.7,25.8,Vegetative,Rice Blast Risk,0.909,High
+24.3,77.5,98.8,Tillering,Leaf Folder,0.996,High
+19.4,52.2,76.3,Flowering,Rice Bug,0.521,Medium
+36.9,75.0,35.3,Vegetative,Stem Borer,0.662,Medium
+26.9,88.2,29.9,Flowering,Brown Planthopper,1.0,High
+31.5,63.3,51.5,Seedling,Stem Borer,0.394,Low
+34.8,87.4,96.1,Vegetative,Stem Borer,0.68,High
+37.8,57.4,95.5,Flowering,Rice Bug,0.721,High
+21.2,54.4,4.0,Vegetative,Leaf Folder,0.337,Low
+34.0,70.8,36.3,Tillering,Stem Borer,0.721,High
+35.7,62.5,50.7,Flowering,Rice Bug,0.759,High
+19.0,98.4,70.3,Vegetative,Stem Borer,0.698,High
+33.1,66.1,17.9,Ripening,Rice Bug,0.964,High
+25.1,57.0,40.2,Ripening,Rice Blast Risk,0.512,Medium
+31.0,57.6,106.3,Ripening,Rice Bug,0.727,High
+28.3,68.4,57.2,Tillering,Stem Borer,0.723,High
+23.2,54.8,89.3,Vegetative,Rice Blast Risk,0.583,Medium
+20.7,80.6,58.2,Ripening,Rice Bug,0.79,High
+20.3,56.6,55.8,Flowering,Rice Blast Risk,0.55,Medium
+20.1,56.9,74.6,Flowering,Rice Blast Risk,0.569,Medium
+30.8,73.2,31.1,Seedling,Stem Borer,0.692,High
+25.0,34.3,30.0,Ripening,Rice Bug,0.413,Low
+22.3,75.9,118.7,Tillering,Stem Borer,0.689,High
+31.8,65.3,104.3,Flowering,Rice Bug,0.981,High
+31.7,61.7,88.5,Ripening,Rice Bug,0.698,High
+28.8,80.3,16.5,Seedling,Brown Planthopper,0.772,High
+36.7,83.1,3.6,Seedling,Brown Planthopper,0.507,Medium
+25.7,89.2,21.0,Seedling,Rice Blast Risk,0.743,High
+34.7,56.2,112.5,Flowering,Rice Bug,0.714,High
+19.5,52.9,98.0,Ripening,Rice Bug,0.577,Medium
+32.8,80.0,62.8,Seedling,Rice Bug,0.42,Low
+37.8,70.7,116.3,Seedling,Rice Bug,0.491,Medium
+34.9,74.2,17.6,Tillering,Stem Borer,0.542,Medium
+29.6,68.9,67.1,Vegetative,Stem Borer,0.662,Medium
+30.5,84.1,22.0,Seedling,Stem Borer,0.69,High
+25.1,43.3,36.8,Flowering,Brown Planthopper,0.551,Medium
+31.6,68.9,112.8,Ripening,Rice Bug,1.0,High
+33.4,41.1,104.2,Vegetative,Stem Borer,0.468,Medium
+38.0,58.5,12.2,Seedling,Rice Bug,0.292,Low
+27.8,76.5,29.9,Vegetative,Leaf Folder,1.0,High
+19.2,64.5,71.3,Seedling,Rice Blast Risk,0.131,Low
+29.9,56.6,7.4,Tillering,Leaf Folder,0.638,Medium
+20.4,91.9,66.0,Seedling,Rice Blast Risk,1.0,High
+22.9,84.1,70.1,Vegetative,Stem Borer,0.744,High
+24.6,66.8,34.9,Seedling,Rice Blast Risk,0.638,Medium
+32.6,96.5,35.2,Flowering,Rice Bug,1.0,High
+21.7,59.7,27.5,Tillering,Stem Borer,0.445,Medium
+21.3,85.2,112.3,Seedling,Rice Blast Risk,1.0,High
+18.9,41.8,46.7,Seedling,Rice Blast Risk,0.205,Low
+35.5,50.0,70.2,Tillering,Stem Borer,0.386,Low
+31.9,53.7,36.2,Tillering,Stem Borer,0.709,High
+18.8,37.4,84.3,Seedling,Rice Blast Risk,0.154,Low
+18.6,65.1,12.2,Vegetative,Leaf Folder,0.353,Low
+29.2,43.5,8.6,Flowering,Rice Bug,0.664,Medium
+23.7,74.4,89.3,Tillering,Stem Borer,0.674,Medium
+29.9,43.3,87.2,Seedling,Stem Borer,0.394,Low
+26.7,38.6,31.8,Vegetative,Stem Borer,0.747,High
+36.5,97.8,42.6,Seedling,Rice Blast Risk,0.706,High
+23.8,76.1,114.9,Ripening,Rice Bug,0.702,High
+31.6,95.6,12.5,Ripening,Rice Bug,1.0,High
+19.1,64.3,22.0,Vegetative,Stem Borer,0.407,Low
+37.1,32.3,51.6,Vegetative,Stem Borer,0.412,Low
+37.6,70.2,33.9,Seedling,Rice Bug,0.419,Low
+32.8,69.1,77.9,Flowering,Rice Bug,0.969,High
+27.3,31.0,82.9,Ripening,Rice Bug,0.802,High
+22.4,90.3,63.2,Vegetative,Rice Blast Risk,1.0,High
+34.3,73.4,73.3,Flowering,Rice Bug,1.0,High
+32.7,82.1,52.0,Vegetative,Stem Borer,0.711,High
+22.4,64.6,91.2,Ripening,Rice Blast Risk,0.478,Medium
+27.0,73.3,5.1,Vegetative,Stem Borer,0.895,High
+27.3,48.0,37.5,Seedling,Rice Blast Risk,0.62,Medium
+34.5,98.2,82.1,Ripening,Rice Bug,1.0,High
+31.7,58.1,39.6,Ripening,Rice Bug,0.744,High
+30.9,41.4,9.4,Vegetative,Stem Borer,0.678,Medium
+31.0,33.9,41.4,Ripening,Rice Bug,0.687,High
+23.4,74.5,85.4,Vegetative,Stem Borer,0.651,Medium
+25.4,98.8,14.6,Vegetative,Leaf Folder,1.0,High
+18.9,92.7,87.0,Tillering,Stem Borer,0.729,High
+33.7,79.1,93.1,Flowering,Rice Bug,0.986,High
+26.7,99.3,76.2,Vegetative,Leaf Folder,0.997,High
+26.8,80.6,29.3,Flowering,Brown Planthopper,0.96,High
+22.9,53.7,96.6,Flowering,Rice Blast Risk,0.564,Medium
+22.2,72.1,25.7,Seedling,Stem Borer,0.41,Low
+29.8,35.6,108.7,Ripening,Rice Bug,0.751,High
+22.7,45.5,84.8,Seedling,Rice Blast Risk,0.492,Medium
+19.3,59.2,6.6,Tillering,Leaf Folder,0.363,Low
+33.4,44.1,95.9,Tillering,Stem Borer,0.374,Low
+25.5,96.7,60.8,Tillering,Leaf Folder,0.951,High
+25.6,99.7,54.3,Seedling,Rice Blast Risk,1.0,High
+26.6,56.0,50.5,Vegetative,Stem Borer,0.808,High
+34.3,79.6,72.8,Seedling,Rice Bug,0.597,Medium
+24.4,58.5,86.9,Ripening,Rice Blast Risk,0.583,Medium
+33.2,39.8,107.5,Seedling,Rice Bug,0.237,Low
+36.8,53.6,32.8,Tillering,Stem Borer,0.396,Low
+31.2,46.3,75.7,Vegetative,Stem Borer,0.72,High
+26.6,53.0,82.4,Seedling,Rice Blast Risk,0.529,Medium
+33.0,45.1,81.0,Vegetative,Stem Borer,0.466,Medium
+27.2,37.9,59.2,Ripening,Rice Bug,0.648,Medium
+26.3,45.2,46.9,Tillering,Stem Borer,0.685,High
+28.5,93.4,91.5,Ripening,Rice Bug,1.0,High
+24.4,36.0,36.0,Ripening,Rice Blast Risk,0.508,Medium
+20.1,52.7,25.0,Tillering,Stem Borer,0.388,Low
+26.3,67.0,65.5,Ripening,Rice Bug,0.78,High
+20.5,54.8,32.1,Vegetative,Rice Blast Risk,0.626,Medium
+26.2,66.2,4.0,Tillering,Leaf Folder,0.585,Medium
+29.1,33.0,6.2,Flowering,Rice Bug,0.682,High
+36.6,75.4,83.4,Tillering,Stem Borer,0.653,Medium
+18.7,69.4,116.8,Ripening,Rice Bug,0.673,Medium
+30.4,77.7,54.6,Seedling,Stem Borer,0.627,Medium
+27.2,69.7,17.6,Tillering,Leaf Folder,0.601,Medium
+18.4,60.7,98.2,Flowering,Rice Bug,0.562,Medium
+23.0,54.5,31.4,Vegetative,Rice Blast Risk,0.534,Medium
+20.4,45.9,119.5,Ripening,Rice Blast Risk,0.552,Medium
+22.3,65.0,67.6,Vegetative,Rice Blast Risk,0.502,Medium
+23.5,31.8,27.9,Vegetative,Stem Borer,0.432,Medium
+26.0,53.0,59.5,Vegetative,Stem Borer,0.794,High
+28.6,77.5,40.2,Flowering,Rice Bug,0.956,High
+18.0,37.6,93.5,Seedling,Rice Blast Risk,0.286,Low
+21.2,34.4,12.7,Seedling,Rice Blast Risk,0.368,Low
+19.9,75.7,102.8,Flowering,Rice Bug,0.751,High
+29.0,57.8,92.1,Vegetative,Stem Borer,0.72,High
+24.6,86.1,103.4,Seedling,Rice Blast Risk,1.0,High
+29.0,95.6,107.4,Vegetative,Leaf Folder,1.0,High
+22.4,97.0,27.6,Vegetative,Rice Blast Risk,0.826,High
+18.5,59.8,62.5,Seedling,Rice Blast Risk,0.227,Low
+36.8,48.5,102.0,Ripening,Rice Bug,0.729,High
+20.2,72.6,45.3,Seedling,Rice Blast Risk,0.592,Medium
+20.5,74.0,7.2,Tillering,Stem Borer,0.552,Medium
+20.9,73.6,35.0,Vegetative,Stem Borer,0.705,High
+37.6,52.5,29.0,Vegetative,Stem Borer,0.544,Medium
+30.4,34.5,104.4,Seedling,Stem Borer,0.275,Low
+30.2,44.7,55.7,Ripening,Rice Bug,0.762,High
+37.7,40.8,82.0,Ripening,Rice Bug,0.764,High
+19.8,38.7,115.5,Seedling,Rice Blast Risk,0.189,Low
+37.5,94.8,35.9,Seedling,Rice Blast Risk,0.64,Medium
+22.1,31.0,91.3,Ripening,Rice Blast Risk,0.555,Medium
+30.5,72.1,2.7,Tillering,Stem Borer,0.887,High
+26.4,96.3,12.5,Seedling,Rice Blast Risk,0.811,High
+25.7,55.2,19.4,Seedling,Brown Planthopper,0.376,Low
+36.6,66.9,37.5,Tillering,Rice Bug,0.601,Medium
+21.0,78.7,48.4,Tillering,Stem Borer,0.687,High
+37.9,52.2,57.2,Flowering,Rice Bug,0.778,High
+25.6,63.4,29.4,Seedling,Brown Planthopper,0.367,Low
+31.0,87.2,7.9,Vegetative,Stem Borer,0.947,High
+37.4,82.2,81.3,Vegetative,Stem Borer,0.737,High
+19.2,86.6,2.8,Tillering,Brown Planthopper,0.721,High
+36.5,99.1,97.1,Vegetative,Stem Borer,0.649,Medium
+29.4,55.9,111.5,Vegetative,Stem Borer,0.662,Medium
+32.1,82.3,85.2,Ripening,Rice Bug,1.0,High
+21.0,72.2,71.5,Tillering,Stem Borer,0.662,Medium
+28.7,76.7,78.8,Tillering,Leaf Folder,1.0,High
+31.5,81.8,78.3,Seedling,Stem Borer,0.653,Medium
+27.1,82.5,111.8,Seedling,Brown Planthopper,0.75,High
+21.1,92.0,115.7,Flowering,Rice Blast Risk,0.966,High
+22.9,54.5,51.2,Ripening,Rice Blast Risk,0.502,Medium
+35.1,75.7,74.0,Tillering,Stem Borer,0.664,Medium
+18.7,49.6,96.3,Seedling,Rice Blast Risk,0.172,Low
+32.2,71.6,0.1,Tillering,Stem Borer,0.62,Medium
+38.0,82.6,63.2,Vegetative,Stem Borer,0.703,High
+18.1,85.4,78.3,Seedling,Rice Blast Risk,0.595,Medium
+21.2,59.4,86.1,Seedling,Rice Blast Risk,0.549,Medium
+31.5,65.6,44.3,Tillering,Stem Borer,0.643,Medium
+19.2,53.4,35.5,Tillering,Stem Borer,0.432,Medium
+29.8,41.8,21.9,Tillering,Stem Borer,0.741,High
+31.7,48.2,66.9,Flowering,Rice Bug,0.749,High
+29.8,93.8,110.3,Vegetative,Leaf Folder,1.0,High
+25.3,51.6,107.5,Vegetative,Leaf Folder,0.738,High
+31.9,98.2,43.2,Flowering,Rice Bug,0.992,High
+29.9,46.9,30.9,Seedling,Brown Planthopper,0.353,Low
+22.2,80.6,94.7,Seedling,Rice Blast Risk,0.579,Medium
+29.3,70.2,87.0,Ripening,Rice Bug,0.943,High
+35.6,78.8,60.6,Vegetative,Stem Borer,0.689,High
+31.3,75.1,46.7,Seedling,Stem Borer,0.67,Medium
+27.4,79.5,14.9,Flowering,Rice Bug,0.965,High
+24.4,93.4,94.2,Tillering,Leaf Folder,0.987,High
+19.7,69.4,74.1,Seedling,Rice Bug,0.295,Low
+22.9,34.7,45.2,Ripening,Rice Blast Risk,0.605,Medium
+18.2,49.0,110.3,Vegetative,Stem Borer,0.446,Medium
+37.7,79.6,79.2,Flowering,Rice Bug,1.0,High
+22.4,64.6,111.5,Flowering,Rice Blast Risk,0.537,Medium
+34.3,68.4,56.9,Ripening,Rice Bug,0.882,High
+21.4,71.8,54.6,Flowering,Rice Bug,0.768,High
+23.7,56.8,112.5,Flowering,Rice Blast Risk,0.436,Medium
+26.4,84.2,115.2,Seedling,Brown Planthopper,0.604,Medium
+24.5,80.6,115.3,Ripening,Rice Bug,0.742,High
+34.0,80.0,98.3,Seedling,Rice Bug,0.513,Medium
+37.2,80.1,55.5,Vegetative,Stem Borer,0.677,Medium
+35.5,92.3,25.2,Tillering,Brown Planthopper,0.777,High
+21.1,71.7,46.0,Vegetative,Stem Borer,0.723,High
+33.5,97.7,112.6,Tillering,Stem Borer,0.688,High
+21.0,38.3,43.6,Seedling,Rice Blast Risk,0.619,Medium
+36.3,74.2,90.8,Tillering,Stem Borer,0.778,High
+28.4,80.2,110.8,Vegetative,Leaf Folder,1.0,High
+24.7,63.4,116.4,Flowering,Rice Blast Risk,0.511,Medium
+21.1,50.2,113.7,Tillering,Rice Blast Risk,0.522,Medium
+18.2,68.5,66.6,Flowering,Rice Bug,0.678,Medium
+23.0,55.5,59.0,Seedling,Rice Blast Risk,0.548,Medium
+36.3,93.6,118.5,Ripening,Rice Bug,0.947,High
+33.9,55.0,26.2,Vegetative,Stem Borer,0.384,Low
+37.4,42.3,22.5,Vegetative,Stem Borer,0.413,Low
+20.0,70.3,115.6,Tillering,Stem Borer,0.601,Medium
+29.8,57.7,82.7,Seedling,Stem Borer,0.337,Low
+23.1,36.7,64.4,Ripening,Rice Blast Risk,0.525,Medium
+28.9,69.5,15.8,Vegetative,Leaf Folder,0.647,Medium
+24.4,67.6,61.6,Ripening,Rice Bug,0.725,High
+23.7,42.1,113.3,Seedling,Rice Blast Risk,0.536,Medium
+29.5,71.8,72.3,Ripening,Rice Bug,0.965,High
+21.7,69.7,48.6,Vegetative,Rice Blast Risk,0.478,Medium
+27.4,84.2,66.1,Flowering,Rice Bug,0.973,High
+31.0,55.3,106.3,Ripening,Rice Bug,0.739,High
+20.6,47.4,109.5,Seedling,Rice Blast Risk,0.534,Medium
+36.6,96.6,48.0,Vegetative,Stem Borer,0.706,High
+28.1,69.3,73.0,Ripening,Rice Bug,1.0,High
+34.4,31.9,33.5,Seedling,Rice Bug,0.284,Low
+31.1,87.4,54.1,Seedling,Stem Borer,0.668,Medium
+32.2,43.8,26.4,Tillering,Stem Borer,0.321,Low
+32.3,85.0,63.8,Seedling,Rice Blast Risk,0.714,High
+35.5,79.4,69.4,Ripening,Rice Bug,1.0,High
+30.3,97.8,40.5,Ripening,Rice Bug,0.952,High
+23.6,97.6,32.7,Seedling,Rice Blast Risk,1.0,High
+20.0,49.2,18.1,Seedling,Brown Planthopper,0.153,Low
+30.1,83.7,16.7,Flowering,Rice Bug,1.0,High
+19.3,52.2,85.4,Tillering,Stem Borer,0.413,Low
+22.8,74.0,26.6,Ripening,Rice Bug,0.803,High
+19.2,71.8,14.2,Ripening,Rice Bug,0.69,High
+29.0,33.8,119.9,Tillering,Stem Borer,0.698,High
+21.2,30.4,31.2,Vegetative,Rice Blast Risk,0.533,Medium
+30.2,34.0,107.5,Flowering,Rice Bug,0.767,High
+33.8,39.0,73.1,Flowering,Rice Bug,0.831,High
+34.4,48.0,85.8,Tillering,Stem Borer,0.412,Low
+24.2,93.5,67.3,Vegetative,Leaf Folder,0.953,High
+29.0,66.3,21.7,Vegetative,Stem Borer,0.637,Medium
+29.3,85.8,101.6,Tillering,Leaf Folder,1.0,High
+27.5,88.7,99.4,Tillering,Leaf Folder,1.0,High
+31.1,81.4,42.0,Tillering,Stem Borer,1.0,High
+22.2,57.4,91.7,Seedling,Rice Blast Risk,0.533,Medium
+37.6,90.5,65.2,Ripening,Rice Bug,1.0,High
+20.0,81.9,109.1,Flowering,Rice Bug,0.701,High
+34.6,82.0,96.3,Ripening,Rice Bug,1.0,High
+29.9,93.1,4.9,Ripening,Rice Bug,0.941,High
+22.9,71.9,105.5,Flowering,Rice Bug,0.732,High
+32.9,67.0,116.2,Vegetative,Rice Bug,0.468,Medium
+19.7,92.3,89.1,Flowering,Rice Bug,0.587,Medium
+33.5,61.8,14.4,Tillering,Leaf Folder,0.333,Low
+29.8,86.8,96.9,Ripening,Rice Bug,0.955,High
+20.2,33.8,77.7,Vegetative,Rice Blast Risk,0.539,Medium
+19.6,30.1,40.7,Seedling,Rice Blast Risk,0.2,Low
+33.0,67.0,106.1,Seedling,Rice Bug,0.588,Medium
+23.9,35.2,67.9,Seedling,Rice Blast Risk,0.565,Medium
+35.8,98.4,102.4,Flowering,Rice Bug,1.0,High
+33.2,30.4,80.4,Seedling,Rice Bug,0.275,Low
+32.0,80.3,34.6,Seedling,Stem Borer,0.744,High
+23.6,47.0,117.0,Vegetative,Rice Blast Risk,0.573,Medium
+32.2,97.7,68.5,Flowering,Rice Bug,1.0,High
+37.0,56.7,62.0,Tillering,Stem Borer,0.436,Medium
+19.8,31.9,48.4,Vegetative,Stem Borer,0.279,Low
+24.5,31.9,16.4,Vegetative,Leaf Folder,0.754,High
+22.7,68.7,82.3,Ripening,Rice Bug,0.829,High
+25.9,99.1,51.7,Tillering,Leaf Folder,1.0,High
+32.8,98.6,112.2,Vegetative,Stem Borer,0.629,Medium
+27.5,53.6,115.8,Flowering,Rice Bug,0.811,High
+29.4,63.8,92.1,Vegetative,Stem Borer,0.665,Medium
+24.3,37.0,29.1,Vegetative,Leaf Folder,0.677,Medium
+20.8,66.6,85.9,Flowering,Rice Bug,0.686,High
+23.3,72.0,2.5,Vegetative,Stem Borer,0.711,High
+35.2,47.6,99.2,Tillering,Stem Borer,0.328,Low
+30.0,72.8,59.2,Flowering,Rice Bug,1.0,High
+25.6,93.0,112.4,Vegetative,Leaf Folder,0.894,High
+33.8,30.1,45.3,Seedling,Rice Bug,0.248,Low
+19.3,46.0,31.6,Ripening,Rice Bug,0.479,Medium
+23.1,44.7,119.4,Vegetative,Rice Blast Risk,0.607,Medium
+22.6,38.7,63.7,Vegetative,Rice Blast Risk,0.529,Medium
+37.7,41.6,103.6,Tillering,Stem Borer,0.457,Medium
+32.1,73.8,109.3,Seedling,Rice Bug,0.449,Medium
+30.4,37.2,62.2,Seedling,Stem Borer,0.386,Low
+18.1,81.7,54.7,Tillering,Stem Borer,0.687,High
+21.7,92.1,66.3,Ripening,Rice Blast Risk,1.0,High
+30.7,94.9,101.7,Tillering,Stem Borer,1.0,High
+25.6,76.2,115.8,Tillering,Leaf Folder,1.0,High
+36.5,43.8,39.4,Flowering,Rice Bug,0.763,High
+33.3,36.0,88.6,Ripening,Rice Bug,0.783,High
+26.9,46.2,34.2,Ripening,Rice Blast Risk,0.505,Medium
+33.0,97.3,73.3,Seedling,Rice Blast Risk,0.669,Medium
+37.5,97.4,96.6,Tillering,Stem Borer,0.78,High
+27.2,56.7,106.4,Tillering,Stem Borer,0.616,Medium
+30.9,52.8,53.8,Vegetative,Stem Borer,0.724,High
+36.4,65.7,44.4,Ripening,Rice Bug,1.0,High
+23.0,50.4,30.4,Vegetative,Rice Blast Risk,0.623,Medium
+35.7,98.6,16.0,Ripening,Rice Bug,1.0,High
+20.0,45.5,43.8,Seedling,Rice Blast Risk,0.205,Low
+31.0,55.8,104.6,Flowering,Rice Bug,0.772,High
+33.7,60.1,50.3,Flowering,Rice Bug,0.713,High
+30.3,38.8,38.1,Tillering,Stem Borer,0.681,High
+27.9,56.8,88.7,Seedling,Rice Blast Risk,0.483,Medium
+30.3,90.0,25.9,Seedling,Stem Borer,0.774,High
+21.0,39.8,30.8,Flowering,Rice Blast Risk,0.573,Medium
+22.3,70.9,112.3,Ripening,Rice Bug,0.704,High
+23.4,58.5,9.8,Tillering,Leaf Folder,0.364,Low
+30.0,41.9,49.8,Seedling,Stem Borer,0.458,Medium
+26.8,30.9,69.2,Flowering,Rice Blast Risk,0.6,Medium
+22.9,49.1,27.6,Tillering,Stem Borer,0.354,Low
+35.7,34.3,33.7,Seedling,Rice Bug,0.093,Low
+25.5,56.4,26.6,Vegetative,Leaf Folder,0.67,Medium
+26.9,86.7,41.4,Vegetative,Leaf Folder,0.956,High
+26.2,80.4,107.8,Ripening,Rice Bug,0.781,High
+21.6,96.3,51.8,Ripening,Rice Blast Risk,1.0,High
+32.6,59.9,50.1,Seedling,Rice Bug,0.306,Low
+27.0,79.5,46.4,Tillering,Leaf Folder,1.0,High
+18.3,76.6,115.7,Seedling,Stem Borer,0.462,Medium
+37.3,45.2,14.1,Tillering,Leaf Folder,0.437,Medium
+34.3,51.3,104.6,Seedling,Rice Bug,0.319,Low
+32.5,67.1,39.3,Flowering,Rice Bug,1.0,High
+35.4,85.8,114.8,Seedling,Rice Blast Risk,0.648,Medium
+36.1,62.3,37.8,Ripening,Rice Bug,0.686,High
+24.7,45.9,9.9,Vegetative,Leaf Folder,0.774,High
+30.2,99.5,62.4,Vegetative,Stem Borer,1.0,High
+30.2,38.1,27.3,Ripening,Rice Bug,0.811,High
+23.3,96.9,90.4,Ripening,Rice Blast Risk,0.972,High
+22.4,86.6,78.9,Seedling,Rice Blast Risk,1.0,High
+20.3,88.7,82.4,Seedling,Rice Blast Risk,0.878,High
+31.2,85.6,23.2,Ripening,Rice Bug,0.979,High
+33.6,44.6,85.0,Ripening,Rice Bug,0.745,High
+33.2,74.3,37.4,Tillering,Stem Borer,0.723,High
+24.3,83.0,119.8,Seedling,Leaf Folder,0.704,High
+22.1,82.2,87.8,Seedling,Rice Blast Risk,0.495,Medium
+27.1,49.0,70.8,Vegetative,Stem Borer,0.733,High
+28.9,42.7,104.1,Flowering,Rice Bug,0.811,High
+36.4,53.0,70.7,Seedling,Rice Bug,0.367,Low
+35.5,63.6,66.3,Flowering,Rice Bug,0.785,High
+36.3,70.2,28.5,Ripening,Rice Bug,0.977,High
+35.0,88.6,81.4,Seedling,Rice Blast Risk,0.586,Medium
+37.3,83.8,45.0,Ripening,Rice Bug,1.0,High
+27.3,77.3,5.2,Ripening,Rice Bug,1.0,High
+18.9,48.4,97.9,Vegetative,Stem Borer,0.399,Low
+19.7,63.5,6.2,Seedling,Brown Planthopper,0.019,Low
+25.8,53.5,80.7,Vegetative,Leaf Folder,0.603,Medium
+23.2,46.4,18.8,Vegetative,Leaf Folder,0.382,Low
+21.4,30.7,51.9,Vegetative,Rice Blast Risk,0.568,Medium
+37.1,53.8,103.1,Ripening,Rice Bug,0.653,Medium
+21.9,47.9,11.3,Seedling,Rice Blast Risk,0.382,Low
+37.2,70.0,80.1,Vegetative,Stem Borer,0.622,Medium
+33.2,34.4,73.5,Flowering,Rice Bug,0.818,High
+30.8,48.9,104.1,Seedling,Stem Borer,0.41,Low
+31.5,33.1,20.7,Seedling,Stem Borer,0.377,Low
+24.6,74.9,96.0,Vegetative,Stem Borer,0.75,High
+30.9,69.8,54.0,Ripening,Rice Bug,1.0,High
+21.7,53.6,51.4,Ripening,Rice Blast Risk,0.616,Medium
+36.8,40.3,43.4,Ripening,Rice Bug,0.754,High
+24.0,97.1,46.3,Ripening,Rice Blast Risk,1.0,High
+23.1,70.9,62.4,Seedling,Rice Blast Risk,0.536,Medium
+32.2,77.5,12.8,Tillering,Leaf Folder,0.713,High
+31.1,67.2,51.0,Tillering,Stem Borer,0.785,High
+27.0,86.5,78.2,Seedling,Rice Blast Risk,0.975,High
+30.6,92.7,59.8,Ripening,Rice Bug,1.0,High
+21.2,56.8,19.9,Flowering,Rice Bug,0.456,Medium
+31.5,78.3,43.6,Ripening,Rice Bug,0.897,High
+23.4,46.1,53.2,Vegetative,Rice Blast Risk,0.56,Medium
+23.5,75.6,80.3,Flowering,Rice Bug,0.769,High
+21.2,57.9,108.1,Seedling,Rice Blast Risk,0.544,Medium
+24.6,30.5,66.0,Seedling,Rice Blast Risk,0.475,Medium
+24.6,96.9,81.2,Flowering,Rice Blast Risk,1.0,High
+27.1,90.8,9.3,Seedling,Rice Blast Risk,0.813,High
+21.8,50.4,114.5,Vegetative,Rice Blast Risk,0.506,Medium
+21.9,99.8,37.8,Flowering,Rice Blast Risk,0.932,High
+28.8,52.2,42.5,Tillering,Stem Borer,0.687,High
+20.6,62.1,26.7,Vegetative,Stem Borer,0.433,Medium
+31.8,89.6,10.2,Vegetative,Stem Borer,0.921,High
+36.9,51.3,94.8,Flowering,Rice Bug,0.706,High
+26.5,61.5,28.9,Ripening,Rice Bug,0.507,Medium
+36.0,76.6,33.9,Flowering,Rice Bug,1.0,High
+20.0,39.1,21.8,Vegetative,Stem Borer,0.341,Low
+18.9,59.6,117.0,Tillering,Stem Borer,0.403,Low
+32.4,51.7,93.7,Seedling,Rice Bug,0.317,Low
+33.2,77.4,111.6,Seedling,Rice Bug,0.436,Medium
+34.9,39.5,103.4,Vegetative,Stem Borer,0.458,Medium
+19.1,46.3,108.8,Vegetative,Stem Borer,0.481,Medium
+33.5,79.8,57.5,Ripening,Rice Bug,0.989,High
+25.5,40.9,20.5,Ripening,Rice Bug,0.483,Medium
+24.1,59.5,39.2,Seedling,Rice Blast Risk,0.602,Medium
+21.5,79.9,35.1,Vegetative,Stem Borer,0.691,High
+37.9,83.6,86.1,Seedling,Rice Bug,0.382,Low
+19.3,36.6,3.1,Seedling,Brown Planthopper,0.095,Low
+34.5,89.6,17.0,Vegetative,Brown Planthopper,0.724,High
+30.8,80.7,81.9,Ripening,Rice Bug,1.0,High
+32.7,53.8,14.8,Seedling,Rice Bug,0.206,Low
+32.2,83.5,5.8,Flowering,Rice Bug,0.987,High
+35.2,81.0,13.1,Vegetative,Brown Planthopper,0.749,High
+21.7,72.1,82.9,Tillering,Stem Borer,0.697,High
+18.0,69.1,16.7,Ripening,Rice Bug,0.674,Medium
+30.0,81.4,17.6,Ripening,Rice Bug,1.0,High
+25.1,99.9,27.6,Ripening,Rice Blast Risk,0.789,High
+20.5,70.5,90.1,Tillering,Stem Borer,0.755,High
+21.7,86.6,24.0,Seedling,Rice Blast Risk,0.73,High
+24.6,82.1,4.2,Ripening,Rice Bug,0.744,High
+19.4,89.9,108.7,Ripening,Rice Bug,0.775,High
+19.1,96.8,105.2,Ripening,Rice Bug,0.746,High
+36.3,43.5,22.2,Tillering,Stem Borer,0.341,Low
+24.2,41.6,31.8,Vegetative,Leaf Folder,0.531,Medium
+37.6,71.0,22.6,Seedling,Rice Bug,0.576,Medium
+37.3,61.5,86.3,Vegetative,Stem Borer,0.412,Low
+20.9,70.0,30.0,Vegetative,Rice Blast Risk,0.608,Medium
+32.3,85.9,111.8,Vegetative,Stem Borer,0.746,High
+30.0,95.2,99.3,Ripening,Rice Bug,1.0,High
+31.8,59.2,70.6,Flowering,Rice Bug,0.734,High
+19.9,80.3,1.1,Vegetative,Brown Planthopper,0.724,High
+21.8,43.8,106.0,Flowering,Rice Blast Risk,0.622,Medium
+19.5,67.4,87.3,Flowering,Rice Bug,0.754,High
+30.1,31.5,94.5,Tillering,Stem Borer,0.795,High
+37.7,65.3,8.6,Ripening,Rice Bug,0.925,High
+31.4,68.2,85.0,Ripening,Rice Bug,0.92,High
+32.2,81.5,96.6,Tillering,Stem Borer,0.749,High
+37.7,75.5,114.8,Tillering,Stem Borer,0.659,Medium
+31.6,55.1,69.7,Vegetative,Stem Borer,0.802,High
+18.8,30.4,61.0,Flowering,Rice Bug,0.567,Medium
+35.3,38.1,51.0,Ripening,Rice Bug,0.829,High
+25.3,98.1,84.2,Flowering,Rice Blast Risk,1.0,High
+18.1,94.6,110.5,Vegetative,Stem Borer,0.654,Medium
+28.1,52.8,72.0,Tillering,Stem Borer,0.617,Medium
+36.7,48.1,27.3,Flowering,Rice Bug,0.825,High
+23.1,60.5,2.1,Seedling,Rice Blast Risk,0.275,Low
+27.8,78.3,74.3,Tillering,Leaf Folder,1.0,High
+21.5,55.0,103.8,Flowering,Rice Blast Risk,0.583,Medium
+19.2,34.7,7.9,Tillering,Leaf Folder,0.346,Low
+19.6,58.2,47.7,Flowering,Rice Bug,0.522,Medium
+32.5,48.2,112.8,Ripening,Rice Bug,0.773,High
+35.3,52.7,60.2,Seedling,Rice Bug,0.24,Low
+20.9,41.4,26.5,Tillering,Stem Borer,0.471,Medium
+23.8,76.1,42.4,Flowering,Rice Bug,0.82,High
+21.9,66.9,49.0,Ripening,Rice Bug,0.758,High
+18.5,49.0,14.1,Tillering,Leaf Folder,0.32,Low
+29.1,68.8,79.3,Ripening,Rice Bug,1.0,High
+32.0,64.5,71.1,Vegetative,Stem Borer,0.599,Medium
+31.0,85.7,77.7,Tillering,Stem Borer,1.0,High
+25.8,96.9,73.3,Ripening,Rice Blast Risk,1.0,High
+29.1,39.1,2.0,Tillering,Leaf Folder,0.609,Medium
+19.9,91.9,20.9,Vegetative,Brown Planthopper,0.749,High
+21.1,79.3,19.9,Tillering,Leaf Folder,0.699,High
+36.6,78.5,11.8,Flowering,Rice Bug,0.973,High
+33.2,56.2,88.3,Ripening,Rice Bug,0.798,High
+36.5,54.1,14.4,Flowering,Rice Bug,0.696,High
+36.3,30.4,80.2,Seedling,Rice Bug,0.293,Low
+31.0,98.8,21.4,Seedling,Stem Borer,0.601,Medium
+36.6,72.5,14.2,Ripening,Rice Bug,1.0,High
+26.3,58.2,19.5,Tillering,Leaf Folder,0.652,Medium
+18.1,68.1,61.0,Vegetative,Stem Borer,0.373,Low
+19.3,32.8,77.5,Vegetative,Stem Borer,0.419,Low
+20.2,42.2,97.4,Seedling,Rice Blast Risk,0.546,Medium
+19.9,73.6,15.4,Seedling,Stem Borer,0.353,Low
+25.0,66.0,73.9,Flowering,Rice Bug,0.778,High
+32.0,85.1,92.9,Flowering,Rice Bug,1.0,High
+33.8,76.1,37.5,Tillering,Stem Borer,0.715,High
+29.8,72.1,9.6,Seedling,Stem Borer,0.576,Medium
+20.9,87.1,18.7,Flowering,Rice Blast Risk,0.785,High
+33.0,34.8,11.0,Ripening,Rice Bug,0.762,High
+25.1,78.4,106.5,Ripening,Rice Bug,0.741,High
+18.3,80.1,45.2,Vegetative,Stem Borer,0.756,High
+23.6,49.3,62.8,Flowering,Rice Blast Risk,0.555,Medium
+24.6,43.7,92.2,Vegetative,Leaf Folder,0.669,Medium
+23.5,45.0,44.6,Ripening,Rice Blast Risk,0.48,Medium
+34.2,43.9,77.9,Ripening,Rice Bug,0.797,High
+33.2,66.7,9.2,Vegetative,Rice Bug,0.471,Medium
+31.9,39.5,57.7,Tillering,Stem Borer,0.648,Medium
+20.8,76.2,11.6,Vegetative,Leaf Folder,0.782,High
+34.2,37.4,29.8,Flowering,Rice Bug,0.785,High
+31.5,31.9,35.2,Vegetative,Stem Borer,0.749,High
+21.9,52.4,86.1,Flowering,Rice Blast Risk,0.573,Medium
+31.0,43.4,80.9,Ripening,Rice Bug,0.745,High
+27.7,99.2,89.6,Ripening,Rice Bug,0.986,High
+26.8,51.2,7.4,Seedling,Brown Planthopper,0.439,Medium
+20.2,45.5,119.3,Seedling,Rice Blast Risk,0.607,Medium
+28.4,43.8,6.5,Ripening,Rice Bug,0.747,High
+20.0,56.2,99.1,Seedling,Rice Blast Risk,0.304,Low
+21.3,72.4,88.8,Tillering,Stem Borer,0.69,High
+20.7,84.7,71.0,Ripening,Rice Bug,0.68,High
+37.1,55.5,52.7,Tillering,Stem Borer,0.314,Low
+23.7,73.8,90.9,Seedling,Rice Blast Risk,0.466,Medium
+25.1,63.7,88.8,Ripening,Rice Blast Risk,0.529,Medium
+24.4,89.3,16.5,Flowering,Rice Blast Risk,0.788,High
+36.0,69.8,95.1,Vegetative,Rice Bug,0.534,Medium
+29.3,50.3,9.4,Flowering,Rice Bug,0.749,High
+36.4,79.3,60.1,Flowering,Rice Bug,1.0,High
+24.0,87.4,77.4,Tillering,Rice Blast Risk,1.0,High
+20.3,62.6,98.6,Ripening,Rice Blast Risk,0.551,Medium
+29.1,99.1,55.6,Flowering,Rice Bug,0.971,High
+24.9,91.5,28.4,Vegetative,Leaf Folder,1.0,High
+34.0,43.8,58.9,Ripening,Rice Bug,0.673,Medium
+35.6,85.1,30.0,Ripening,Rice Bug,1.0,High
+27.5,72.1,63.4,Seedling,Stem Borer,0.691,High
+37.4,67.4,55.5,Vegetative,Rice Bug,0.539,Medium
+29.1,66.0,93.7,Flowering,Rice Bug,0.999,High
+23.4,89.7,28.8,Ripening,Rice Blast Risk,0.8,High
+27.8,72.8,24.0,Flowering,Rice Bug,0.987,High
+18.7,67.6,56.9,Tillering,Stem Borer,0.47,Medium
+34.1,33.4,6.1,Vegetative,Leaf Folder,0.35,Low
+20.0,61.4,27.5,Seedling,Rice Blast Risk,0.448,Medium
+24.2,93.6,42.4,Ripening,Rice Blast Risk,1.0,High
+29.3,79.8,58.5,Tillering,Leaf Folder,1.0,High
+18.9,33.6,32.3,Tillering,Stem Borer,0.393,Low
+19.6,91.9,67.3,Ripening,Rice Bug,0.778,High
+31.9,87.9,105.4,Seedling,Stem Borer,0.671,Medium
+19.4,68.3,65.2,Vegetative,Stem Borer,0.407,Low
+27.5,31.6,34.4,Ripening,Rice Bug,0.75,High
+24.8,69.4,7.4,Vegetative,Leaf Folder,0.666,Medium
+22.6,33.8,16.4,Ripening,Rice Bug,0.518,Medium
+21.8,52.4,67.3,Ripening,Rice Blast Risk,0.57,Medium
+33.3,74.0,82.0,Seedling,Rice Bug,0.505,Medium
+37.0,93.9,6.0,Tillering,Brown Planthopper,0.778,High
+20.8,55.0,22.3,Flowering,Rice Bug,0.521,Medium
+37.2,90.2,38.3,Tillering,Brown Planthopper,0.83,High
+29.9,94.3,38.4,Vegetative,Leaf Folder,1.0,High
+30.8,31.5,115.0,Seedling,Stem Borer,0.448,Medium
+32.2,46.8,24.5,Seedling,Rice Bug,0.214,Low
+32.1,79.7,7.5,Seedling,Rice Bug,0.57,Medium
+34.4,83.0,42.4,Vegetative,Stem Borer,0.665,Medium
+27.7,57.5,16.1,Vegetative,Leaf Folder,0.673,Medium
+28.7,76.0,15.2,Ripening,Rice Bug,0.987,High
+24.5,72.9,48.9,Tillering,Stem Borer,0.723,High
+20.1,81.8,36.8,Seedling,Rice Blast Risk,0.538,Medium
+31.3,80.3,11.0,Seedling,Stem Borer,0.561,Medium
+18.7,36.0,72.5,Seedling,Rice Blast Risk,0.186,Low
+23.5,41.1,60.2,Vegetative,Rice Blast Risk,0.627,Medium
+19.9,39.3,9.3,Flowering,Rice Bug,0.523,Medium
+21.8,95.3,103.5,Seedling,Rice Blast Risk,0.936,High
+30.8,93.9,34.2,Tillering,Stem Borer,1.0,High
+30.6,85.8,115.4,Tillering,Stem Borer,0.955,High
+26.4,38.2,111.8,Seedling,Rice Blast Risk,0.587,Medium
+19.8,70.2,52.1,Seedling,Stem Borer,0.428,Medium
+26.7,43.1,27.4,Vegetative,Stem Borer,0.731,High
+25.1,55.8,100.2,Seedling,Rice Blast Risk,0.643,Medium
+32.4,48.7,43.4,Flowering,Rice Bug,0.709,High
+29.6,88.0,19.6,Ripening,Rice Bug,1.0,High
+27.8,40.1,66.2,Flowering,Rice Bug,0.813,High
+27.7,75.2,58.7,Flowering,Rice Bug,0.968,High
+37.3,98.9,102.0,Flowering,Rice Bug,0.963,High
+33.1,78.1,87.5,Ripening,Rice Bug,0.986,High
+27.9,35.5,105.1,Seedling,Rice Blast Risk,0.566,Medium
+27.6,93.5,88.2,Ripening,Rice Bug,0.929,High
+18.5,75.0,77.1,Tillering,Stem Borer,0.728,High
+36.9,61.9,60.0,Tillering,Stem Borer,0.33,Low
+24.4,76.2,118.5,Flowering,Rice Bug,0.815,High
+23.1,91.5,115.1,Tillering,Rice Blast Risk,1.0,High
+38.0,63.4,101.9,Vegetative,Stem Borer,0.496,Medium
+32.4,67.2,93.0,Seedling,Rice Bug,0.533,Medium
+18.9,61.7,69.3,Seedling,Rice Blast Risk,0.185,Low
+19.2,35.1,31.2,Seedling,Rice Blast Risk,0.16,Low
+18.5,85.1,105.1,Vegetative,Stem Borer,0.712,High
+30.0,38.8,1.3,Flowering,Rice Bug,0.748,High
+19.4,57.6,27.3,Vegetative,Stem Borer,0.459,Medium
+36.7,57.1,48.4,Tillering,Stem Borer,0.354,Low
+36.7,49.6,70.3,Seedling,Rice Bug,0.351,Low
+28.9,58.2,67.3,Tillering,Stem Borer,0.764,High
+30.3,73.3,21.1,Ripening,Rice Bug,0.99,High
+23.8,51.8,12.6,Vegetative,Leaf Folder,0.44,Medium
+19.3,42.1,26.7,Tillering,Stem Borer,0.361,Low
+32.7,90.9,41.8,Ripening,Rice Bug,1.0,High
+20.0,98.0,1.7,Flowering,Rice Blast Risk,0.736,High
+19.7,62.1,83.1,Vegetative,Stem Borer,0.492,Medium
+24.2,52.9,29.7,Seedling,Rice Blast Risk,0.268,Low
+18.2,33.3,42.2,Ripening,Rice Bug,0.428,Medium
+26.7,32.6,40.2,Flowering,Rice Blast Risk,0.518,Medium
+32.2,57.5,61.4,Seedling,Rice Bug,0.316,Low
+34.0,95.1,103.2,Tillering,Stem Borer,0.748,High
+30.1,81.1,17.9,Ripening,Rice Bug,1.0,High
+34.9,54.4,40.9,Ripening,Rice Bug,0.801,High
+26.1,97.8,83.0,Seedling,Rice Blast Risk,0.994,High
+35.0,60.0,5.3,Tillering,Leaf Folder,0.371,Low
+28.1,49.4,99.6,Ripening,Rice Bug,0.833,High
+22.5,59.8,115.4,Flowering,Rice Blast Risk,0.538,Medium
+36.9,44.8,72.9,Tillering,Stem Borer,0.362,Low
+23.5,92.0,114.8,Vegetative,Rice Blast Risk,1.0,High
+18.5,55.3,49.6,Flowering,Rice Bug,0.537,Medium
+22.9,76.1,49.8,Tillering,Stem Borer,0.706,High
+25.3,57.2,12.7,Tillering,Leaf Folder,0.7,High
+25.0,93.1,4.3,Ripening,Rice Blast Risk,0.79,High
+28.5,75.0,29.3,Vegetative,Stem Borer,1.0,High
+35.7,64.2,57.4,Flowering,Rice Bug,0.769,High
+23.8,39.3,60.9,Seedling,Rice Blast Risk,0.564,Medium
+28.4,93.1,26.1,Flowering,Rice Bug,1.0,High
+24.8,68.3,73.5,Tillering,Leaf Folder,0.668,Medium
+34.4,50.0,21.7,Ripening,Rice Bug,0.735,High
+21.2,91.5,39.1,Vegetative,Rice Blast Risk,1.0,High
+20.1,33.8,23.5,Ripening,Rice Bug,0.55,Medium
+28.1,52.0,83.6,Tillering,Stem Borer,0.739,High
+31.4,67.6,62.0,Vegetative,Stem Borer,0.736,High
+33.9,53.8,88.3,Seedling,Rice Bug,0.175,Low
+29.8,63.4,6.9,Seedling,Brown Planthopper,0.275,Low
+33.5,48.5,51.0,Vegetative,Stem Borer,0.464,Medium
+25.9,39.1,116.0,Tillering,Leaf Folder,0.672,Medium
+18.7,32.6,6.4,Ripening,Rice Bug,0.499,Medium
+20.3,41.0,50.2,Ripening,Rice Blast Risk,0.585,Medium
+18.8,96.7,4.8,Flowering,Rice Bug,0.846,High
+24.6,70.3,17.6,Tillering,Leaf Folder,0.721,High
+27.9,64.2,55.5,Flowering,Rice Bug,0.798,High
+25.1,56.9,18.9,Vegetative,Leaf Folder,0.606,Medium
+29.2,79.6,62.3,Vegetative,Leaf Folder,0.962,High
+27.6,39.9,110.7,Tillering,Stem Borer,0.581,Medium
+31.6,49.3,24.0,Ripening,Rice Bug,0.782,High
+31.3,75.9,12.9,Seedling,Stem Borer,0.655,Medium
+24.4,63.5,99.0,Seedling,Rice Blast Risk,0.61,Medium
+24.9,83.9,55.2,Seedling,Leaf Folder,0.684,High
+29.7,92.8,105.9,Vegetative,Leaf Folder,0.992,High
+29.9,87.6,36.7,Seedling,Brown Planthopper,0.772,High
+24.3,42.9,75.3,Seedling,Rice Blast Risk,0.509,Medium
+24.6,36.4,110.8,Seedling,Rice Blast Risk,0.542,Medium
+31.9,41.9,20.6,Vegetative,Stem Borer,0.651,Medium
+30.9,84.8,96.1,Flowering,Rice Bug,1.0,High
+20.7,94.0,75.8,Seedling,Rice Blast Risk,0.935,High
+26.8,94.8,97.6,Vegetative,Leaf Folder,0.99,High
+35.9,50.9,20.5,Ripening,Rice Bug,0.653,Medium
+18.7,88.8,52.1,Seedling,Rice Blast Risk,0.665,Medium
+35.1,67.5,15.5,Ripening,Rice Bug,1.0,High
+21.3,87.6,115.2,Tillering,Rice Blast Risk,0.982,High
+28.1,68.4,7.5,Flowering,Rice Bug,0.953,High
+26.5,40.2,7.9,Vegetative,Leaf Folder,0.65,Medium
+18.2,35.5,107.8,Vegetative,Stem Borer,0.373,Low
+36.3,97.0,36.1,Vegetative,Brown Planthopper,0.693,High
+27.1,59.8,71.6,Seedling,Rice Blast Risk,0.648,Medium
+37.1,54.5,34.5,Vegetative,Stem Borer,0.409,Low
+23.7,54.9,77.9,Ripening,Rice Blast Risk,0.577,Medium
+35.3,56.5,23.1,Seedling,Rice Bug,0.227,Low
+36.4,96.1,55.1,Tillering,Stem Borer,0.661,Medium
+29.1,34.4,64.0,Flowering,Rice Bug,0.749,High
+22.1,38.3,40.0,Seedling,Rice Blast Risk,0.675,Medium
+31.7,85.3,30.2,Seedling,Stem Borer,0.686,High
+29.0,68.5,16.8,Tillering,Leaf Folder,0.668,Medium
+36.9,39.0,84.7,Vegetative,Stem Borer,0.359,Low
+26.8,32.4,20.2,Ripening,Rice Bug,0.362,Low
+23.4,45.7,35.1,Seedling,Rice Blast Risk,0.511,Medium
+20.8,48.3,40.4,Seedling,Rice Blast Risk,0.669,Medium
+32.0,31.0,54.5,Vegetative,Stem Borer,0.73,High
+37.5,45.1,84.3,Vegetative,Stem Borer,0.482,Medium
+18.6,81.7,51.4,Seedling,Brown Planthopper,0.383,Low
+32.8,89.9,104.5,Flowering,Rice Bug,0.882,High
+36.5,92.9,81.6,Vegetative,Stem Borer,0.645,Medium
+19.5,57.3,100.6,Tillering,Stem Borer,0.42,Low
+20.2,52.4,86.0,Vegetative,Rice Blast Risk,0.562,Medium
+31.8,100.0,17.8,Seedling,Stem Borer,0.599,Medium
+31.0,83.9,117.4,Seedling,Stem Borer,0.673,Medium
+19.4,67.6,94.4,Seedling,Rice Bug,0.297,Low
+34.7,47.8,68.7,Ripening,Rice Bug,0.725,High
+28.5,52.5,19.8,Vegetative,Leaf Folder,0.665,Medium
+36.1,66.1,20.7,Vegetative,Rice Bug,0.51,Medium
+35.6,67.9,73.7,Tillering,Rice Bug,0.482,Medium
+34.3,31.0,49.9,Seedling,Rice Bug,0.206,Low
+28.3,97.2,81.1,Flowering,Rice Bug,0.979,High
+23.0,70.3,44.7,Tillering,Stem Borer,0.794,High
+28.1,71.2,61.5,Flowering,Rice Bug,1.0,High
+20.0,44.8,22.6,Seedling,Rice Blast Risk,0.401,Low
+31.2,83.5,18.6,Seedling,Stem Borer,0.561,Medium
+20.7,81.6,9.1,Flowering,Rice Bug,0.678,Medium
+28.2,36.7,98.4,Vegetative,Stem Borer,0.755,High
+19.1,71.6,66.6,Seedling,Stem Borer,0.445,Medium
+24.0,76.1,113.7,Tillering,Stem Borer,0.707,High
+22.6,88.5,89.9,Tillering,Rice Blast Risk,0.981,High
+30.4,44.4,92.3,Ripening,Rice Bug,0.677,Medium
+33.7,91.4,61.1,Ripening,Rice Bug,1.0,High
+19.1,62.3,97.9,Tillering,Stem Borer,0.459,Medium
+35.0,36.8,113.0,Seedling,Rice Bug,0.216,Low
+35.2,37.4,86.6,Flowering,Rice Bug,0.712,High
+24.8,43.8,12.7,Vegetative,Leaf Folder,0.712,High
+31.2,49.8,78.1,Ripening,Rice Bug,0.718,High
+26.1,64.7,14.5,Flowering,Brown Planthopper,0.689,High
+21.1,82.4,9.3,Vegetative,Brown Planthopper,0.695,High
+28.6,43.1,83.1,Ripening,Rice Bug,0.731,High
+19.7,99.5,100.2,Tillering,Stem Borer,0.702,High
+35.6,41.3,19.1,Vegetative,Leaf Folder,0.331,Low
+36.5,72.0,8.9,Seedling,Rice Bug,0.556,Medium
+34.4,95.0,106.4,Flowering,Rice Bug,1.0,High
+29.3,88.3,15.9,Vegetative,Leaf Folder,1.0,High
+29.2,75.4,4.2,Seedling,Leaf Folder,0.659,Medium
+37.7,80.1,86.5,Seedling,Rice Bug,0.477,Medium
+23.0,39.4,101.7,Flowering,Rice Blast Risk,0.55,Medium
+19.5,30.7,61.7,Ripening,Rice Bug,0.479,Medium
+29.2,60.4,64.8,Vegetative,Stem Borer,0.773,High
+24.6,36.3,40.4,Vegetative,Leaf Folder,0.7,High
+24.4,55.0,28.6,Flowering,Rice Bug,0.495,Medium
+18.1,45.7,90.6,Seedling,Rice Blast Risk,0.154,Low
+29.9,94.1,101.9,Seedling,Brown Planthopper,0.777,High
+23.3,91.6,38.5,Flowering,Rice Blast Risk,1.0,High
+21.8,87.3,32.9,Tillering,Rice Blast Risk,0.993,High
+18.8,80.0,32.1,Seedling,Stem Borer,0.477,Medium
+25.3,40.8,6.1,Vegetative,Leaf Folder,0.625,Medium
+35.6,33.4,33.7,Seedling,Rice Bug,0.234,Low
+24.7,75.8,3.1,Flowering,Rice Bug,0.738,High
+31.6,75.0,94.6,Flowering,Rice Bug,0.934,High
+33.1,55.9,30.7,Flowering,Rice Bug,0.766,High
+24.6,63.1,82.8,Seedling,Rice Blast Risk,0.512,Medium
+34.4,64.2,65.2,Ripening,Rice Bug,0.721,High
+31.8,46.8,100.5,Vegetative,Stem Borer,0.665,Medium
+29.2,52.0,115.2,Ripening,Rice Bug,0.721,High
+18.0,59.3,44.1,Ripening,Rice Bug,0.458,Medium
+18.7,72.2,10.6,Tillering,Stem Borer,0.612,Medium
+37.8,96.9,90.0,Flowering,Rice Bug,0.992,High
+33.6,67.7,2.6,Flowering,Rice Bug,1.0,High
+36.8,81.2,26.8,Flowering,Rice Bug,1.0,High
+36.0,86.5,6.4,Seedling,Brown Planthopper,0.492,Medium
+18.4,37.9,107.8,Seedling,Rice Blast Risk,0.23,Low
+33.8,75.7,0.6,Ripening,Rice Bug,1.0,High
+27.0,63.7,59.1,Flowering,Rice Bug,0.747,High
+33.8,70.1,50.9,Flowering,Rice Bug,1.0,High
+18.1,32.7,78.3,Vegetative,Stem Borer,0.401,Low
+23.8,93.4,34.8,Tillering,Rice Blast Risk,1.0,High
+33.0,96.7,104.8,Vegetative,Stem Borer,0.671,Medium
+33.9,30.2,88.1,Tillering,Stem Borer,0.375,Low
+30.4,44.9,51.9,Flowering,Rice Bug,0.751,High
+24.0,42.6,43.0,Flowering,Rice Blast Risk,0.451,Medium
+24.2,84.7,97.9,Vegetative,Leaf Folder,1.0,High
+37.3,71.9,90.8,Ripening,Rice Bug,1.0,High
+26.8,42.4,47.9,Seedling,Rice Blast Risk,0.559,Medium
+26.9,87.0,41.0,Ripening,Rice Blast Risk,1.0,High
+29.0,54.7,4.7,Flowering,Rice Bug,0.804,High
+26.2,62.3,9.8,Tillering,Leaf Folder,0.584,Medium
+29.1,57.1,6.5,Vegetative,Leaf Folder,0.696,High
+26.6,66.5,2.9,Vegetative,Leaf Folder,0.629,Medium
+34.5,63.6,18.3,Vegetative,Leaf Folder,0.465,Medium
+36.2,49.2,102.9,Ripening,Rice Bug,0.741,High
+36.6,59.7,95.8,Seedling,Rice Bug,0.295,Low
+29.3,93.6,101.5,Flowering,Rice Bug,0.991,High
+26.8,65.2,74.9,Ripening,Rice Bug,0.86,High
+32.1,94.1,74.9,Tillering,Stem Borer,0.674,Medium
+34.8,68.5,14.9,Flowering,Rice Bug,1.0,High
+29.3,83.8,83.9,Tillering,Leaf Folder,1.0,High
+32.0,50.6,33.6,Tillering,Stem Borer,0.72,High
+33.0,85.3,62.3,Flowering,Rice Bug,1.0,High
+31.5,48.5,114.6,Ripening,Rice Bug,0.717,High
+32.9,31.4,104.5,Flowering,Rice Bug,0.621,Medium
+22.2,41.3,28.0,Ripening,Rice Bug,0.554,Medium
+28.0,31.5,88.4,Tillering,Stem Borer,0.676,Medium
+29.8,96.3,12.5,Flowering,Rice Bug,1.0,High
+18.0,100.0,3.2,Ripening,Rice Bug,0.768,High
+35.1,83.4,3.4,Vegetative,Brown Planthopper,0.76,High
+30.2,37.6,20.4,Ripening,Rice Bug,0.79,High
+20.6,92.9,83.4,Flowering,Rice Blast Risk,0.877,High
+34.3,82.1,43.6,Tillering,Stem Borer,0.731,High
+32.3,53.3,1.9,Flowering,Rice Bug,0.733,High
+33.2,65.2,118.6,Seedling,Rice Bug,0.558,Medium
+25.8,76.3,64.0,Flowering,Rice Bug,0.78,High
+35.1,31.7,47.3,Tillering,Stem Borer,0.43,Medium
+26.3,65.1,62.3,Ripening,Rice Bug,0.736,High
+29.4,81.3,62.4,Flowering,Rice Bug,0.954,High
+18.0,43.2,56.4,Tillering,Stem Borer,0.378,Low
+30.9,61.1,73.6,Tillering,Stem Borer,0.61,Medium
+32.4,67.3,106.3,Tillering,Rice Bug,0.47,Medium
+29.3,81.5,36.2,Ripening,Rice Bug,0.927,High
+27.9,97.5,58.4,Flowering,Rice Bug,0.928,High
+34.2,89.4,0.4,Seedling,Brown Planthopper,0.506,Medium
+31.6,73.5,103.2,Tillering,Stem Borer,1.0,High
+23.6,70.9,36.7,Vegetative,Stem Borer,0.698,High
+37.2,72.2,32.6,Seedling,Rice Bug,0.475,Medium
+32.1,68.2,119.7,Ripening,Rice Bug,0.953,High
+37.8,34.2,70.1,Ripening,Rice Bug,0.734,High
+37.4,78.9,14.8,Ripening,Rice Bug,0.959,High
+36.4,80.1,31.9,Vegetative,Brown Planthopper,0.697,High
+33.1,65.9,42.4,Tillering,Rice Bug,0.424,Medium
+30.2,90.9,118.3,Flowering,Rice Bug,1.0,High
+21.4,77.1,51.7,Seedling,Rice Blast Risk,0.522,Medium
+28.9,55.4,27.6,Seedling,Brown Planthopper,0.419,Low
+33.3,31.4,68.4,Tillering,Stem Borer,0.444,Medium
+28.4,34.1,48.6,Flowering,Rice Bug,0.766,High
+35.4,54.6,6.6,Tillering,Leaf Folder,0.39,Low
+20.2,62.3,103.3,Vegetative,Rice Blast Risk,0.447,Medium
+25.6,41.7,1.9,Tillering,Leaf Folder,0.625,Medium
+28.1,43.3,107.8,Ripening,Rice Bug,0.805,High
+26.6,46.1,95.0,Vegetative,Stem Borer,0.725,High
+20.2,84.6,9.1,Tillering,Brown Planthopper,0.792,High
+21.1,84.0,86.8,Vegetative,Stem Borer,0.785,High
+34.8,56.8,92.5,Vegetative,Stem Borer,0.415,Low
+27.7,42.1,72.3,Flowering,Rice Bug,0.737,High
+19.0,37.8,69.3,Vegetative,Stem Borer,0.352,Low
+18.3,36.1,6.0,Flowering,Rice Bug,0.476,Medium
+27.5,57.4,7.1,Seedling,Brown Planthopper,0.38,Low
+21.3,33.2,87.3,Flowering,Rice Blast Risk,0.52,Medium
+32.1,53.4,12.7,Seedling,Rice Bug,0.204,Low
+33.9,97.3,29.0,Vegetative,Brown Planthopper,0.72,High
+22.6,65.5,59.9,Ripening,Rice Bug,0.835,High
+29.8,87.6,19.7,Vegetative,Leaf Folder,1.0,High
+21.1,39.0,94.8,Flowering,Rice Blast Risk,0.534,Medium
+24.1,48.8,96.9,Vegetative,Leaf Folder,0.701,High
+35.8,96.3,101.1,Ripening,Rice Bug,1.0,High
+28.9,56.8,5.9,Ripening,Rice Bug,0.748,High
+35.7,75.4,51.3,Ripening,Rice Bug,0.995,High
+22.5,98.3,101.6,Vegetative,Rice Blast Risk,0.99,High
+24.6,68.6,43.6,Vegetative,Leaf Folder,0.683,High
+27.4,51.4,83.5,Flowering,Rice Bug,0.757,High
+27.6,67.2,70.7,Ripening,Rice Bug,0.964,High
+38.0,33.8,41.7,Tillering,Stem Borer,0.361,Low
+20.3,37.9,33.2,Flowering,Rice Blast Risk,0.565,Medium
+35.0,30.5,78.3,Ripening,Rice Bug,0.771,High
+35.3,91.9,16.0,Flowering,Rice Bug,0.984,High
+29.1,77.0,103.2,Vegetative,Leaf Folder,0.943,High
+24.9,50.9,69.2,Vegetative,Leaf Folder,0.713,High
+28.4,45.5,13.4,Tillering,Leaf Folder,0.702,High
+23.8,77.8,84.4,Tillering,Stem Borer,0.601,Medium
+34.0,94.4,51.7,Ripening,Rice Bug,1.0,High
+28.0,50.9,24.5,Vegetative,Stem Borer,0.69,High
+36.5,52.5,115.3,Seedling,Rice Bug,0.259,Low
+30.5,89.8,86.4,Vegetative,Stem Borer,1.0,High
+28.3,92.5,71.2,Tillering,Leaf Folder,1.0,High
+32.2,94.0,101.9,Vegetative,Stem Borer,0.75,High
+28.1,50.5,65.3,Vegetative,Stem Borer,0.712,High
+36.1,38.4,53.0,Vegetative,Stem Borer,0.331,Low
+21.7,60.8,22.7,Ripening,Rice Bug,0.399,Low
+37.5,50.7,18.4,Tillering,Leaf Folder,0.394,Low
+34.2,91.9,51.8,Flowering,Rice Bug,1.0,High
+35.2,32.6,54.7,Tillering,Stem Borer,0.359,Low
+27.7,74.4,88.0,Seedling,Stem Borer,0.687,High
+34.7,93.4,53.1,Vegetative,Stem Borer,0.672,Medium
+24.1,98.4,71.2,Ripening,Rice Blast Risk,0.971,High
+33.2,75.5,99.9,Tillering,Stem Borer,0.754,High
+20.8,96.5,119.2,Flowering,Rice Blast Risk,1.0,High
+24.1,35.3,38.7,Flowering,Rice Blast Risk,0.539,Medium
+26.9,55.1,108.2,Tillering,Stem Borer,0.833,High
+24.4,30.6,96.7,Tillering,Leaf Folder,0.578,Medium
+25.7,98.7,8.2,Vegetative,Leaf Folder,1.0,High
+34.4,93.2,40.1,Vegetative,Stem Borer,0.648,Medium
+23.1,32.0,26.3,Seedling,Rice Blast Risk,0.342,Low
+32.9,31.3,79.7,Vegetative,Stem Borer,0.407,Low
+19.5,55.7,66.6,Flowering,Rice Bug,0.542,Medium
+33.3,48.1,59.4,Ripening,Rice Bug,0.737,High
+33.8,89.3,91.6,Tillering,Stem Borer,0.682,High
+26.0,41.2,40.0,Flowering,Brown Planthopper,0.586,Medium
+32.4,85.3,45.9,Ripening,Rice Bug,0.946,High
+36.3,68.8,103.9,Flowering,Rice Bug,1.0,High
+34.0,56.4,116.7,Vegetative,Stem Borer,0.414,Low
+25.8,40.2,93.2,Vegetative,Leaf Folder,0.672,Medium
+27.7,99.8,26.0,Flowering,Rice Bug,0.997,High
+33.6,73.3,13.5,Vegetative,Stem Borer,0.59,Medium
+23.9,60.8,25.1,Vegetative,Stem Borer,0.459,Medium
+34.1,56.0,50.7,Tillering,Stem Borer,0.451,Medium
+24.6,93.4,28.4,Flowering,Rice Blast Risk,0.871,High
+34.1,87.5,108.1,Vegetative,Stem Borer,0.719,High
+19.7,86.8,80.5,Seedling,Rice Blast Risk,0.718,High
+18.9,73.1,50.0,Flowering,Rice Bug,0.729,High
+38.0,92.2,32.9,Vegetative,Brown Planthopper,0.69,High
+35.4,50.9,45.7,Flowering,Rice Bug,0.81,High
+35.7,79.3,57.1,Seedling,Rice Bug,0.542,Medium
+37.0,58.3,85.7,Vegetative,Stem Borer,0.385,Low
+26.8,72.0,10.7,Flowering,Rice Bug,0.698,High
+23.7,99.9,101.9,Seedling,Rice Blast Risk,0.99,High
+20.6,98.9,15.3,Vegetative,Rice Blast Risk,0.766,High
+28.0,65.9,31.5,Flowering,Rice Bug,1.0,High
+22.4,70.2,119.2,Flowering,Rice Bug,0.788,High
+36.7,92.8,22.8,Vegetative,Brown Planthopper,0.662,Medium
+18.1,99.0,12.1,Seedling,Brown Planthopper,0.448,Medium
+20.9,84.5,76.6,Seedling,Rice Blast Risk,0.511,Medium
+22.9,34.6,47.2,Tillering,Rice Blast Risk,0.522,Medium
+22.0,52.6,11.0,Flowering,Rice Bug,0.492,Medium
+22.5,92.8,0.4,Tillering,Rice Blast Risk,0.856,High
+31.1,83.8,9.5,Tillering,Stem Borer,0.852,High
+24.6,82.0,62.7,Seedling,Leaf Folder,0.764,High
+30.3,76.8,27.7,Vegetative,Stem Borer,0.953,High
+35.8,59.1,93.3,Seedling,Rice Bug,0.18,Low
+30.1,58.2,102.9,Tillering,Stem Borer,0.784,High
+31.9,86.6,17.4,Vegetative,Stem Borer,0.966,High
+25.3,50.6,40.4,Seedling,Rice Blast Risk,0.541,Medium
+21.2,77.9,17.6,Flowering,Rice Bug,0.769,High
+24.4,80.8,34.4,Vegetative,Leaf Folder,1.0,High
+37.3,89.1,28.7,Ripening,Rice Bug,1.0,High
+30.4,52.4,94.4,Tillering,Stem Borer,0.635,Medium
+23.6,81.9,41.5,Seedling,Rice Blast Risk,0.426,Medium
+27.0,37.5,59.5,Flowering,Rice Bug,0.708,High
+34.7,39.7,80.9,Flowering,Rice Bug,0.841,High
+31.4,59.2,98.7,Ripening,Rice Bug,0.843,High
+29.2,33.9,36.1,Flowering,Rice Bug,0.737,High
+35.7,96.3,25.1,Vegetative,Brown Planthopper,0.652,Medium
+31.4,93.1,117.4,Flowering,Rice Bug,1.0,High
+30.9,33.4,38.4,Flowering,Rice Bug,0.772,High
+21.8,88.7,80.5,Tillering,Rice Blast Risk,1.0,High
+20.1,65.6,81.3,Flowering,Rice Bug,0.624,Medium
+37.3,79.1,61.7,Ripening,Rice Bug,1.0,High
+30.0,92.1,27.4,Flowering,Rice Bug,1.0,High
+26.3,70.4,17.0,Tillering,Stem Borer,0.89,High
+29.8,38.1,58.4,Tillering,Stem Borer,0.664,Medium
+19.2,30.2,61.3,Ripening,Rice Bug,0.549,Medium
+34.4,64.8,92.8,Ripening,Rice Bug,0.775,High
+22.3,96.4,85.2,Vegetative,Rice Blast Risk,1.0,High
+34.1,70.1,109.4,Seedling,Rice Bug,0.523,Medium
+28.7,56.1,116.5,Ripening,Rice Bug,0.744,High
+23.5,32.2,87.3,Vegetative,Rice Blast Risk,0.57,Medium
+18.6,94.0,9.2,Ripening,Rice Bug,0.786,High
+34.3,52.9,48.6,Seedling,Rice Bug,0.267,Low
+21.5,79.3,73.1,Ripening,Rice Bug,0.765,High
+19.0,78.6,70.8,Flowering,Rice Bug,0.82,High
+33.1,47.8,21.8,Vegetative,Stem Borer,0.32,Low
+25.0,34.5,70.0,Seedling,Rice Blast Risk,0.51,Medium
+25.8,57.0,42.0,Ripening,Rice Blast Risk,0.551,Medium
+22.9,52.2,40.7,Seedling,Rice Blast Risk,0.514,Medium
+35.2,79.0,100.1,Seedling,Rice Bug,0.48,Medium
+23.9,87.4,50.6,Flowering,Rice Blast Risk,1.0,High
+22.2,45.6,63.3,Flowering,Rice Blast Risk,0.543,Medium
+24.2,67.0,67.5,Seedling,Rice Blast Risk,0.459,Medium
+22.1,32.8,67.6,Vegetative,Rice Blast Risk,0.529,Medium
+24.4,45.0,25.6,Flowering,Rice Bug,0.503,Medium
+19.7,83.3,71.9,Flowering,Rice Bug,0.752,High
+21.2,85.5,40.2,Vegetative,Rice Blast Risk,1.0,High
+26.3,84.3,78.6,Tillering,Leaf Folder,1.0,High
+35.6,40.0,17.5,Seedling,Rice Bug,0.243,Low
+19.1,68.6,119.3,Seedling,Rice Bug,0.19,Low
+22.3,59.6,92.6,Ripening,Rice Blast Risk,0.528,Medium
+36.2,99.4,50.1,Vegetative,Stem Borer,0.669,Medium
+35.8,75.8,36.2,Ripening,Rice Bug,0.986,High
+31.6,95.5,46.5,Seedling,Stem Borer,0.735,High
+22.8,40.2,86.5,Ripening,Rice Blast Risk,0.57,Medium
+26.4,61.6,78.6,Tillering,Stem Borer,0.741,High
+22.2,84.0,84.3,Ripening,Rice Bug,0.731,High
+20.6,55.8,106.7,Ripening,Rice Blast Risk,0.625,Medium
+25.6,74.3,54.8,Vegetative,Stem Borer,0.734,High
+29.5,65.8,80.3,Flowering,Rice Bug,1.0,High
+25.2,99.4,53.0,Vegetative,Leaf Folder,1.0,High
+30.2,42.2,76.6,Flowering,Rice Bug,0.716,High
+23.9,95.5,57.0,Ripening,Rice Blast Risk,0.895,High
+24.9,58.1,93.2,Ripening,Rice Blast Risk,0.52,Medium
+33.8,62.8,0.6,Flowering,Rice Bug,0.787,High
+35.6,67.0,25.9,Vegetative,Rice Bug,0.504,Medium
+24.4,48.6,35.6,Seedling,Rice Blast Risk,0.543,Medium
+29.4,97.5,113.4,Tillering,Leaf Folder,0.958,High
+23.6,93.8,60.8,Seedling,Rice Blast Risk,0.902,High
+19.1,98.1,43.7,Tillering,Stem Borer,0.771,High
+32.8,99.8,48.5,Ripening,Rice Bug,0.99,High
+21.4,76.9,54.2,Seedling,Rice Blast Risk,0.529,Medium
+26.5,61.6,104.1,Ripening,Rice Blast Risk,0.516,Medium
+27.7,89.6,115.5,Tillering,Leaf Folder,1.0,High
+21.7,31.7,101.3,Seedling,Rice Blast Risk,0.594,Medium
+19.9,88.4,101.0,Flowering,Rice Bug,0.702,High
+25.0,64.8,23.9,Seedling,Rice Blast Risk,0.408,Low
+37.0,77.1,32.2,Flowering,Rice Bug,0.993,High
+30.3,56.2,71.5,Tillering,Stem Borer,0.669,Medium
+25.6,55.8,78.7,Flowering,Rice Blast Risk,0.535,Medium
+18.8,32.2,24.3,Vegetative,Stem Borer,0.361,Low
+30.0,59.7,89.6,Seedling,Stem Borer,0.334,Low
+19.8,58.6,24.0,Vegetative,Stem Borer,0.439,Medium
+28.9,45.7,31.6,Flowering,Rice Bug,0.739,High
+33.0,47.3,36.8,Ripening,Rice Bug,0.781,High
+26.5,70.9,101.5,Vegetative,Stem Borer,1.0,High
+24.0,52.2,87.9,Vegetative,Rice Blast Risk,0.577,Medium
+18.9,88.1,63.7,Ripening,Rice Bug,0.648,Medium
+18.5,37.8,98.4,Vegetative,Stem Borer,0.357,Low
+26.6,70.4,97.6,Vegetative,Stem Borer,1.0,High
+35.7,41.2,46.8,Ripening,Rice Bug,0.686,High
+22.9,67.0,93.8,Tillering,Rice Blast Risk,0.569,Medium
+29.5,68.7,24.7,Tillering,Stem Borer,0.63,Medium
+31.7,75.0,60.4,Tillering,Stem Borer,1.0,High
+19.2,59.9,14.2,Flowering,Rice Bug,0.58,Medium
+21.1,65.7,51.2,Vegetative,Rice Blast Risk,0.589,Medium
+24.6,42.7,62.4,Flowering,Rice Blast Risk,0.457,Medium
+31.4,62.4,9.6,Vegetative,Stem Borer,0.642,Medium
+26.8,56.1,55.5,Tillering,Stem Borer,0.791,High
+32.7,76.6,78.2,Seedling,Rice Bug,0.64,Medium
+35.4,60.4,73.7,Seedling,Rice Bug,0.274,Low
+33.2,84.6,6.5,Tillering,Brown Planthopper,0.632,Medium
+37.8,59.8,11.4,Seedling,Rice Bug,0.272,Low
+33.1,46.5,42.2,Ripening,Rice Bug,0.83,High
+35.0,49.2,101.1,Ripening,Rice Bug,0.741,High
+34.6,33.2,104.4,Vegetative,Stem Borer,0.452,Medium
+32.6,67.8,37.2,Vegetative,Rice Bug,0.458,Medium
+34.0,88.2,86.3,Tillering,Stem Borer,0.719,High
+36.7,83.8,69.3,Vegetative,Stem Borer,0.576,Medium
+27.5,60.6,118.0,Ripening,Rice Bug,0.702,High
+30.8,43.7,11.4,Seedling,Stem Borer,0.3,Low
+28.3,90.4,65.7,Tillering,Leaf Folder,0.982,High
+35.0,34.0,71.1,Seedling,Rice Bug,0.185,Low
+26.6,57.9,36.9,Ripening,Rice Blast Risk,0.525,Medium
+34.4,90.0,5.6,Seedling,Brown Planthopper,0.516,Medium
+34.0,57.5,6.3,Tillering,Leaf Folder,0.346,Low
+37.2,38.3,54.4,Ripening,Rice Bug,0.753,High
+23.0,48.6,83.1,Tillering,Rice Blast Risk,0.587,Medium
+32.2,72.0,84.0,Seedling,Rice Bug,0.483,Medium
+33.1,40.6,21.7,Seedling,Rice Bug,0.318,Low
+36.7,75.8,103.0,Flowering,Rice Bug,0.951,High
+36.1,60.7,45.3,Seedling,Rice Bug,0.346,Low
+29.5,53.4,115.7,Vegetative,Stem Borer,0.756,High
+29.6,46.9,14.2,Flowering,Rice Bug,0.732,High
+21.3,87.6,100.4,Vegetative,Rice Blast Risk,0.986,High
+37.5,57.8,109.0,Ripening,Rice Bug,0.76,High
+23.1,81.7,98.7,Flowering,Rice Bug,0.78,High
+32.5,60.8,97.1,Seedling,Rice Bug,0.305,Low
+33.9,36.4,43.4,Ripening,Rice Bug,0.683,High
+26.8,60.8,85.6,Ripening,Rice Blast Risk,0.572,Medium
+22.2,65.5,69.5,Vegetative,Rice Blast Risk,0.444,Medium
+21.8,62.0,50.9,Vegetative,Rice Blast Risk,0.541,Medium
+35.1,87.1,119.2,Vegetative,Stem Borer,0.773,High
+28.2,93.8,34.9,Tillering,Leaf Folder,0.929,High
+19.8,85.1,49.6,Tillering,Stem Borer,0.62,Medium
+32.3,70.8,108.3,Ripening,Rice Bug,1.0,High
+23.0,67.9,34.7,Flowering,Rice Bug,0.819,High
+35.5,75.1,18.3,Ripening,Rice Bug,1.0,High
+24.2,50.1,37.2,Vegetative,Leaf Folder,0.555,Medium
+22.0,86.8,91.1,Tillering,Rice Blast Risk,0.916,High
+19.7,90.0,103.2,Seedling,Rice Blast Risk,0.655,Medium
+28.2,48.7,13.7,Vegetative,Leaf Folder,0.591,Medium
+27.0,93.2,74.6,Tillering,Leaf Folder,1.0,High
+33.0,89.4,68.1,Seedling,Rice Blast Risk,0.66,Medium
+27.3,59.7,80.3,Ripening,Rice Bug,0.726,High
+24.9,93.6,80.5,Vegetative,Leaf Folder,1.0,High
+23.2,38.4,115.1,Seedling,Rice Blast Risk,0.58,Medium
+23.6,32.0,41.6,Flowering,Rice Blast Risk,0.611,Medium
+36.6,54.4,36.0,Seedling,Rice Bug,0.296,Low
+21.3,69.6,69.7,Vegetative,Rice Blast Risk,0.542,Medium
+37.8,54.6,51.5,Seedling,Rice Bug,0.24,Low
+24.5,95.9,56.9,Flowering,Rice Blast Risk,0.985,High
+19.8,47.8,8.3,Ripening,Rice Bug,0.534,Medium
+23.0,49.7,17.8,Seedling,Rice Blast Risk,0.317,Low
+19.2,74.4,112.2,Tillering,Stem Borer,0.786,High
+33.8,30.3,8.2,Tillering,Leaf Folder,0.313,Low
+28.3,80.9,70.8,Flowering,Rice Bug,1.0,High
+24.7,56.4,90.5,Vegetative,Leaf Folder,0.639,Medium
+31.2,98.4,1.4,Tillering,Stem Borer,0.877,High
+30.6,78.4,26.7,Tillering,Stem Borer,1.0,High
+36.8,33.7,45.2,Seedling,Rice Bug,0.228,Low
+37.2,36.5,60.8,Tillering,Stem Borer,0.385,Low
+31.6,36.2,41.0,Tillering,Stem Borer,0.667,Medium
+34.4,96.7,77.9,Ripening,Rice Bug,1.0,High
+33.8,77.9,27.2,Tillering,Stem Borer,0.695,High
+27.8,59.9,3.1,Ripening,Rice Bug,0.694,High
+32.1,44.0,0.2,Vegetative,Leaf Folder,0.329,Low
+19.6,91.2,41.5,Flowering,Rice Bug,0.78,High
+33.2,44.1,43.4,Ripening,Rice Bug,0.801,High
+37.2,79.5,113.8,Seedling,Rice Bug,0.501,Medium
+19.7,83.4,5.4,Tillering,Brown Planthopper,0.703,High
+34.7,50.6,63.6,Ripening,Rice Bug,0.732,High
+36.7,65.3,69.3,Tillering,Rice Bug,0.475,Medium
+22.5,45.6,83.9,Ripening,Rice Blast Risk,0.504,Medium
+28.5,56.5,76.6,Tillering,Stem Borer,0.622,Medium
+36.6,97.6,1.0,Ripening,Rice Bug,0.965,High
+37.2,78.5,75.8,Flowering,Rice Bug,1.0,High
+20.6,89.3,38.7,Tillering,Rice Blast Risk,0.979,High
+25.0,67.8,92.7,Vegetative,Leaf Folder,0.633,Medium
+32.0,46.7,22.6,Seedling,Stem Borer,0.382,Low
+22.4,79.9,85.9,Vegetative,Stem Borer,0.762,High
+24.5,65.0,75.1,Flowering,Rice Bug,0.704,High
+18.5,42.4,78.3,Tillering,Stem Borer,0.414,Low
+21.1,58.9,21.1,Vegetative,Stem Borer,0.397,Low
+29.2,74.4,80.3,Tillering,Stem Borer,1.0,High
+31.1,81.5,88.4,Vegetative,Stem Borer,1.0,High
+31.0,47.0,58.7,Ripening,Rice Bug,0.753,High
+33.6,91.3,40.8,Vegetative,Stem Borer,0.74,High
+26.3,56.6,20.0,Tillering,Leaf Folder,0.649,Medium
+23.5,49.0,34.8,Tillering,Rice Blast Risk,0.637,Medium
+18.3,43.7,91.7,Flowering,Rice Bug,0.502,Medium
+22.1,86.3,49.1,Vegetative,Rice Blast Risk,0.915,High
+24.2,54.8,84.3,Seedling,Rice Blast Risk,0.582,Medium
+21.6,63.8,88.8,Flowering,Rice Blast Risk,0.57,Medium
+18.4,45.6,80.9,Tillering,Stem Borer,0.402,Low
+21.1,78.0,80.8,Flowering,Rice Bug,0.737,High
+31.3,84.7,73.3,Tillering,Stem Borer,0.894,High
+30.6,53.8,62.2,Tillering,Stem Borer,0.603,Medium
+36.7,96.2,23.7,Ripening,Rice Bug,1.0,High
+34.0,32.1,101.1,Seedling,Rice Bug,0.221,Low
+29.4,39.3,115.7,Seedling,Stem Borer,0.448,Medium
+20.8,71.2,56.0,Ripening,Rice Bug,0.67,Medium
+29.3,79.1,112.0,Ripening,Rice Bug,0.948,High
+19.2,47.5,119.8,Tillering,Stem Borer,0.434,Medium
+26.6,68.8,58.3,Tillering,Stem Borer,0.695,High
+25.8,52.3,86.9,Tillering,Leaf Folder,0.677,Medium
+26.6,68.8,77.3,Ripening,Rice Bug,0.749,High
+23.6,76.2,28.5,Tillering,Stem Borer,0.69,High
+31.7,98.1,5.7,Flowering,Rice Bug,0.966,High
+34.8,61.9,54.4,Vegetative,Stem Borer,0.34,Low
+33.4,75.4,94.5,Vegetative,Stem Borer,0.77,High
+30.6,70.5,39.0,Flowering,Rice Bug,1.0,High
+28.8,52.2,94.1,Vegetative,Stem Borer,0.648,Medium
+18.6,47.7,78.6,Seedling,Rice Blast Risk,0.145,Low
+32.5,99.2,83.5,Seedling,Rice Blast Risk,0.633,Medium
+28.9,44.5,34.3,Ripening,Rice Bug,0.767,High
+23.4,85.3,56.4,Vegetative,Rice Blast Risk,0.991,High
+24.6,40.3,21.8,Seedling,Rice Blast Risk,0.375,Low
+36.7,86.3,29.6,Ripening,Rice Bug,0.998,High
+30.5,43.0,10.8,Ripening,Rice Bug,0.744,High
+27.5,97.7,15.2,Tillering,Leaf Folder,1.0,High
+30.4,78.0,25.3,Flowering,Rice Bug,0.974,High
+26.3,36.3,69.6,Flowering,Rice Blast Risk,0.632,Medium
+27.4,78.5,52.9,Seedling,Stem Borer,0.772,High
+23.8,72.3,32.0,Vegetative,Stem Borer,0.725,High
+26.8,53.6,103.3,Tillering,Stem Borer,0.604,Medium
+31.7,48.3,63.0,Tillering,Stem Borer,0.702,High
+18.8,80.3,110.8,Vegetative,Stem Borer,0.674,Medium
+33.9,81.9,76.2,Seedling,Rice Bug,0.501,Medium
+23.7,52.9,1.9,Ripening,Rice Bug,0.447,Medium
+31.7,91.3,109.6,Flowering,Rice Bug,1.0,High
+30.9,48.8,102.9,Flowering,Rice Bug,0.799,High
+31.1,34.9,76.2,Tillering,Stem Borer,0.759,High
+30.2,72.0,64.2,Tillering,Stem Borer,0.981,High
+37.2,37.5,54.4,Tillering,Stem Borer,0.347,Low
+28.2,49.4,57.9,Tillering,Stem Borer,0.718,High
+32.6,65.5,92.3,Flowering,Rice Bug,1.0,High
+32.1,50.0,61.6,Ripening,Rice Bug,0.753,High
+22.7,45.0,21.1,Flowering,Rice Bug,0.523,Medium
+23.7,79.2,7.0,Flowering,Rice Bug,0.738,High
+26.5,68.3,15.1,Seedling,Brown Planthopper,0.375,Low
+23.6,88.8,30.2,Tillering,Rice Blast Risk,1.0,High
+25.3,70.7,44.1,Ripening,Rice Bug,0.745,High
+25.8,63.8,107.1,Vegetative,Leaf Folder,0.67,Medium
+30.1,48.3,28.7,Tillering,Stem Borer,0.725,High
+22.4,85.4,38.4,Vegetative,Rice Blast Risk,1.0,High
+34.1,43.8,26.8,Seedling,Rice Bug,0.278,Low
+26.8,47.0,65.5,Flowering,Rice Blast Risk,0.507,Medium
+32.1,88.9,74.1,Vegetative,Stem Borer,0.654,Medium
+19.6,81.9,63.9,Tillering,Stem Borer,0.698,High
+27.4,72.9,114.2,Tillering,Stem Borer,0.999,High
+18.6,32.7,119.4,Ripening,Rice Bug,0.474,Medium
+31.5,38.9,100.5,Ripening,Rice Bug,0.762,High
+24.9,65.0,96.6,Tillering,Leaf Folder,0.695,High
+37.0,82.2,43.9,Seedling,Rice Bug,0.559,Medium
+24.5,62.5,69.6,Tillering,Leaf Folder,0.721,High
+29.3,31.2,42.2,Ripening,Rice Bug,0.684,High
+23.1,42.9,94.1,Tillering,Rice Blast Risk,0.492,Medium
+30.4,71.2,20.6,Tillering,Stem Borer,0.986,High
+27.3,78.6,26.0,Flowering,Rice Bug,1.0,High
+25.4,32.3,4.6,Tillering,Leaf Folder,0.638,Medium
+22.1,33.0,73.1,Tillering,Rice Blast Risk,0.522,Medium
+20.2,48.3,82.6,Tillering,Rice Blast Risk,0.535,Medium
+20.4,35.8,0.4,Ripening,Rice Bug,0.524,Medium
+38.0,67.9,61.3,Tillering,Rice Bug,0.434,Medium
+26.2,38.7,45.2,Vegetative,Stem Borer,0.817,High
+18.0,75.4,95.1,Tillering,Stem Borer,0.701,High
+37.1,84.4,4.7,Flowering,Rice Bug,1.0,High
+18.4,97.9,5.8,Ripening,Rice Bug,0.721,High
+26.4,96.4,74.4,Ripening,Rice Blast Risk,1.0,High
+32.3,49.1,71.0,Flowering,Rice Bug,0.755,High
+36.3,32.1,99.7,Flowering,Rice Bug,0.793,High
+32.3,53.1,71.1,Tillering,Stem Borer,0.39,Low
+27.3,79.6,113.9,Vegetative,Leaf Folder,1.0,High
+37.5,34.2,37.7,Tillering,Stem Borer,0.325,Low
+18.8,55.2,47.8,Flowering,Rice Bug,0.547,Medium
+37.7,50.9,117.3,Tillering,Stem Borer,0.406,Low
+35.0,45.4,12.9,Vegetative,Leaf Folder,0.299,Low
+36.6,79.4,95.5,Seedling,Rice Bug,0.598,Medium
+23.1,76.1,1.4,Seedling,Leaf Folder,0.442,Medium
+20.8,67.5,58.4,Tillering,Rice Blast Risk,0.446,Medium
+31.3,93.8,18.4,Flowering,Rice Bug,1.0,High
+28.3,37.2,71.9,Flowering,Rice Bug,0.785,High
+28.5,40.5,95.8,Ripening,Rice Bug,0.772,High
+36.5,56.8,4.0,Flowering,Rice Bug,0.826,High
+30.4,75.9,19.7,Seedling,Stem Borer,0.665,Medium
+24.2,70.9,41.1,Ripening,Rice Bug,0.763,High
+26.0,35.2,30.7,Ripening,Rice Blast Risk,0.664,Medium
+20.7,97.1,46.0,Ripening,Rice Blast Risk,1.0,High
+21.8,51.4,114.2,Tillering,Rice Blast Risk,0.532,Medium
+20.9,55.1,12.1,Vegetative,Leaf Folder,0.322,Low
+34.2,73.7,50.8,Ripening,Rice Bug,1.0,High
+32.1,96.2,54.9,Seedling,Rice Blast Risk,0.61,Medium
+28.6,76.4,33.6,Flowering,Rice Bug,0.98,High
+25.5,96.8,33.4,Ripening,Rice Blast Risk,0.988,High
+31.4,43.1,85.8,Ripening,Rice Bug,0.768,High
+34.3,73.3,74.1,Tillering,Stem Borer,0.69,High
+35.6,88.0,97.5,Ripening,Rice Bug,0.934,High
+28.9,65.6,48.6,Ripening,Rice Bug,1.0,High
+34.4,55.4,72.8,Ripening,Rice Bug,0.73,High
+28.2,98.9,107.2,Vegetative,Leaf Folder,1.0,High
+27.5,39.9,102.2,Flowering,Rice Bug,0.765,High
+35.3,58.8,110.4,Ripening,Rice Bug,0.813,High
+25.7,91.1,32.3,Vegetative,Leaf Folder,1.0,High
+25.9,93.0,118.3,Vegetative,Leaf Folder,1.0,High
+24.1,98.6,98.0,Vegetative,Leaf Folder,1.0,High
+28.4,91.9,95.4,Vegetative,Leaf Folder,1.0,High
+28.9,33.6,80.1,Flowering,Rice Bug,0.805,High
+31.2,95.1,118.0,Ripening,Rice Bug,1.0,High
+26.6,60.0,53.0,Seedling,Rice Blast Risk,0.537,Medium
+22.4,75.6,89.0,Vegetative,Stem Borer,0.74,High
+35.3,57.6,83.9,Ripening,Rice Bug,0.75,High
+24.9,87.0,87.9,Tillering,Leaf Folder,1.0,High
+36.5,70.3,90.2,Vegetative,Stem Borer,0.702,High
+22.1,89.2,22.9,Flowering,Rice Blast Risk,0.692,High
+29.2,43.6,41.9,Ripening,Rice Bug,0.74,High
+28.7,42.9,47.1,Vegetative,Stem Borer,0.75,High
+34.6,60.8,89.8,Tillering,Stem Borer,0.362,Low
+20.8,30.3,85.9,Flowering,Rice Blast Risk,0.596,Medium
+36.2,78.5,100.0,Ripening,Rice Bug,1.0,High
+28.6,50.7,94.6,Tillering,Stem Borer,0.69,High
+29.7,69.0,71.5,Ripening,Rice Bug,1.0,High
+28.2,34.9,16.8,Flowering,Rice Bug,0.784,High
+18.7,41.9,76.3,Tillering,Stem Borer,0.421,Medium
+27.9,73.6,106.4,Tillering,Stem Borer,1.0,High
+23.3,51.4,77.2,Flowering,Rice Blast Risk,0.56,Medium
+24.9,45.0,107.5,Seedling,Rice Blast Risk,0.468,Medium
+31.0,46.0,119.9,Vegetative,Stem Borer,0.681,High
+28.0,45.0,43.1,Vegetative,Stem Borer,0.61,Medium
+19.9,73.6,86.8,Ripening,Rice Bug,0.783,High
+19.5,41.7,64.8,Ripening,Rice Bug,0.545,Medium
+21.7,55.4,54.6,Ripening,Rice Blast Risk,0.597,Medium
+21.8,78.2,28.8,Seedling,Stem Borer,0.424,Medium
+30.2,66.0,29.5,Vegetative,Stem Borer,0.748,High
+21.6,71.8,22.2,Vegetative,Stem Borer,0.621,Medium
+35.6,47.6,75.8,Seedling,Rice Bug,0.245,Low
+22.2,95.3,17.0,Vegetative,Rice Blast Risk,0.729,High
+19.8,59.0,51.8,Tillering,Stem Borer,0.382,Low
+35.5,50.1,62.8,Ripening,Rice Bug,0.831,High
+23.9,93.3,52.6,Seedling,Rice Blast Risk,1.0,High
+26.5,75.9,102.6,Ripening,Rice Bug,0.783,High
+37.2,73.0,53.2,Ripening,Rice Bug,0.991,High
+36.9,92.1,9.9,Seedling,Brown Planthopper,0.45,Medium
+32.3,34.1,119.1,Vegetative,Stem Borer,0.409,Low
+19.4,88.6,101.4,Tillering,Stem Borer,0.756,High
+29.9,77.5,79.2,Ripening,Rice Bug,1.0,High
+37.8,55.2,90.8,Flowering,Rice Bug,0.671,Medium
+36.9,47.9,15.4,Ripening,Rice Bug,0.755,High
+20.1,37.3,91.9,Vegetative,Rice Blast Risk,0.454,Medium
+25.9,95.9,24.9,Ripening,Rice Blast Risk,0.84,High
+24.3,39.9,58.7,Ripening,Rice Blast Risk,0.515,Medium
+20.6,48.2,21.4,Tillering,Stem Borer,0.339,Low
+31.9,78.4,90.5,Seedling,Stem Borer,0.741,High
+23.5,79.7,29.5,Vegetative,Stem Borer,0.728,High
+24.9,41.3,30.4,Seedling,Rice Blast Risk,0.562,Medium
+19.8,87.0,13.1,Ripening,Rice Bug,0.86,High
+28.0,65.7,86.5,Vegetative,Stem Borer,0.732,High
+21.2,89.4,35.5,Flowering,Rice Blast Risk,0.968,High
+26.6,36.1,62.2,Vegetative,Stem Borer,0.726,High
+20.9,33.0,39.9,Ripening,Rice Blast Risk,0.536,Medium
+37.1,74.6,93.0,Flowering,Rice Bug,1.0,High
+20.9,40.5,27.2,Vegetative,Stem Borer,0.414,Low
+28.4,66.7,112.9,Tillering,Stem Borer,0.719,High
+21.9,31.0,38.6,Seedling,Rice Blast Risk,0.478,Medium
+19.5,84.6,12.5,Seedling,Brown Planthopper,0.503,Medium
+22.0,93.0,28.8,Ripening,Rice Blast Risk,0.797,High
+19.1,88.7,8.9,Ripening,Rice Bug,0.699,High
+20.8,97.1,56.2,Ripening,Rice Blast Risk,0.989,High
+27.9,93.2,30.0,Flowering,Rice Bug,1.0,High
+31.0,61.1,106.3,Vegetative,Stem Borer,0.7,High
+19.7,57.9,62.1,Seedling,Rice Blast Risk,0.129,Low
+26.8,92.7,28.0,Flowering,Brown Planthopper,0.986,High
+29.6,94.9,54.2,Vegetative,Leaf Folder,0.977,High
+22.7,98.1,23.5,Seedling,Rice Blast Risk,0.81,High
+25.4,83.8,21.4,Seedling,Brown Planthopper,0.804,High
+19.4,44.1,36.1,Tillering,Stem Borer,0.379,Low
+22.4,96.1,13.0,Ripening,Rice Blast Risk,0.777,High
+27.3,96.3,22.6,Vegetative,Leaf Folder,1.0,High
+37.8,76.6,112.6,Ripening,Rice Bug,1.0,High
+37.9,90.0,80.0,Vegetative,Stem Borer,0.714,High
+37.6,69.3,110.5,Flowering,Rice Bug,1.0,High
+26.5,96.1,30.8,Vegetative,Leaf Folder,1.0,High
+19.6,36.6,102.8,Flowering,Rice Bug,0.575,Medium
+24.5,90.5,43.5,Vegetative,Leaf Folder,1.0,High
+22.8,33.9,17.3,Flowering,Rice Bug,0.578,Medium
+18.3,53.7,96.6,Tillering,Stem Borer,0.342,Low
+19.9,39.5,7.2,Seedling,Brown Planthopper,0.132,Low
+27.1,63.5,48.6,Vegetative,Stem Borer,0.761,High
+24.8,46.3,98.3,Vegetative,Leaf Folder,0.72,High
+21.6,96.6,74.1,Tillering,Rice Blast Risk,0.961,High
